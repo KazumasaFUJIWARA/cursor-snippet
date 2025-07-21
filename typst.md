@@ -222,8 +222,8 @@
 | `;exists` | ∃ | There exists |
 | `;forall` | ∀ | For all |
 | `;nexists` | ∄ | There does not exist |
-| `;<` | ⟨ | Left angle bracket |
-| `;>` | ⟩ | Right angle bracket |
+| `.<` | ⟨ | Left angle bracket |
+| `,>` | ⟩ | Right angle bracket |
 
 ## 使用方法
 
