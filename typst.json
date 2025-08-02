@@ -645,7 +645,7 @@
 		"description": "Division symbol"
 	},
 	"Less Equal": {
-		"prefix": ";le",
+		"prefix": ";leq",
 		"body": ["≤"],
 		"description": "Less than or equal"
 	},
@@ -660,7 +660,7 @@
 		"description": "Much less than"
 	},
 	"Greater Equal": {
-		"prefix": ";ge",
+		"prefix": ";geq",
 		"body": ["≥"],
 		"description": "Greater than or equal"
 	},
