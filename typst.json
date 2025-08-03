@@ -954,13 +954,28 @@
 		"body": ["∄"],
 		"description": "There does not exist"
 	},
-		"Left Angle Bracket": {
-		"prefix": ",<",
+	"To": {
+		"prefix": ";to",
+		"body": ["→"],
+		"description": "Right arrow"
+	},
+	"To Alias": {
+		"prefix": ";->",
+		"body": ["→"],
+		"description": "Right arrow (alias)"
+	},
+	"From": {
+		"prefix": ";<-",
+		"body": ["←"],
+		"description": "Left arrow"
+	},
+	"Left Angle Bracket": {
+		"prefix": ":<",
 		"body": ["⟨"],
 		"description": "Left angle bracket"
 	},
 	"Right Angle Bracket": {
-		"prefix": ".>",
+		"prefix": ":>",
 		"body": ["⟩"],
 		"description": "Right angle bracket"
 	}

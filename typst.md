@@ -126,8 +126,9 @@
 | `;succeq` | ⪰ | Succeeds or equal | `;vee` | ∨ | Logical or |
 | `;wedge` | ∧ | Logical and | `;neg` | ¬ | Logical negation |
 | `;exists` | ∃ | There exists | `;forall` | ∀ | For all |
-| `;nexists` | ∄ | There does not exist | `,<` | ⟨ | Left angle bracket |
-| `.>` | ⟩ | Right angle bracket | | | |
+| `;nexists` | ∄ | There does not exist | `;to` | → | Right arrow |
+| `;->` | → | Right arrow (alias) | `;<-` | ← | Left arrow |
+| `:<` | ⟨ | Left angle bracket | `:>` | ⟩ | Right angle bracket |
 
 ## 使用方法
 
