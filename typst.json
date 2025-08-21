@@ -978,5 +978,30 @@
 		"prefix": ":>",
 		"body": ["⟩"],
 		"description": "Right angle bracket"
+	},
+	"Contains As Member": {
+		"prefix": ";ni",
+		"body": ["∍"],
+		"description": "Contains as member"
+	},
+	"Not Contains As Member": {
+		"prefix": ";nni",
+		"body": ["∌"],
+		"description": "Does not contain as member"
+	},
+	"Subset Of": {
+		"prefix": ";subsetof",
+		"body": ["⊆"],
+		"description": "Subset of"
+	},
+	"Superset Of": {
+		"prefix": ";supsetof",
+		"body": ["⊇"],
+		"description": "Superset of"
+	},
+	"Mapsto": {
+		"prefix": ";mapsto",
+		"body": ["↦"],
+		"description": "Maps to"
 	}
 }
