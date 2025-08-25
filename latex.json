@@ -1,0 +1,1007 @@
+{
+	"Greek Alpha": {
+		"prefix": ";alpha",
+		"body": ["α"],
+		"description": "Greek letter Alpha"
+	},
+	"Greek Beta": {
+		"prefix": ";beta",
+		"body": ["β"],
+		"description": "Greek letter Beta"
+	},
+	"Greek Gamma": {
+		"prefix": ";gamma",
+		"body": ["γ"],
+		"description": "Greek letter Gamma"
+	},
+	"Greek Delta": {
+		"prefix": ";delta",
+		"body": ["δ"],
+		"description": "Greek letter Delta"
+	},
+	"Greek Epsilon": {
+		"prefix": ";epsilon",
+		"body": ["ε"],
+		"description": "Greek letter Epsilon"
+	},
+	"Greek Zeta": {
+		"prefix": ";zeta",
+		"body": ["ζ"],
+		"description": "Greek letter Zeta"
+	},
+	"Greek Eta": {
+		"prefix": ";eta",
+		"body": ["η"],
+		"description": "Greek letter Eta"
+	},
+	"Greek Theta": {
+		"prefix": ";theta",
+		"body": ["θ"],
+		"description": "Greek letter Theta"
+	},
+	"Greek Iota": {
+		"prefix": ";iota",
+		"body": ["ι"],
+		"description": "Greek letter Iota"
+	},
+	"Greek Kappa": {
+		"prefix": ";kappa",
+		"body": ["κ"],
+		"description": "Greek letter Kappa"
+	},
+	"Greek Lambda": {
+		"prefix": ";lambda",
+		"body": ["λ"],
+		"description": "Greek letter Lambda"
+	},
+	"Greek Mu": {
+		"prefix": ";mu",
+		"body": ["μ"],
+		"description": "Greek letter Mu"
+	},
+	"Greek Nu": {
+		"prefix": ";nu",
+		"body": ["ν"],
+		"description": "Greek letter Nu"
+	},
+	"Greek Xi": {
+		"prefix": ";xi",
+		"body": ["ξ"],
+		"description": "Greek letter Xi"
+	},
+	"Greek Omicron": {
+		"prefix": ";omicron",
+		"body": ["ο"],
+		"description": "Greek letter Omicron"
+	},
+	"Greek Pi": {
+		"prefix": ";pi",
+		"body": ["π"],
+		"description": "Greek letter Pi"
+	},
+	"Greek Rho": {
+		"prefix": ";rho",
+		"body": ["ρ"],
+		"description": "Greek letter Rho"
+	},
+	"Greek Sigma": {
+		"prefix": ";sigma",
+		"body": ["σ"],
+		"description": "Greek letter Sigma"
+	},
+	"Greek Tau": {
+		"prefix": ";tau",
+		"body": ["τ"],
+		"description": "Greek letter Tau"
+	},
+	"Greek Upsilon": {
+		"prefix": ";upsilon",
+		"body": ["υ"],
+		"description": "Greek letter Upsilon"
+	},
+	"Greek Phi": {
+		"prefix": ";phi",
+		"body": ["φ"],
+		"description": "Greek letter Phi"
+	},
+	"Greek Chi": {
+		"prefix": ";chi",
+		"body": ["χ"],
+		"description": "Greek letter Chi"
+	},
+	"Greek Psi": {
+		"prefix": ";psi",
+		"body": ["ψ"],
+		"description": "Greek letter Psi"
+	},
+	"Greek Omega": {
+		"prefix": ";omega",
+		"body": ["ω"],
+		"description": "Greek letter Omega"
+	},
+	"Greek Alpha Cap": {
+		"prefix": ";Alpha",
+		"body": ["Α"],
+		"description": "Greek letter Alpha (capital)"
+	},
+	"Greek Beta Cap": {
+		"prefix": ";Beta",
+		"body": ["Β"],
+		"description": "Greek letter Beta (capital)"
+	},
+	"Greek Gamma Cap": {
+		"prefix": ";Gamma",
+		"body": ["Γ"],
+		"description": "Greek letter Gamma (capital)"
+	},
+	"Greek Delta Cap": {
+		"prefix": ";Delta",
+		"body": ["Δ"],
+		"description": "Greek letter Delta (capital)"
+	},
+	"Greek Epsilon Cap": {
+		"prefix": ";Epsilon",
+		"body": ["Ε"],
+		"description": "Greek letter Epsilon (capital)"
+	},
+	"Greek Zeta Cap": {
+		"prefix": ";Zeta",
+		"body": ["Ζ"],
+		"description": "Greek letter Zeta (capital)"
+	},
+	"Greek Eta Cap": {
+		"prefix": ";Eta",
+		"body": ["Η"],
+		"description": "Greek letter Eta (capital)"
+	},
+	"Greek Theta Cap": {
+		"prefix": ";Theta",
+		"body": ["Θ"],
+		"description": "Greek letter Theta (capital)"
+	},
+	"Greek Iota Cap": {
+		"prefix": ";Iota",
+		"body": ["Ι"],
+		"description": "Greek letter Iota (capital)"
+	},
+	"Greek Kappa Cap": {
+		"prefix": ";Kappa",
+		"body": ["Κ"],
+		"description": "Greek letter Kappa (capital)"
+	},
+	"Greek Lambda Cap": {
+		"prefix": ";Lambda",
+		"body": ["Λ"],
+		"description": "Greek letter Lambda (capital)"
+	},
+	"Greek Mu Cap": {
+		"prefix": ";Mu",
+		"body": ["Μ"],
+		"description": "Greek letter Mu (capital)"
+	},
+	"Greek Nu Cap": {
+		"prefix": ";Nu",
+		"body": ["Ν"],
+		"description": "Greek letter Nu (capital)"
+	},
+	"Greek Xi Cap": {
+		"prefix": ";Xi",
+		"body": ["Ξ"],
+		"description": "Greek letter Xi (capital)"
+	},
+	"Greek Omicron Cap": {
+		"prefix": ";Omicron",
+		"body": ["Ο"],
+		"description": "Greek letter Omicron (capital)"
+	},
+	"Greek Pi Cap": {
+		"prefix": ";Pi",
+		"body": ["Π"],
+		"description": "Greek letter Pi (capital)"
+	},
+	"Greek Rho Cap": {
+		"prefix": ";Rho",
+		"body": ["Ρ"],
+		"description": "Greek letter Rho (capital)"
+	},
+	"Greek Sigma Cap": {
+		"prefix": ";Sigma",
+		"body": ["Σ"],
+		"description": "Greek letter Sigma (capital)"
+	},
+	"Greek Tau Cap": {
+		"prefix": ";Tau",
+		"body": ["Τ"],
+		"description": "Greek letter Tau (capital)"
+	},
+	"Greek Upsilon Cap": {
+		"prefix": ";Upsilon",
+		"body": ["Υ"],
+		"description": "Greek letter Upsilon (capital)"
+	},
+	"Greek Phi Cap": {
+		"prefix": ";Phi",
+		"body": ["Φ"],
+		"description": "Greek letter Phi (capital)"
+	},
+	"Greek Chi Cap": {
+		"prefix": ";Chi",
+		"body": ["Χ"],
+		"description": "Greek letter Chi (capital)"
+	},
+	"Greek Psi Cap": {
+		"prefix": ";Psi",
+		"body": ["Ψ"],
+		"description": "Greek letter Psi (capital)"
+	},
+	"Greek Omega Cap": {
+		"prefix": ";Omega",
+		"body": ["Ω"],
+		"description": "Greek letter Omega (capital)"
+	},
+	"Blackboard A": {
+		"prefix": ";bbA",
+		"body": ["𝔸"],
+		"description": "Blackboard bold A"
+	},
+	"Blackboard B": {
+		"prefix": ";bbB",
+		"body": ["𝔹"],
+		"description": "Blackboard bold B"
+	},
+	"Blackboard C": {
+		"prefix": ";bbC",
+		"body": ["ℂ"],
+		"description": "Blackboard bold C"
+	},
+	"Blackboard D": {
+		"prefix": ";bbD",
+		"body": ["𝔻"],
+		"description": "Blackboard bold D"
+	},
+	"Blackboard E": {
+		"prefix": ";bbE",
+		"body": ["𝔼"],
+		"description": "Blackboard bold E"
+	},
+	"Blackboard F": {
+		"prefix": ";bbF",
+		"body": ["𝔽"],
+		"description": "Blackboard bold F"
+	},
+	"Blackboard G": {
+		"prefix": ";bbG",
+		"body": ["𝔾"],
+		"description": "Blackboard bold G"
+	},
+	"Blackboard H": {
+		"prefix": ";bbH",
+		"body": ["ℍ"],
+		"description": "Blackboard bold H"
+	},
+	"Blackboard I": {
+		"prefix": ";bbI",
+		"body": ["𝕀"],
+		"description": "Blackboard bold I"
+	},
+	"Blackboard J": {
+		"prefix": ";bbJ",
+		"body": ["𝕁"],
+		"description": "Blackboard bold J"
+	},
+	"Blackboard K": {
+		"prefix": ";bbK",
+		"body": ["𝕂"],
+		"description": "Blackboard bold K"
+	},
+	"Blackboard L": {
+		"prefix": ";bbL",
+		"body": ["𝕃"],
+		"description": "Blackboard bold L"
+	},
+	"Blackboard M": {
+		"prefix": ";bbM",
+		"body": ["𝕄"],
+		"description": "Blackboard bold M"
+	},
+	"Blackboard N": {
+		"prefix": ";bbN",
+		"body": ["ℕ"],
+		"description": "Blackboard bold N"
+	},
+	"Blackboard O": {
+		"prefix": ";bbO",
+		"body": ["𝕆"],
+		"description": "Blackboard bold O"
+	},
+	"Blackboard P": {
+		"prefix": ";bbP",
+		"body": ["ℙ"],
+		"description": "Blackboard bold P"
+	},
+	"Blackboard Q": {
+		"prefix": ";bbQ",
+		"body": ["ℚ"],
+		"description": "Blackboard bold Q"
+	},
+	"Blackboard R": {
+		"prefix": ";bbR",
+		"body": ["ℝ"],
+		"description": "Blackboard bold R"
+	},
+	"Blackboard S": {
+		"prefix": ";bbS",
+		"body": ["𝕊"],
+		"description": "Blackboard bold S"
+	},
+	"Blackboard T": {
+		"prefix": ";bbT",
+		"body": ["𝕋"],
+		"description": "Blackboard bold T"
+	},
+	"Blackboard U": {
+		"prefix": ";bbU",
+		"body": ["𝕌"],
+		"description": "Blackboard bold U"
+	},
+	"Blackboard V": {
+		"prefix": ";bbV",
+		"body": ["𝕍"],
+		"description": "Blackboard bold V"
+	},
+	"Blackboard W": {
+		"prefix": ";bbW",
+		"body": ["𝕎"],
+		"description": "Blackboard bold W"
+	},
+	"Blackboard X": {
+		"prefix": ";bbX",
+		"body": ["𝕏"],
+		"description": "Blackboard bold X"
+	},
+	"Blackboard Y": {
+		"prefix": ";bbY",
+		"body": ["𝕐"],
+		"description": "Blackboard bold Y"
+	},
+	"Blackboard Z": {
+		"prefix": ";bbZ",
+		"body": ["ℤ"],
+		"description": "Blackboard bold Z"
+	},
+	"Fraktur A": {
+		"prefix": ";frakA",
+		"body": ["𝔄"],
+		"description": "Fraktur A"
+	},
+	"Fraktur B": {
+		"prefix": ";frakB",
+		"body": ["𝔅"],
+		"description": "Fraktur B"
+	},
+	"Fraktur C": {
+		"prefix": ";frakC",
+		"body": ["ℭ"],
+		"description": "Fraktur C"
+	},
+	"Fraktur D": {
+		"prefix": ";frakD",
+		"body": ["𝔇"],
+		"description": "Fraktur D"
+	},
+	"Fraktur E": {
+		"prefix": ";frakE",
+		"body": ["𝔈"],
+		"description": "Fraktur E"
+	},
+	"Fraktur F": {
+		"prefix": ";frakF",
+		"body": ["𝔉"],
+		"description": "Fraktur F"
+	},
+	"Fraktur G": {
+		"prefix": ";frakG",
+		"body": ["𝔊"],
+		"description": "Fraktur G"
+	},
+	"Fraktur H": {
+		"prefix": ";frakH",
+		"body": ["ℌ"],
+		"description": "Fraktur H"
+	},
+	"Fraktur I": {
+		"prefix": ";frakI",
+		"body": ["ℑ"],
+		"description": "Fraktur I"
+	},
+	"Fraktur J": {
+		"prefix": ";frakJ",
+		"body": ["𝔍"],
+		"description": "Fraktur J"
+	},
+	"Fraktur K": {
+		"prefix": ";frakK",
+		"body": ["𝔎"],
+		"description": "Fraktur K"
+	},
+	"Fraktur L": {
+		"prefix": ";frakL",
+		"body": ["𝔏"],
+		"description": "Fraktur L"
+	},
+	"Fraktur M": {
+		"prefix": ";frakM",
+		"body": ["𝔐"],
+		"description": "Fraktur M"
+	},
+	"Fraktur N": {
+		"prefix": ";frakN",
+		"body": ["𝔑"],
+		"description": "Fraktur N"
+	},
+	"Fraktur O": {
+		"prefix": ";frakO",
+		"body": ["𝔒"],
+		"description": "Fraktur O"
+	},
+	"Fraktur P": {
+		"prefix": ";frakP",
+		"body": ["𝔓"],
+		"description": "Fraktur P"
+	},
+	"Fraktur Q": {
+		"prefix": ";frakQ",
+		"body": ["𝔔"],
+		"description": "Fraktur Q"
+	},
+	"Fraktur R": {
+		"prefix": ";frakR",
+		"body": ["ℜ"],
+		"description": "Fraktur R"
+	},
+	"Fraktur S": {
+		"prefix": ";frakS",
+		"body": ["𝔖"],
+		"description": "Fraktur S"
+	},
+	"Fraktur T": {
+		"prefix": ";frakT",
+		"body": ["𝔗"],
+		"description": "Fraktur T"
+	},
+	"Fraktur U": {
+		"prefix": ";frakU",
+		"body": ["𝔘"],
+		"description": "Fraktur U"
+	},
+	"Fraktur V": {
+		"prefix": ";frakV",
+		"body": ["𝔙"],
+		"description": "Fraktur V"
+	},
+	"Fraktur W": {
+		"prefix": ";frakW",
+		"body": ["𝔚"],
+		"description": "Fraktur W"
+	},
+	"Fraktur X": {
+		"prefix": ";frakX",
+		"body": ["𝔛"],
+		"description": "Fraktur X"
+	},
+	"Fraktur Y": {
+		"prefix": ";frakY",
+		"body": ["𝔜"],
+		"description": "Fraktur Y"
+	},
+	"Fraktur Z": {
+		"prefix": ";frakZ",
+		"body": ["ℨ"],
+		"description": "Fraktur Z"
+	},
+	"Script A": {
+		"prefix": ";scrA",
+		"body": ["𝒜"],
+		"description": "Script A"
+	},
+	"Script B": {
+		"prefix": ";scrB",
+		"body": ["ℬ"],
+		"description": "Script B"
+	},
+	"Script C": {
+		"prefix": ";scrC",
+		"body": ["𝒞"],
+		"description": "Script C"
+	},
+	"Script D": {
+		"prefix": ";scrD",
+		"body": ["𝒟"],
+		"description": "Script D"
+	},
+	"Script E": {
+		"prefix": ";scrE",
+		"body": ["ℰ"],
+		"description": "Script E"
+	},
+	"Script F": {
+		"prefix": ";scrF",
+		"body": ["ℱ"],
+		"description": "Script F"
+	},
+	"Script G": {
+		"prefix": ";scrG",
+		"body": ["𝒢"],
+		"description": "Script G"
+	},
+	"Script H": {
+		"prefix": ";scrH",
+		"body": ["ℋ"],
+		"description": "Script H"
+	},
+	"Script I": {
+		"prefix": ";scrI",
+		"body": ["ℐ"],
+		"description": "Script I"
+	},
+	"Script J": {
+		"prefix": ";scrJ",
+		"body": ["𝒥"],
+		"description": "Script J"
+	},
+	"Script K": {
+		"prefix": ";scrK",
+		"body": ["𝒦"],
+		"description": "Script K"
+	},
+	"Script L": {
+		"prefix": ";scrL",
+		"body": ["ℒ"],
+		"description": "Script L"
+	},
+	"Script M": {
+		"prefix": ";scrM",
+		"body": ["ℳ"],
+		"description": "Script M"
+	},
+	"Script N": {
+		"prefix": ";scrN",
+		"body": ["𝒩"],
+		"description": "Script N"
+	},
+	"Script O": {
+		"prefix": ";scrO",
+		"body": ["𝒪"],
+		"description": "Script O"
+	},
+	"Script P": {
+		"prefix": ";scrP",
+		"body": ["𝒫"],
+		"description": "Script P"
+	},
+	"Script Q": {
+		"prefix": ";scrQ",
+		"body": ["𝒬"],
+		"description": "Script Q"
+	},
+	"Script R": {
+		"prefix": ";scrR",
+		"body": ["ℛ"],
+		"description": "Script R"
+	},
+	"Script S": {
+		"prefix": ";scrS",
+		"body": ["𝒮"],
+		"description": "Script S"
+	},
+	"Script T": {
+		"prefix": ";scrT",
+		"body": ["𝒯"],
+		"description": "Script T"
+	},
+	"Script U": {
+		"prefix": ";scrU",
+		"body": ["𝒰"],
+		"description": "Script U"
+	},
+	"Script V": {
+		"prefix": ";scrV",
+		"body": ["𝒱"],
+		"description": "Script V"
+	},
+	"Script W": {
+		"prefix": ";scrW",
+		"body": ["𝒲"],
+		"description": "Script W"
+	},
+	"Script X": {
+		"prefix": ";scrX",
+		"body": ["𝒳"],
+		"description": "Script X"
+	},
+	"Script Y": {
+		"prefix": ";scrY",
+		"body": ["𝒴"],
+		"description": "Script Y"
+	},
+	"Script Z": {
+		"prefix": ";scrZ",
+		"body": ["𝒵"],
+		"description": "Script Z"
+	},
+	"Plus Minus": {
+		"prefix": ";pm",
+		"body": ["±"],
+		"description": "Plus-minus symbol"
+	},
+	"Times": {
+		"prefix": ";times",
+		"body": ["×"],
+		"description": "Multiplication symbol"
+	},
+	"Divide": {
+		"prefix": ";div",
+		"body": ["÷"],
+		"description": "Division symbol"
+	},
+	"Less Equal": {
+		"prefix": ";leq",
+		"body": ["≤"],
+		"description": "Less than or equal"
+	},
+	"Less Sim": {
+		"prefix": ";lesssim",
+		"body": ["≲"],
+		"description": "Less than or equivalent"
+	},
+	"Much Less": {
+		"prefix": ";ll",
+		"body": ["≪"],
+		"description": "Much less than"
+	},
+	"Greater Equal": {
+		"prefix": ";geq",
+		"body": ["≥"],
+		"description": "Greater than or equal"
+	},
+	"Greater Sim": {
+		"prefix": ";gtrsim",
+		"body": ["≳"],
+		"description": "Greater than or equivalent"
+	},
+	"Much Greater": {
+		"prefix": ";gg",
+		"body": ["≫"],
+		"description": "Much greater than"
+	},
+	"Not Equal": {
+		"prefix": ";ne",
+		"body": ["≠"],
+		"description": "Not equal"
+	},
+	"Equivalent": {
+		"prefix": ";equiv",
+		"body": ["≡"],
+		"description": "Equivalent"
+	},
+	"Approx": {
+		"prefix": ";approx",
+		"body": ["≈"],
+		"description": "Approximately equal"
+	},
+	"Infinity": {
+		"prefix": ";infty",
+		"body": ["∞"],
+		"description": "Infinity symbol"
+	},
+	"Sum": {
+		"prefix": ";sum",
+		"body": ["∑"],
+		"description": "Summation"
+	},
+	"Integral": {
+		"prefix": ";int",
+		"body": ["∫"],
+		"description": "Integral"
+	},
+	"Contour Integral": {
+		"prefix": ";oint",
+		"body": ["∮"],
+		"description": "Contour integral"
+	},
+	"Double Integral": {
+		"prefix": ";iint",
+		"body": ["∬"],
+		"description": "Double integral"
+	},
+	"Triple Integral": {
+		"prefix": ";iiint",
+		"body": ["∭"],
+		"description": "Triple integral"
+	},
+	"Square Root": {
+		"prefix": ";sqrt",
+		"body": ["√"],
+		"description": "Square root"
+	},
+	"Norm": {
+		"prefix": ";norm",
+		"body": ["‖"],
+		"description": "Norm"
+	},
+	"Partial": {
+		"prefix": ";partial",
+		"body": ["∂"],
+		"description": "Partial derivative"
+	},
+	"Nabla": {
+		"prefix": ";nabla",
+		"body": ["∇"],
+		"description": "Nabla operator"
+	},
+	"Element": {
+		"prefix": ";in",
+		"body": ["∈"],
+		"description": "Element of"
+	},
+	"Not Element": {
+		"prefix": ";nin",
+		"body": ["∉"],
+		"description": "Not element of"
+	},
+	"Subset": {
+		"prefix": ";subset",
+		"body": ["⊂"],
+		"description": "Subset"
+	},
+	"Superset": {
+		"prefix": ";supset",
+		"body": ["⊃"],
+		"description": "Superset"
+	},
+	"Union": {
+		"prefix": ";cup",
+		"body": ["∪"],
+		"description": "Union"
+	},
+	"Big Union": {
+		"prefix": ";bigcup",
+		"body": ["⋃"],
+		"description": "Big union"
+	},
+	"Intersection": {
+		"prefix": ";cap",
+		"body": ["∩"],
+		"description": "Intersection"
+	},
+	"Big Intersection": {
+		"prefix": ";bigcap",
+		"body": ["⋂"],
+		"description": "Big intersection"
+	},
+	"Empty Set": {
+		"prefix": ";emptyset",
+		"body": ["∅"],
+		"description": "Empty set"
+	},
+	"Therefore": {
+		"prefix": ";therefore",
+		"body": ["∴"],
+		"description": "Therefore"
+	},
+	"Because": {
+		"prefix": ";because",
+		"body": ["∵"],
+		"description": "Because"
+	},
+	"Implies": {
+		"prefix": ";implies",
+		"body": ["⟹"],
+		"description": "Implies"
+	},
+	"Implies Alias": {
+		"prefix": ";=>",
+		"body": ["⟹"],
+		"description": "Implies (alias)"
+	},
+	"Implied By": {
+		"prefix": ";impliedby",
+		"body": ["⟸"],
+		"description": "Implied by"
+	},
+	"Implied By Alias": {
+		"prefix": ";<=",
+		"body": ["⟸"],
+		"description": "Implied by (alias)"
+	},
+	"Iff": {
+		"prefix": ";iff",
+		"body": ["⟺"],
+		"description": "If and only if"
+	},
+	"Equivalent Alias": {
+		"prefix": ";<=>",
+		"body": ["⟺"],
+		"description": "If and only if (alias)"
+	},
+	"Center Dot": {
+		"prefix": ";cdot",
+		"body": ["⋅"],
+		"description": "Center dot (multiplication)"
+	},
+	"Compose": {
+		"prefix": ";compose",
+		"body": ["∘"],
+		"description": "Function composition"
+	},
+	"Perpendicular": {
+		"prefix": ";perp",
+		"body": ["⊥"],
+		"description": "Perpendicular"
+	},
+	"Parallel": {
+		"prefix": ";parallel",
+		"body": ["∥"],
+		"description": "Parallel"
+	},
+	"Not Parallel": {
+		"prefix": ";nparallel",
+		"body": ["∦"],
+		"description": "Not parallel"
+	},
+	"Plus": {
+		"prefix": ";oplus",
+		"body": ["⊕"],
+		"description": "Direct sum"
+	},
+	"Minus": {
+		"prefix": ";ominus",
+		"body": ["⊖"],
+		"description": "Symmetric difference"
+	},
+	"Tensor": {
+		"prefix": ";otimes",
+		"body": ["⊗"],
+		"description": "Tensor product"
+	},
+	"Slash": {
+		"prefix": ";oslash",
+		"body": ["⊘"],
+		"description": "Division"
+	},
+	"Circle Dot": {
+		"prefix": ";odot",
+		"body": ["⊙"],
+		"description": "Hadamard product"
+	},
+	"Circle": {
+		"prefix": ";circ",
+		"body": ["∘"],
+		"description": "Function composition"
+	},
+	"Bullet": {
+		"prefix": ";bullet",
+		"body": ["•"],
+		"description": "Bullet"
+	},
+	"Proportional": {
+		"prefix": ";propto",
+		"body": ["∝"],
+		"description": "Proportional to"
+	},
+	"Congruent": {
+		"prefix": ";cong",
+		"body": ["≅"],
+		"description": "Congruent"
+	},
+	"Similar": {
+		"prefix": ";sim",
+		"body": ["∼"],
+		"description": "Similar to"
+	},
+	"Not Similar": {
+		"prefix": ";nsim",
+		"body": ["≁"],
+		"description": "Not similar to"
+	},
+	"Precedes": {
+		"prefix": ";prec",
+		"body": ["≺"],
+		"description": "Precedes"
+	},
+	"Succeeds": {
+		"prefix": ";succ",
+		"body": ["≻"],
+		"description": "Succeeds"
+	},
+	"Precedes Equal": {
+		"prefix": ";preceq",
+		"body": ["⪯"],
+		"description": "Precedes or equal"
+	},
+	"Succeeds Equal": {
+		"prefix": ";succeq",
+		"body": ["⪰"],
+		"description": "Succeeds or equal"
+	},
+	"Join": {
+		"prefix": ";vee",
+		"body": ["∨"],
+		"description": "Logical or"
+	},
+	"Meet": {
+		"prefix": ";wedge",
+		"body": ["∧"],
+		"description": "Logical and"
+	},
+	"Negation": {
+		"prefix": ";neg",
+		"body": ["¬"],
+		"description": "Logical negation"
+	},
+	"Exists": {
+		"prefix": ";exists",
+		"body": ["∃"],
+		"description": "There exists"
+	},
+	"For All": {
+		"prefix": ";forall",
+		"body": ["∀"],
+		"description": "For all"
+	},
+	"Not Exists": {
+		"prefix": ";nexists",
+		"body": ["∄"],
+		"description": "There does not exist"
+	},
+	"To": {
+		"prefix": ";to",
+		"body": ["→"],
+		"description": "Right arrow"
+	},
+	"To Alias": {
+		"prefix": ";->",
+		"body": ["→"],
+		"description": "Right arrow (alias)"
+	},
+	"From": {
+		"prefix": ";<-",
+		"body": ["←"],
+		"description": "Left arrow"
+	},
+	"Left Angle Bracket": {
+		"prefix": ":<",
+		"body": ["⟨"],
+		"description": "Left angle bracket"
+	},
+	"Right Angle Bracket": {
+		"prefix": ":>",
+		"body": ["⟩"],
+		"description": "Right angle bracket"
+	},
+	"Contains As Member": {
+		"prefix": ";ni",
+		"body": ["∍"],
+		"description": "Contains as member"
+	},
+	"Not Contains As Member": {
+		"prefix": ";nni",
+		"body": ["∌"],
+		"description": "Does not contain as member"
+	},
+	"Subset Of": {
+		"prefix": ";subsetof",
+		"body": ["⊆"],
+		"description": "Subset of"
+	},
+	"Superset Of": {
+		"prefix": ";supsetof",
+		"body": ["⊇"],
+		"description": "Superset of"
+	},
+	"Mapsto": {
+		"prefix": ";mapsto",
+		"body": ["↦"],
+		"description": "Maps to"
+	}
+}
