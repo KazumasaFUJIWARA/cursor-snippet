@@ -744,11 +744,6 @@
 		"body": ["∈"],
 		"description": "Element of"
 	},
-	"Contains": {
-		"prefix": ";ni",
-		"body": ["∋"],
-		"description": "Contains"
-	},
 	"Not Element": {
 		"prefix": ";nin",
 		"body": ["∉"],
@@ -980,11 +975,6 @@
 		"description": "Left angle bracket"
 	},
 	"Right Angle Bracket": {
-		"prefix": ";rangle",
-		"body": ["⟩"],
-		"description": "Right angle bracket"
-	},
-	"Right Angle Bracket Alias": {
 		"prefix": ":>",
 		"body": ["⟩"],
 		"description": "Right angle bracket"

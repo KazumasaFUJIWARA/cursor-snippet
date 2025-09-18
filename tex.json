@@ -1,15 +1,6967 @@
 {
-	// Place your snippets for tex here. Each snippet is defined under a snippet name and has a prefix, body and 
-	// description. The prefix is what is used to trigger the snippet and the body will be expanded and inserted. Possible variables are:
-	// $1, $2 for tab stops, $0 for the final cursor position, and ${1:label}, ${2:another} for placeholders. Placeholders with the 
-	// same ids are connected.
-	// Example:
-	// "Print to console": {
-	// 	"prefix": "log",
-	// 	"body": [
-	// 		"console.log('$1');",
-	// 		"$2"
-	// 	],
-	// 	"description": "Log output to console"
-	// }
+  ";sup0": {
+    "prefix": ";sup0",
+    "body": [
+      "⁰"
+    ],
+    "description": "Superscript 0"
+  },
+  ";sup1": {
+    "prefix": ";sup1",
+    "body": [
+      "¹"
+    ],
+    "description": "Superscript 1"
+  },
+  ";sup2": {
+    "prefix": ";sup2",
+    "body": [
+      "²"
+    ],
+    "description": "Superscript 2"
+  },
+  ";sup3": {
+    "prefix": ";sup3",
+    "body": [
+      "³"
+    ],
+    "description": "Superscript 3"
+  },
+  ";sup4": {
+    "prefix": ";sup4",
+    "body": [
+      "⁴"
+    ],
+    "description": "Superscript 4"
+  },
+  ";sup5": {
+    "prefix": ";sup5",
+    "body": [
+      "⁵"
+    ],
+    "description": "Superscript 5"
+  },
+  ";sup6": {
+    "prefix": ";sup6",
+    "body": [
+      "⁶"
+    ],
+    "description": "Superscript 6"
+  },
+  ";sup7": {
+    "prefix": ";sup7",
+    "body": [
+      "⁷"
+    ],
+    "description": "Superscript 7"
+  },
+  ";sup8": {
+    "prefix": ";sup8",
+    "body": [
+      "⁸"
+    ],
+    "description": "Superscript 8"
+  },
+  ";sup9": {
+    "prefix": ";sup9",
+    "body": [
+      "⁹"
+    ],
+    "description": "Superscript 9"
+  },
+  ";sup+": {
+    "prefix": ";sup+",
+    "body": [
+      "⁺"
+    ],
+    "description": "Superscript plus"
+  },
+  ";sup-": {
+    "prefix": ";sup-",
+    "body": [
+      "⁻"
+    ],
+    "description": "Superscript minus"
+  },
+  ";sup<": {
+    "prefix": ";sup<",
+    "body": [
+      "˂"
+    ],
+    "description": "TeX symbol: ˂"
+  },
+  ";sup>": {
+    "prefix": ";sup>",
+    "body": [
+      "˃"
+    ],
+    "description": "TeX symbol: ˃"
+  },
+  ";sup/": {
+    "prefix": ";sup/",
+    "body": [
+      "ˊ"
+    ],
+    "description": "TeX symbol: ˊ"
+  },
+  ";sup^": {
+    "prefix": ";sup^",
+    "body": [
+      "˄"
+    ],
+    "description": "TeX symbol: ˄"
+  },
+  ";sup(": {
+    "prefix": ";sup(",
+    "body": [
+      "⁽"
+    ],
+    "description": "TeX symbol: ⁽"
+  },
+  ";sup)": {
+    "prefix": ";sup)",
+    "body": [
+      "⁾"
+    ],
+    "description": "TeX symbol: ⁾"
+  },
+  ";sup.": {
+    "prefix": ";sup.",
+    "body": [
+      "˙"
+    ],
+    "description": "TeX symbol: ˙"
+  },
+  ";sup=": {
+    "prefix": ";sup=",
+    "body": [
+      "˭"
+    ],
+    "description": "TeX symbol: ˭"
+  },
+  ";supa": {
+    "prefix": ";supa",
+    "body": [
+      "ᵃ"
+    ],
+    "description": "TeX symbol: ᵃ"
+  },
+  ";supb": {
+    "prefix": ";supb",
+    "body": [
+      "ᵇ"
+    ],
+    "description": "TeX symbol: ᵇ"
+  },
+  ";supc": {
+    "prefix": ";supc",
+    "body": [
+      "ᶜ"
+    ],
+    "description": "TeX symbol: ᶜ"
+  },
+  ";supd": {
+    "prefix": ";supd",
+    "body": [
+      "ᵈ"
+    ],
+    "description": "TeX symbol: ᵈ"
+  },
+  ";supe": {
+    "prefix": ";supe",
+    "body": [
+      "è"
+    ],
+    "description": "TeX symbol: è"
+  },
+  ";supf": {
+    "prefix": ";supf",
+    "body": [
+      "ᶠ"
+    ],
+    "description": "TeX symbol: ᶠ"
+  },
+  ";supg": {
+    "prefix": ";supg",
+    "body": [
+      "ᵍ"
+    ],
+    "description": "TeX symbol: ᵍ"
+  },
+  ";suph": {
+    "prefix": ";suph",
+    "body": [
+      "ʰ"
+    ],
+    "description": "TeX symbol: ʰ"
+  },
+  ";supi": {
+    "prefix": ";supi",
+    "body": [
+      "ⁱ"
+    ],
+    "description": "TeX symbol: ⁱ"
+  },
+  ";supj": {
+    "prefix": ";supj",
+    "body": [
+      "ʲ"
+    ],
+    "description": "TeX symbol: ʲ"
+  },
+  ";supk": {
+    "prefix": ";supk",
+    "body": [
+      "ᵏ"
+    ],
+    "description": "TeX symbol: ᵏ"
+  },
+  ";supl": {
+    "prefix": ";supl",
+    "body": [
+      "ˡ"
+    ],
+    "description": "TeX symbol: ˡ"
+  },
+  ";supm": {
+    "prefix": ";supm",
+    "body": [
+      "ᵐ"
+    ],
+    "description": "TeX symbol: ᵐ"
+  },
+  ";supn": {
+    "prefix": ";supn",
+    "body": [
+      "ⁿ"
+    ],
+    "description": "TeX symbol: ⁿ"
+  },
+  ";supo": {
+    "prefix": ";supo",
+    "body": [
+      "ᵒ"
+    ],
+    "description": "TeX symbol: ᵒ"
+  },
+  ";supp": {
+    "prefix": ";supp",
+    "body": [
+      "ᵖ"
+    ],
+    "description": "TeX symbol: ᵖ"
+  },
+  ";supr": {
+    "prefix": ";supr",
+    "body": [
+      "ʳ"
+    ],
+    "description": "TeX symbol: ʳ"
+  },
+  ";sups": {
+    "prefix": ";sups",
+    "body": [
+      "ˢ"
+    ],
+    "description": "TeX symbol: ˢ"
+  },
+  ";supt": {
+    "prefix": ";supt",
+    "body": [
+      "ᵗ"
+    ],
+    "description": "TeX symbol: ᵗ"
+  },
+  ";supu": {
+    "prefix": ";supu",
+    "body": [
+      "ᵘ"
+    ],
+    "description": "TeX symbol: ᵘ"
+  },
+  ";supv": {
+    "prefix": ";supv",
+    "body": [
+      "ᵛ"
+    ],
+    "description": "TeX symbol: ᵛ"
+  },
+  ";supw": {
+    "prefix": ";supw",
+    "body": [
+      "ʷ"
+    ],
+    "description": "TeX symbol: ʷ"
+  },
+  ";supx": {
+    "prefix": ";supx",
+    "body": [
+      "ˣ"
+    ],
+    "description": "TeX symbol: ˣ"
+  },
+  ";supy": {
+    "prefix": ";supy",
+    "body": [
+      "ʸ"
+    ],
+    "description": "TeX symbol: ʸ"
+  },
+  ";supz": {
+    "prefix": ";supz",
+    "body": [
+      "ᶻ"
+    ],
+    "description": "TeX symbol: ᶻ"
+  },
+  "`,": {
+    "prefix": "`,",
+    "body": [
+      "ʾ"
+    ],
+    "description": "TeX symbol: ʾ"
+  },
+  ";supA": {
+    "prefix": ";supA",
+    "body": [
+      "ᴬ"
+    ],
+    "description": "TeX symbol: ᴬ"
+  },
+  ";supB": {
+    "prefix": ";supB",
+    "body": [
+      "ᴮ"
+    ],
+    "description": "TeX symbol: ᴮ"
+  },
+  ";supD": {
+    "prefix": ";supD",
+    "body": [
+      "ᴰ"
+    ],
+    "description": "TeX symbol: ᴰ"
+  },
+  ";supE": {
+    "prefix": ";supE",
+    "body": [
+      "ᴱ"
+    ],
+    "description": "TeX symbol: ᴱ"
+  },
+  ";supG": {
+    "prefix": ";supG",
+    "body": [
+      "ᴳ"
+    ],
+    "description": "TeX symbol: ᴳ"
+  },
+  ";supH": {
+    "prefix": ";supH",
+    "body": [
+      "ᴴ"
+    ],
+    "description": "TeX symbol: ᴴ"
+  },
+  ";supI": {
+    "prefix": ";supI",
+    "body": [
+      "ᴵ"
+    ],
+    "description": "TeX symbol: ᴵ"
+  },
+  ";supJ": {
+    "prefix": ";supJ",
+    "body": [
+      "ᴶ"
+    ],
+    "description": "TeX symbol: ᴶ"
+  },
+  ";supK": {
+    "prefix": ";supK",
+    "body": [
+      "ᴷ"
+    ],
+    "description": "TeX symbol: ᴷ"
+  },
+  ";supL": {
+    "prefix": ";supL",
+    "body": [
+      "ᴸ"
+    ],
+    "description": "TeX symbol: ᴸ"
+  },
+  ";supM": {
+    "prefix": ";supM",
+    "body": [
+      "ᴹ"
+    ],
+    "description": "TeX symbol: ᴹ"
+  },
+  ";supN": {
+    "prefix": ";supN",
+    "body": [
+      "ᴺ"
+    ],
+    "description": "TeX symbol: ᴺ"
+  },
+  ";supO": {
+    "prefix": ";supO",
+    "body": [
+      "ᴼ"
+    ],
+    "description": "TeX symbol: ᴼ"
+  },
+  ";supP": {
+    "prefix": ";supP",
+    "body": [
+      "ᴾ"
+    ],
+    "description": "TeX symbol: ᴾ"
+  },
+  ";supR": {
+    "prefix": ";supR",
+    "body": [
+      "ᴿ"
+    ],
+    "description": "TeX symbol: ᴿ"
+  },
+  ";supT": {
+    "prefix": ";supT",
+    "body": [
+      "ᵀ"
+    ],
+    "description": "TeX symbol: ᵀ"
+  },
+  ";supU": {
+    "prefix": ";supU",
+    "body": [
+      "ᵁ"
+    ],
+    "description": "TeX symbol: ᵁ"
+  },
+  ";supV": {
+    "prefix": ";supV",
+    "body": [
+      "ⱽ"
+    ],
+    "description": "TeX symbol: ⱽ"
+  },
+  ";supW": {
+    "prefix": ";supW",
+    "body": [
+      "ᵂ"
+    ],
+    "description": "TeX symbol: ᵂ"
+  },
+  ";sub0": {
+    "prefix": ";sub0",
+    "body": [
+      "₀"
+    ],
+    "description": "Subscript 0"
+  },
+  ";sub1": {
+    "prefix": ";sub1",
+    "body": [
+      "₁"
+    ],
+    "description": "Subscript 1"
+  },
+  ";sub2": {
+    "prefix": ";sub2",
+    "body": [
+      "₂"
+    ],
+    "description": "Subscript 2"
+  },
+  ";sub3": {
+    "prefix": ";sub3",
+    "body": [
+      "₃"
+    ],
+    "description": "Subscript 3"
+  },
+  ";sub4": {
+    "prefix": ";sub4",
+    "body": [
+      "₄"
+    ],
+    "description": "Subscript 4"
+  },
+  ";sub5": {
+    "prefix": ";sub5",
+    "body": [
+      "₅"
+    ],
+    "description": "Subscript 5"
+  },
+  ";sub6": {
+    "prefix": ";sub6",
+    "body": [
+      "₆"
+    ],
+    "description": "Subscript 6"
+  },
+  ";sub7": {
+    "prefix": ";sub7",
+    "body": [
+      "₇"
+    ],
+    "description": "Subscript 7"
+  },
+  ";sub8": {
+    "prefix": ";sub8",
+    "body": [
+      "₈"
+    ],
+    "description": "Subscript 8"
+  },
+  ";sub9": {
+    "prefix": ";sub9",
+    "body": [
+      "₉"
+    ],
+    "description": "Subscript 9"
+  },
+  ";sub+": {
+    "prefix": ";sub+",
+    "body": [
+      "₊"
+    ],
+    "description": "Subscript plus"
+  },
+  ";sub-": {
+    "prefix": ";sub-",
+    "body": [
+      "₋"
+    ],
+    "description": "Subscript minus"
+  },
+  ";sub/": {
+    "prefix": ";sub/",
+    "body": [
+      "ˏ"
+    ],
+    "description": "TeX symbol: ˏ"
+  },
+  ";sub(": {
+    "prefix": ";sub(",
+    "body": [
+      "₍"
+    ],
+    "description": "TeX symbol: ₍"
+  },
+  ";sub)": {
+    "prefix": ";sub)",
+    "body": [
+      "₎"
+    ],
+    "description": "TeX symbol: ₎"
+  },
+  ";sub^": {
+    "prefix": ";sub^",
+    "body": [
+      "‸"
+    ],
+    "description": "TeX symbol: ‸"
+  },
+  ";suba": {
+    "prefix": ";suba",
+    "body": [
+      "ₐ"
+    ],
+    "description": "TeX symbol: ₐ"
+  },
+  ";sube": {
+    "prefix": ";sube",
+    "body": [
+      "ₑ"
+    ],
+    "description": "TeX symbol: ₑ"
+  },
+  ";subh": {
+    "prefix": ";subh",
+    "body": [
+      "ₕ"
+    ],
+    "description": "TeX symbol: ₕ"
+  },
+  ";subi": {
+    "prefix": ";subi",
+    "body": [
+      "ᵢ"
+    ],
+    "description": "TeX symbol: ᵢ"
+  },
+  ";subk": {
+    "prefix": ";subk",
+    "body": [
+      "ₖ"
+    ],
+    "description": "TeX symbol: ₖ"
+  },
+  ";subl": {
+    "prefix": ";subl",
+    "body": [
+      "ₗ"
+    ],
+    "description": "TeX symbol: ₗ"
+  },
+  ";subm": {
+    "prefix": ";subm",
+    "body": [
+      "ₘ"
+    ],
+    "description": "TeX symbol: ₘ"
+  },
+  ";subn": {
+    "prefix": ";subn",
+    "body": [
+      "ₙ"
+    ],
+    "description": "TeX symbol: ₙ"
+  },
+  ";subo": {
+    "prefix": ";subo",
+    "body": [
+      "ₒ"
+    ],
+    "description": "TeX symbol: ₒ"
+  },
+  ";subp": {
+    "prefix": ";subp",
+    "body": [
+      "ₚ"
+    ],
+    "description": "TeX symbol: ₚ"
+  },
+  ";subr": {
+    "prefix": ";subr",
+    "body": [
+      "ᵣ"
+    ],
+    "description": "TeX symbol: ᵣ"
+  },
+  ";subs": {
+    "prefix": ";subs",
+    "body": [
+      "ₛ"
+    ],
+    "description": "TeX symbol: ₛ"
+  },
+  ";subt": {
+    "prefix": ";subt",
+    "body": [
+      "ₜ"
+    ],
+    "description": "TeX symbol: ₜ"
+  },
+  ";subu": {
+    "prefix": ";subu",
+    "body": [
+      "ᵤ"
+    ],
+    "description": "TeX symbol: ᵤ"
+  },
+  ";subv": {
+    "prefix": ";subv",
+    "body": [
+      "ᵥ"
+    ],
+    "description": "TeX symbol: ᵥ"
+  },
+  ";subx": {
+    "prefix": ";subx",
+    "body": [
+      "ₓ"
+    ],
+    "description": "TeX symbol: ₓ"
+  },
+  ";frac12": {
+    "prefix": ";frac12",
+    "body": [
+      "½"
+    ],
+    "description": "Fraction 1/2"
+  },
+  ";frac13": {
+    "prefix": ";frac13",
+    "body": [
+      "⅓"
+    ],
+    "description": "Fraction 1/3"
+  },
+  ";frac23": {
+    "prefix": ";frac23",
+    "body": [
+      "⅔"
+    ],
+    "description": "Fraction 2/3"
+  },
+  ";frac14": {
+    "prefix": ";frac14",
+    "body": [
+      "¼"
+    ],
+    "description": "Fraction 1/4"
+  },
+  ";frac34": {
+    "prefix": ";frac34",
+    "body": [
+      "¾"
+    ],
+    "description": "Fraction 3/4"
+  },
+  ";frac15": {
+    "prefix": ";frac15",
+    "body": [
+      "⅕"
+    ],
+    "description": "Fraction 1/5"
+  },
+  ";frac25": {
+    "prefix": ";frac25",
+    "body": [
+      "⅖"
+    ],
+    "description": "Fraction 2/5"
+  },
+  ";frac35": {
+    "prefix": ";frac35",
+    "body": [
+      "⅗"
+    ],
+    "description": "Fraction 3/5"
+  },
+  ";frac45": {
+    "prefix": ";frac45",
+    "body": [
+      "⅘"
+    ],
+    "description": "Fraction 4/5"
+  },
+  ";frac16": {
+    "prefix": ";frac16",
+    "body": [
+      "⅙"
+    ],
+    "description": "Fraction 1/6"
+  },
+  ";frac56": {
+    "prefix": ";frac56",
+    "body": [
+      "⅚"
+    ],
+    "description": "Fraction 5/6"
+  },
+  ";frac18": {
+    "prefix": ";frac18",
+    "body": [
+      "⅛"
+    ],
+    "description": "Fraction 1/8"
+  },
+  ";frac38": {
+    "prefix": ";frac38",
+    "body": [
+      "⅜"
+    ],
+    "description": "Fraction 3/8"
+  },
+  ";frac58": {
+    "prefix": ";frac58",
+    "body": [
+      "⅝"
+    ],
+    "description": "Fraction 5/8"
+  },
+  ";frac78": {
+    "prefix": ";frac78",
+    "body": [
+      "⅞"
+    ],
+    "description": "Fraction 7/8"
+  },
+  "<---": {
+    "prefix": "<---",
+    "body": [
+      "⟵"
+    ],
+    "description": "TeX symbol: ⟵"
+  },
+  "--->": {
+    "prefix": "--->",
+    "body": [
+      "⟶"
+    ],
+    "description": "TeX symbol: ⟶"
+  },
+  ";longleftrightarrow": {
+    "prefix": ";longleftrightarrow",
+    "body": [
+      "⟷"
+    ],
+    "description": "Long left-right arrow"
+  },
+  ";leftrightarrow": {
+    "prefix": ";leftrightarrow",
+    "body": [
+      "↔"
+    ],
+    "description": "Left-right arrow"
+  },
+  ";longarrow": {
+    "prefix": ";longarrow",
+    "body": [
+      "→"
+    ],
+    "description": "Long right arrow"
+  },
+  ";longleftarrow": {
+    "prefix": ";longleftarrow",
+    "body": [
+      "←"
+    ],
+    "description": "Long left arrow"
+  },
+  "--^": {
+    "prefix": "--^",
+    "body": [
+      "↑"
+    ],
+    "description": "TeX symbol: ↑"
+  },
+  "--v": {
+    "prefix": "--v",
+    "body": [
+      "↓"
+    ],
+    "description": "TeX symbol: ↓"
+  },
+  ";Longrightarrow": {
+    "prefix": ";Longrightarrow",
+    "body": [
+      "⇒"
+    ],
+    "description": "Long right double arrow"
+  },
+  "<==": {
+    "prefix": "<==",
+    "body": [
+      "⇐"
+    ],
+    "description": "TeX symbol: ⇐"
+  },
+  "==^": {
+    "prefix": "==^",
+    "body": [
+      "⇑"
+    ],
+    "description": "TeX symbol: ⇑"
+  },
+  "==v": {
+    "prefix": "==v",
+    "body": [
+      "⇓"
+    ],
+    "description": "TeX symbol: ⇓"
+  },
+  ";Leftrightarrow": {
+    "prefix": ";Leftrightarrow",
+    "body": [
+      "⇔"
+    ],
+    "description": "Left-right double arrow"
+  },
+  "<===": {
+    "prefix": "<===",
+    "body": [
+      "⟸"
+    ],
+    "description": "TeX symbol: ⟸"
+  },
+  "===>": {
+    "prefix": "===>",
+    "body": [
+      "⟹"
+    ],
+    "description": "TeX symbol: ⟹"
+  },
+  ";Longleftrightarrow": {
+    "prefix": ";Longleftrightarrow",
+    "body": [
+      "⟺"
+    ],
+    "description": "Long left-right double arrow"
+  },
+  "|-<": {
+    "prefix": "|-<",
+    "body": [
+      "↤"
+    ],
+    "description": "TeX symbol: ↤"
+  },
+  "|--<": {
+    "prefix": "|--<",
+    "body": [
+      "⟻"
+    ],
+    "description": "TeX symbol: ⟻"
+  },
+  "|->": {
+    "prefix": "|->",
+    "body": [
+      "↦"
+    ],
+    "description": "TeX symbol: ↦"
+  },
+  "|-->": {
+    "prefix": "|-->",
+    "body": [
+      "⟼"
+    ],
+    "description": "TeX symbol: ⟼"
+  },
+  "|=<": {
+    "prefix": "|=<",
+    "body": [
+      "⟽"
+    ],
+    "description": "TeX symbol: ⟽"
+  },
+  "|=>": {
+    "prefix": "|=>",
+    "body": [
+      "⟾"
+    ],
+    "description": "TeX symbol: ⟾"
+  },
+  "[2": {
+    "prefix": "[2",
+    "body": [
+      "⟦"
+    ],
+    "description": "TeX symbol: ⟦"
+  },
+  "]2": {
+    "prefix": "]2",
+    "body": [
+      "⟧"
+    ],
+    "description": "TeX symbol: ⟧"
+  },
+  "<B": {
+    "prefix": "<B",
+    "body": [
+      "⟨ big left angle"
+    ],
+    "description": "TeX symbol: ⟨ big left angle"
+  },
+  ">B": {
+    "prefix": ">B",
+    "body": [
+      "⟩ big right angle"
+    ],
+    "description": "TeX symbol: ⟩ big right angle"
+  },
+  "(U": {
+    "prefix": "(U",
+    "body": [
+      "⎛"
+    ],
+    "description": "TeX symbol: ⎛"
+  },
+  "(M": {
+    "prefix": "(M",
+    "body": [
+      "⎜"
+    ],
+    "description": "TeX symbol: ⎜"
+  },
+  "(B": {
+    "prefix": "(B",
+    "body": [
+      "⎝"
+    ],
+    "description": "TeX symbol: ⎝"
+  },
+  ")U": {
+    "prefix": ")U",
+    "body": [
+      "⎞"
+    ],
+    "description": "TeX symbol: ⎞"
+  },
+  ")M": {
+    "prefix": ")M",
+    "body": [
+      "⎟"
+    ],
+    "description": "TeX symbol: ⎟"
+  },
+  ")B": {
+    "prefix": ")B",
+    "body": [
+      "⎠"
+    ],
+    "description": "TeX symbol: ⎠"
+  },
+  "[U": {
+    "prefix": "[U",
+    "body": [
+      "⎡"
+    ],
+    "description": "TeX symbol: ⎡"
+  },
+  "[M": {
+    "prefix": "[M",
+    "body": [
+      "⎢"
+    ],
+    "description": "TeX symbol: ⎢"
+  },
+  "[B": {
+    "prefix": "[B",
+    "body": [
+      "⎣"
+    ],
+    "description": "TeX symbol: ⎣"
+  },
+  "]U": {
+    "prefix": "]U",
+    "body": [
+      "⎤"
+    ],
+    "description": "TeX symbol: ⎤"
+  },
+  "]M": {
+    "prefix": "]M",
+    "body": [
+      "⎥"
+    ],
+    "description": "TeX symbol: ⎥"
+  },
+  "]B": {
+    "prefix": "]B",
+    "body": [
+      "⎦"
+    ],
+    "description": "TeX symbol: ⎦"
+  },
+  "{U": {
+    "prefix": "{U",
+    "body": [
+      "⎧"
+    ],
+    "description": "TeX symbol: ⎧"
+  },
+  "{M": {
+    "prefix": "{M",
+    "body": [
+      "⎨"
+    ],
+    "description": "TeX symbol: ⎨"
+  },
+  "{B": {
+    "prefix": "{B",
+    "body": [
+      "⎩"
+    ],
+    "description": "TeX symbol: ⎩"
+  },
+  "}U": {
+    "prefix": "}U",
+    "body": [
+      "⎫"
+    ],
+    "description": "TeX symbol: ⎫"
+  },
+  "}M": {
+    "prefix": "}M",
+    "body": [
+      "⎬"
+    ],
+    "description": "TeX symbol: ⎬"
+  },
+  "}B": {
+    "prefix": "}B",
+    "body": [
+      "⎭"
+    ],
+    "description": "TeX symbol: ⎭"
+  },
+  "(V": {
+    "prefix": "(V",
+    "body": [
+      "︵"
+    ],
+    "description": "TeX symbol: ︵"
+  },
+  ")V": {
+    "prefix": ")V",
+    "body": [
+      "︶"
+    ],
+    "description": "TeX symbol: ︶"
+  },
+  "{V": {
+    "prefix": "{V",
+    "body": [
+      "︷"
+    ],
+    "description": "TeX symbol: ︷"
+  },
+  "}V": {
+    "prefix": "}V",
+    "body": [
+      "︸"
+    ],
+    "description": "TeX symbol: ︸"
+  },
+  "[V": {
+    "prefix": "[V",
+    "body": [
+      "︹"
+    ],
+    "description": "TeX symbol: ︹"
+  },
+  "]V": {
+    "prefix": "]V",
+    "body": [
+      "︺"
+    ],
+    "description": "TeX symbol: ︺"
+  },
+  "<V": {
+    "prefix": "<V",
+    "body": [
+      "︿"
+    ],
+    "description": "TeX symbol: ︿"
+  },
+  ">V": {
+    "prefix": ">V",
+    "body": [
+      "﹀"
+    ],
+    "description": "TeX symbol: ﹀"
+  },
+  "U.": {
+    "prefix": "U.",
+    "body": [
+      "⨃"
+    ],
+    "description": "TeX symbol: ⨃"
+  },
+  "U+": {
+    "prefix": "U+",
+    "body": [
+      "⨄"
+    ],
+    "description": "TeX symbol: ⨄"
+  },
+  "UI": {
+    "prefix": "UI",
+    "body": [
+      "∩"
+    ],
+    "description": "TeX symbol: ∩"
+  },
+  "UU": {
+    "prefix": "UU",
+    "body": [
+      "∪"
+    ],
+    "description": "TeX symbol: ∪"
+  },
+  "UN": {
+    "prefix": "UN",
+    "body": [
+      "∩  n"
+    ],
+    "description": "TeX symbol: ∩  n"
+  },
+  "I1": {
+    "prefix": "I1",
+    "body": [
+      "∫"
+    ],
+    "description": "TeX symbol: ∫"
+  },
+  "I2": {
+    "prefix": "I2",
+    "body": [
+      "∬"
+    ],
+    "description": "TeX symbol: ∬"
+  },
+  "I3": {
+    "prefix": "I3",
+    "body": [
+      "∭"
+    ],
+    "description": "TeX symbol: ∭"
+  },
+  "I4": {
+    "prefix": "I4",
+    "body": [
+      "⨌"
+    ],
+    "description": "TeX symbol: ⨌"
+  },
+  "I-": {
+    "prefix": "I-",
+    "body": [
+      "⨍"
+    ],
+    "description": "TeX symbol: ⨍"
+  },
+  "I=": {
+    "prefix": "I=",
+    "body": [
+      "⨎"
+    ],
+    "description": "TeX symbol: ⨎"
+  },
+  "I/": {
+    "prefix": "I/",
+    "body": [
+      "⨏"
+    ],
+    "description": "TeX symbol: ⨏"
+  },
+  "IO1": {
+    "prefix": "IO1",
+    "body": [
+      "∮"
+    ],
+    "description": "TeX symbol: ∮"
+  },
+  "IO2": {
+    "prefix": "IO2",
+    "body": [
+      "∯"
+    ],
+    "description": "TeX symbol: ∯"
+  },
+  "IO3": {
+    "prefix": "IO3",
+    "body": [
+      "∰"
+    ],
+    "description": "TeX symbol: ∰"
+  },
+  "IOC": {
+    "prefix": "IOC",
+    "body": [
+      "∲"
+    ],
+    "description": "TeX symbol: ∲"
+  },
+  "IOW": {
+    "prefix": "IOW",
+    "body": [
+      "∳"
+    ],
+    "description": "TeX symbol: ∳"
+  },
+  "IU": {
+    "prefix": "IU",
+    "body": [
+      "⌠"
+    ],
+    "description": "TeX symbol: ⌠"
+  },
+  "IM": {
+    "prefix": "IM",
+    "body": [
+      "⎮"
+    ],
+    "description": "TeX symbol: ⎮"
+  },
+  "IB": {
+    "prefix": "IB",
+    "body": [
+      "⌡"
+    ],
+    "description": "TeX symbol: ⌡"
+  },
+  "SQRT2": {
+    "prefix": "SQRT2",
+    "body": [
+      "√"
+    ],
+    "description": "TeX symbol: √"
+  },
+  "SQRT3": {
+    "prefix": "SQRT3",
+    "body": [
+      "∛"
+    ],
+    "description": "TeX symbol: ∛"
+  },
+  "SQRT4": {
+    "prefix": "SQRT4",
+    "body": [
+      "∜"
+    ],
+    "description": "TeX symbol: ∜"
+  },
+  ".0": {
+    "prefix": ".0",
+    "body": [
+      "∘"
+    ],
+    "description": "TeX symbol: ∘"
+  },
+  ".1": {
+    "prefix": ".1",
+    "body": [
+      "∙"
+    ],
+    "description": "TeX symbol: ∙"
+  },
+  "*0": {
+    "prefix": "*0",
+    "body": [
+      "∗"
+    ],
+    "description": "TeX symbol: ∗"
+  },
+  "*B": {
+    "prefix": "*B",
+    "body": [
+      "⁎"
+    ],
+    "description": "TeX symbol: ⁎"
+  },
+  "'1": {
+    "prefix": "'1",
+    "body": [
+      "′"
+    ],
+    "description": "TeX symbol: ′"
+  },
+  "'2": {
+    "prefix": "'2",
+    "body": [
+      "″"
+    ],
+    "description": "TeX symbol: ″"
+  },
+  "'3": {
+    "prefix": "'3",
+    "body": [
+      "‴"
+    ],
+    "description": "TeX symbol: ‴"
+  },
+  "DDLT": {
+    "prefix": "DDLT",
+    "body": [
+      "∆"
+    ],
+    "description": "TeX symbol: ∆"
+  },
+  "DNBL": {
+    "prefix": "DNBL",
+    "body": [
+      "∇"
+    ],
+    "description": "TeX symbol: ∇"
+  },
+  "DAMD": {
+    "prefix": "DAMD",
+    "body": [
+      "⋄"
+    ],
+    "description": "TeX symbol: ⋄"
+  },
+  "RDV": {
+    "prefix": "RDV",
+    "body": [
+      "∕"
+    ],
+    "description": "TeX symbol: ∕"
+  },
+  "LDV": {
+    "prefix": "LDV",
+    "body": [
+      "∖"
+    ],
+    "description": "TeX symbol: ∖"
+  },
+  "PDF": {
+    "prefix": "PDF",
+    "body": [
+      "∂"
+    ],
+    "description": "TeX symbol: ∂"
+  },
+  "JON": {
+    "prefix": "JON",
+    "body": [
+      "⨝  join"
+    ],
+    "description": "TeX symbol: ⨝  join"
+  },
+  "THF": {
+    "prefix": "THF",
+    "body": [
+      "∴  therefore"
+    ],
+    "description": "TeX symbol: ∴  therefore"
+  },
+  "BCS": {
+    "prefix": "BCS",
+    "body": [
+      "∵  because"
+    ],
+    "description": "TeX symbol: ∵  because"
+  },
+  "RTO": {
+    "prefix": "RTO",
+    "body": [
+      "∶  ratio"
+    ],
+    "description": "TeX symbol: ∶  ratio"
+  },
+  "PRO": {
+    "prefix": "PRO",
+    "body": [
+      "∷  proportion"
+    ],
+    "description": "TeX symbol: ∷  proportion"
+  },
+  "EXC": {
+    "prefix": "EXC",
+    "body": [
+      "∹  EXCESS"
+    ],
+    "description": "TeX symbol: ∹  EXCESS"
+  },
+  "SUM": {
+    "prefix": "SUM",
+    "body": [
+      "∑  summation"
+    ],
+    "description": "TeX symbol: ∑  summation"
+  },
+  "SMU": {
+    "prefix": "SMU",
+    "body": [
+      "⎲"
+    ],
+    "description": "TeX symbol: ⎲"
+  },
+  "SMB": {
+    "prefix": "SMB",
+    "body": [
+      "⎳"
+    ],
+    "description": "TeX symbol: ⎳"
+  },
+  "PARL": {
+    "prefix": "PARL",
+    "body": [
+      "∥  parallel to"
+    ],
+    "description": "TeX symbol: ∥  parallel to"
+  },
+  "PARN": {
+    "prefix": "PARN",
+    "body": [
+      "∦  not parallel to"
+    ],
+    "description": "TeX symbol: ∦  not parallel to"
+  },
+  "SCAP": {
+    "prefix": "SCAP",
+    "body": [
+      "⨅  square cap"
+    ],
+    "description": "TeX symbol: ⨅  square cap"
+  },
+  "SCUP": {
+    "prefix": "SCUP",
+    "body": [
+      "⨆  square cup"
+    ],
+    "description": "TeX symbol: ⨆  square cup"
+  },
+  "BIGX": {
+    "prefix": "BIGX",
+    "body": [
+      "⨉  big multiply"
+    ],
+    "description": "TeX symbol: ⨉  big multiply"
+  },
+  "MUL": {
+    "prefix": "MUL",
+    "body": [
+      "×  multiply"
+    ],
+    "description": "TeX symbol: ×  multiply"
+  },
+  "DIV": {
+    "prefix": "DIV",
+    "body": [
+      "÷  divide"
+    ],
+    "description": "TeX symbol: ÷  divide"
+  },
+  "DOTM": {
+    "prefix": "DOTM",
+    "body": [
+      "·"
+    ],
+    "description": "TeX symbol: ·"
+  },
+  "PRD": {
+    "prefix": "PRD",
+    "body": [
+      "∏  product"
+    ],
+    "description": "TeX symbol: ∏  product"
+  },
+  "CPRD": {
+    "prefix": "CPRD",
+    "body": [
+      "∐  coproduct"
+    ],
+    "description": "TeX symbol: ∐  coproduct"
+  },
+  "PI": {
+    "prefix": "PI",
+    "body": [
+      "π"
+    ],
+    "description": "TeX symbol: π"
+  },
+  "<~": {
+    "prefix": "<~",
+    "body": [
+      "⪝  SIMILAR OR LESS-THAN"
+    ],
+    "description": "TeX symbol: ⪝  SIMILAR OR LESS-THAN"
+  },
+  ">~": {
+    "prefix": ">~",
+    "body": [
+      "⪞  SIMILAR OR GREATER-THAN"
+    ],
+    "description": "TeX symbol: ⪞  SIMILAR OR GREATER-THAN"
+  },
+  "<<": {
+    "prefix": "<<",
+    "body": [
+      "≪  much less than"
+    ],
+    "description": "TeX symbol: ≪  much less than"
+  },
+  ">>": {
+    "prefix": ">>",
+    "body": [
+      "≫  much greater than"
+    ],
+    "description": "TeX symbol: ≫  much greater than"
+  },
+  "~1": {
+    "prefix": "~1",
+    "body": [
+      "∼  tilde operator"
+    ],
+    "description": "TeX symbol: ∼  tilde operator"
+  },
+  "~N": {
+    "prefix": "~N",
+    "body": [
+      "≁  not tilde"
+    ],
+    "description": "TeX symbol: ≁  not tilde"
+  },
+  "~R": {
+    "prefix": "~R",
+    "body": [
+      "∽  reversed tilde operator"
+    ],
+    "description": "TeX symbol: ∽  reversed tilde operator"
+  },
+  "-~": {
+    "prefix": "-~",
+    "body": [
+      "≂  minus over tilde"
+    ],
+    "description": "TeX symbol: ≂  minus over tilde"
+  },
+  "~-": {
+    "prefix": "~-",
+    "body": [
+      "≃  tilde over minus"
+    ],
+    "description": "TeX symbol: ≃  tilde over minus"
+  },
+  "~L": {
+    "prefix": "~L",
+    "body": [
+      "∾  INVERTED LAZY S"
+    ],
+    "description": "TeX symbol: ∾  INVERTED LAZY S"
+  },
+  "~S": {
+    "prefix": "~S",
+    "body": [
+      "∿  SINE WAVE"
+    ],
+    "description": "TeX symbol: ∿  SINE WAVE"
+  },
+  "~W": {
+    "prefix": "~W",
+    "body": [
+      "≀  WREATH PRODUCT"
+    ],
+    "description": "TeX symbol: ≀  WREATH PRODUCT"
+  },
+  "!-": {
+    "prefix": "!-",
+    "body": [
+      "≄  not approximately equal to"
+    ],
+    "description": "TeX symbol: ≄  not approximately equal to"
+  },
+  "!~": {
+    "prefix": "!~",
+    "body": [
+      "≉  not almost equal to"
+    ],
+    "description": "TeX symbol: ≉  not almost equal to"
+  },
+  "~2": {
+    "prefix": "~2",
+    "body": [
+      "≈  almost equal to"
+    ],
+    "description": "TeX symbol: ≈  almost equal to"
+  },
+  ".=": {
+    "prefix": ".=",
+    "body": [
+      "≐  approaches the limit"
+    ],
+    "description": "TeX symbol: ≐  approaches the limit"
+  },
+  "A=": {
+    "prefix": "A=",
+    "body": [
+      "≙  estimates"
+    ],
+    "description": "TeX symbol: ≙  estimates"
+  },
+  "<>": {
+    "prefix": "<>",
+    "body": [
+      "≶  lesser-than over greater-than"
+    ],
+    "description": "TeX symbol: ≶  lesser-than over greater-than"
+  },
+  "><": {
+    "prefix": "><",
+    "body": [
+      "≷  greater-than over lesser-than"
+    ],
+    "description": "TeX symbol: ≷  greater-than over lesser-than"
+  },
+  "!<": {
+    "prefix": "!<",
+    "body": [
+      "≮  not less than"
+    ],
+    "description": "TeX symbol: ≮  not less than"
+  },
+  "!>": {
+    "prefix": "!>",
+    "body": [
+      "≯  not greater than"
+    ],
+    "description": "TeX symbol: ≯  not greater than"
+  },
+  "!<=": {
+    "prefix": "!<=",
+    "body": [
+      "≰  not less than or equal"
+    ],
+    "description": "TeX symbol: ≰  not less than or equal"
+  },
+  "!>=": {
+    "prefix": "!>=",
+    "body": [
+      "≱  not greater than or equal"
+    ],
+    "description": "TeX symbol: ≱  not greater than or equal"
+  },
+  "==3": {
+    "prefix": "==3",
+    "body": [
+      "alias equiv\n≡"
+    ],
+    "description": "TeX symbol: alias equiv\n≡"
+  },
+  "!=3": {
+    "prefix": "!=3",
+    "body": [
+      "≢  not identical to"
+    ],
+    "description": "TeX symbol: ≢  not identical to"
+  },
+  "-+": {
+    "prefix": "-+",
+    "body": [
+      "∓  minus-plus"
+    ],
+    "description": "TeX symbol: ∓  minus-plus"
+  },
+  "o+": {
+    "prefix": "o+",
+    "body": [
+      "⊕  O-plus"
+    ],
+    "description": "TeX symbol: ⊕  O-plus"
+  },
+  "o-": {
+    "prefix": "o-",
+    "body": [
+      "⊖  O-minus"
+    ],
+    "description": "TeX symbol: ⊖  O-minus"
+  },
+  "ox": {
+    "prefix": "ox",
+    "body": [
+      "⊗  O-times"
+    ],
+    "description": "TeX symbol: ⊗  O-times"
+  },
+  "o/": {
+    "prefix": "o/",
+    "body": [
+      "⊘  O-division"
+    ],
+    "description": "TeX symbol: ⊘  O-division"
+  },
+  "o.": {
+    "prefix": "o.",
+    "body": [
+      "⊙  O-dot"
+    ],
+    "description": "TeX symbol: ⊙  O-dot"
+  },
+  "oo": {
+    "prefix": "oo",
+    "body": [
+      "⊚  O-ring"
+    ],
+    "description": "TeX symbol: ⊚  O-ring"
+  },
+  "O.": {
+    "prefix": "O.",
+    "body": [
+      "⨀  N-ARY CIRCLED DOT OPERATOR"
+    ],
+    "description": "TeX symbol: ⨀  N-ARY CIRCLED DOT OPERATOR"
+  },
+  "O+": {
+    "prefix": "O+",
+    "body": [
+      "⨁  N-ARY CIRCLED PLUS OPERATOR"
+    ],
+    "description": "TeX symbol: ⨁  N-ARY CIRCLED PLUS OPERATOR"
+  },
+  "Ox": {
+    "prefix": "Ox",
+    "body": [
+      "⨂  N-ARY CIRCLED TIMES OPERATOR"
+    ],
+    "description": "TeX symbol: ⨂  N-ARY CIRCLED TIMES OPERATOR"
+  },
+  "PREC": {
+    "prefix": "PREC",
+    "body": [
+      "≺  precedes"
+    ],
+    "description": "TeX symbol: ≺  precedes"
+  },
+  "PSUC": {
+    "prefix": "PSUC",
+    "body": [
+      "≻  succeeds"
+    ],
+    "description": "TeX symbol: ≻  succeeds"
+  },
+  "EQV": {
+    "prefix": "EQV",
+    "body": [
+      "≍  EQUIVALENT TO"
+    ],
+    "description": "TeX symbol: ≍  EQUIVALENT TO"
+  },
+  "EQSTAR": {
+    "prefix": "EQSTAR",
+    "body": [
+      "≛  STAR EQUALS"
+    ],
+    "description": "TeX symbol: ≛  STAR EQUALS"
+  },
+  "BOWT": {
+    "prefix": "BOWT",
+    "body": [
+      "⋈  BOWTIE"
+    ],
+    "description": "TeX symbol: ⋈  BOWTIE"
+  },
+  "SUBO": {
+    "prefix": "SUBO",
+    "body": [
+      "⊂  subset of"
+    ],
+    "description": "TeX symbol: ⊂  subset of"
+  },
+  "SUBE": {
+    "prefix": "SUBE",
+    "body": [
+      "⊆  equal to or subset of"
+    ],
+    "description": "TeX symbol: ⊆  equal to or subset of"
+  },
+  "SUBN": {
+    "prefix": "SUBN",
+    "body": [
+      "⊄  not subset of"
+    ],
+    "description": "TeX symbol: ⊄  not subset of"
+  },
+  "SUBX": {
+    "prefix": "SUBX",
+    "body": [
+      "⊈  not equal to or subset of"
+    ],
+    "description": "TeX symbol: ⊈  not equal to or subset of"
+  },
+  "SUPO": {
+    "prefix": "SUPO",
+    "body": [
+      "⊃  superset of"
+    ],
+    "description": "TeX symbol: ⊃  superset of"
+  },
+  "SUPE": {
+    "prefix": "SUPE",
+    "body": [
+      "⊇  equal to or superset of"
+    ],
+    "description": "TeX symbol: ⊇  equal to or superset of"
+  },
+  "SUPN": {
+    "prefix": "SUPN",
+    "body": [
+      "⊅  not superset of"
+    ],
+    "description": "TeX symbol: ⊅  not superset of"
+  },
+  "SUPX": {
+    "prefix": "SUPX",
+    "body": [
+      "⊉  not equal to or superset of"
+    ],
+    "description": "TeX symbol: ⊉  not equal to or superset of"
+  },
+  "EXTS": {
+    "prefix": "EXTS",
+    "body": [
+      "∃  there exists"
+    ],
+    "description": "TeX symbol: ∃  there exists"
+  },
+  "EXTN": {
+    "prefix": "EXTN",
+    "body": [
+      "∄  not exists"
+    ],
+    "description": "TeX symbol: ∄  not exists"
+  },
+  "EMPT": {
+    "prefix": "EMPT",
+    "body": [
+      "∅  empty set"
+    ],
+    "description": "TeX symbol: ∅  empty set"
+  },
+  "ELMO": {
+    "prefix": "ELMO",
+    "body": [
+      "∈  element of"
+    ],
+    "description": "TeX symbol: ∈  element of"
+  },
+  "ELMN": {
+    "prefix": "ELMN",
+    "body": [
+      "∉  not element of"
+    ],
+    "description": "TeX symbol: ∉  not element of"
+  },
+  "FALL": {
+    "prefix": "FALL",
+    "body": [
+      "∀  for all"
+    ],
+    "description": "TeX symbol: ∀  for all"
+  },
+  "AND": {
+    "prefix": "AND",
+    "body": [
+      "∧  logical and"
+    ],
+    "description": "TeX symbol: ∧  logical and"
+  },
+  "OR": {
+    "prefix": "OR",
+    "body": [
+      "∨  logical or"
+    ],
+    "description": "TeX symbol: ∨  logical or"
+  },
+  "NOT": {
+    "prefix": "NOT",
+    "body": [
+      "¬  logical not"
+    ],
+    "description": "TeX symbol: ¬  logical not"
+  },
+  "XOR": {
+    "prefix": "XOR",
+    "body": [
+      "⊕  logical xor"
+    ],
+    "description": "TeX symbol: ⊕  logical xor"
+  },
+  "BOT": {
+    "prefix": "BOT",
+    "body": [
+      "⊥  DOWN TACK"
+    ],
+    "description": "TeX symbol: ⊥  DOWN TACK"
+  },
+  "TOP": {
+    "prefix": "TOP",
+    "body": [
+      "⊤  UP TACK"
+    ],
+    "description": "TeX symbol: ⊤  UP TACK"
+  },
+  "-|": {
+    "prefix": "-|",
+    "body": [
+      "⊣  LEFT TACK"
+    ],
+    "description": "TeX symbol: ⊣  LEFT TACK"
+  },
+  "LFT": {
+    "prefix": "LFT",
+    "body": [
+      "⊣  LEFT TACK"
+    ],
+    "description": "TeX symbol: ⊣  LEFT TACK"
+  },
+  "|-": {
+    "prefix": "|-",
+    "body": [
+      "⊢  RIGHT TACK"
+    ],
+    "description": "TeX symbol: ⊢  RIGHT TACK"
+  },
+  "RGT": {
+    "prefix": "RGT",
+    "body": [
+      "⊢  RIGHT TACK"
+    ],
+    "description": "TeX symbol: ⊢  RIGHT TACK"
+  },
+  "|=": {
+    "prefix": "|=",
+    "body": [
+      "⊧  MODELS"
+    ],
+    "description": "TeX symbol: ⊧  MODELS"
+  },
+  "|==": {
+    "prefix": "|==",
+    "body": [
+      "⊨  TRUE"
+    ],
+    "description": "TeX symbol: ⊨  TRUE"
+  },
+  ".|3": {
+    "prefix": ".|3",
+    "body": [
+      "⋮ vertical ellipsis"
+    ],
+    "description": "TeX symbol: ⋮ vertical ellipsis"
+  },
+  "..3": {
+    "prefix": "..3",
+    "body": [
+      "⋯ horizontal ellipsis"
+    ],
+    "description": "TeX symbol: ⋯ horizontal ellipsis"
+  },
+  "./3": {
+    "prefix": "./3",
+    "body": [
+      "⋰ up right diagonal ellipsis"
+    ],
+    "description": "TeX symbol: ⋰ up right diagonal ellipsis"
+  },
+  ".3": {
+    "prefix": ".3",
+    "body": [
+      "⋱ down left diagonal ellipsis"
+    ],
+    "description": "TeX symbol: ⋱ down left diagonal ellipsis"
+  },
+  "..U": {
+    "prefix": "..U",
+    "body": [
+      "⠁ dot up"
+    ],
+    "description": "TeX symbol: ⠁ dot up"
+  },
+  "..M": {
+    "prefix": "..M",
+    "body": [
+      "⠂ dot middle"
+    ],
+    "description": "TeX symbol: ⠂ dot middle"
+  },
+  "..B": {
+    "prefix": "..B",
+    "body": [
+      "⡀ dot bottom"
+    ],
+    "description": "TeX symbol: ⡀ dot bottom"
+  },
+  "[UL": {
+    "prefix": "[UL",
+    "body": [
+      "⌈ left ceiling"
+    ],
+    "description": "TeX symbol: ⌈ left ceiling"
+  },
+  "[UR": {
+    "prefix": "[UR",
+    "body": [
+      "⌉ right ceiling"
+    ],
+    "description": "TeX symbol: ⌉ right ceiling"
+  },
+  "[BL": {
+    "prefix": "[BL",
+    "body": [
+      "⌊ left floor"
+    ],
+    "description": "TeX symbol: ⌊ left floor"
+  },
+  "[BR": {
+    "prefix": "[BR",
+    "body": [
+      "⌋ right floor"
+    ],
+    "description": "TeX symbol: ⌋ right floor"
+  },
+  "__2": {
+    "prefix": "__2",
+    "body": [
+      "⎯ horizontal line extension"
+    ],
+    "description": "TeX symbol: ⎯ horizontal line extension"
+  },
+  "--2": {
+    "prefix": "--2",
+    "body": [
+      "─ light horizontal"
+    ],
+    "description": "TeX symbol: ─ light horizontal"
+  },
+  "==2": {
+    "prefix": "==2",
+    "body": [
+      "═ double horizontal"
+    ],
+    "description": "TeX symbol: ═ double horizontal"
+  },
+  "__B": {
+    "prefix": "__B",
+    "body": [
+      "― horizontal bar"
+    ],
+    "description": "TeX symbol: ― horizontal bar"
+  },
+  "||V": {
+    "prefix": "||V",
+    "body": [
+      "┃ vertical bar"
+    ],
+    "description": "TeX symbol: ┃ vertical bar"
+  },
+  "||2": {
+    "prefix": "||2",
+    "body": [
+      "alias norm\n‖"
+    ],
+    "description": "TeX symbol: alias norm\n‖"
+  },
+  "ARC": {
+    "prefix": "ARC",
+    "body": [
+      "⌒ (arc"
+    ],
+    "description": "TeX symbol: ⌒ (arc"
+  },
+  "QED": {
+    "prefix": "QED",
+    "body": [
+      "∎ qed, as in end-of-proof"
+    ],
+    "description": "TeX symbol: ∎ qed, as in end-of-proof"
+  },
+  "TBT": {
+    "prefix": "TBT",
+    "body": [
+      "‣ triangular bullet"
+    ],
+    "description": "TeX symbol: ‣ triangular bullet"
+  },
+  "INF": {
+    "prefix": "INF",
+    "body": [
+      "∞ infinity"
+    ],
+    "description": "TeX symbol: ∞ infinity"
+  },
+  "PRT": {
+    "prefix": "PRT",
+    "body": [
+      "∝ proportional"
+    ],
+    "description": "TeX symbol: ∝ proportional"
+  },
+  "ANG": {
+    "prefix": "ANG",
+    "body": [
+      "∠ angle"
+    ],
+    "description": "TeX symbol: ∠ angle"
+  },
+  "ANGR": {
+    "prefix": "ANGR",
+    "body": [
+      "∟ right angle"
+    ],
+    "description": "TeX symbol: ∟ right angle"
+  },
+  "ANGM": {
+    "prefix": "ANGM",
+    "body": [
+      "∡ measured angle"
+    ],
+    "description": "TeX symbol: ∡ measured angle"
+  },
+  "PERP": {
+    "prefix": "PERP",
+    "body": [
+      "⊥ perpendicular"
+    ],
+    "description": "TeX symbol: ⊥ perpendicular"
+  },
+  "PEM": {
+    "prefix": "PEM",
+    "body": [
+      "‰ permillage"
+    ],
+    "description": "TeX symbol: ‰ permillage"
+  },
+  "ONC": {
+    "prefix": "ONC",
+    "body": [
+      "℥ OUNCE SIGN"
+    ],
+    "description": "TeX symbol: ℥ OUNCE SIGN"
+  },
+  "DEGC": {
+    "prefix": "DEGC",
+    "body": [
+      "℃ DEGREE CELSIUS"
+    ],
+    "description": "TeX symbol: ℃ DEGREE CELSIUS"
+  },
+  "DEGF": {
+    "prefix": "DEGF",
+    "body": [
+      "℉ DEGREE FAHRENHEIT"
+    ],
+    "description": "TeX symbol: ℉ DEGREE FAHRENHEIT"
+  },
+  "OHM": {
+    "prefix": "OHM",
+    "body": [
+      "Ω OHM SIGN"
+    ],
+    "description": "TeX symbol: Ω OHM SIGN"
+  },
+  "MHO": {
+    "prefix": "MHO",
+    "body": [
+      "℧ INVERTED OHM SIGN"
+    ],
+    "description": "TeX symbol: ℧ INVERTED OHM SIGN"
+  },
+  "ANGS": {
+    "prefix": "ANGS",
+    "body": [
+      "Å ANGSTROM SIGN"
+    ],
+    "description": "TeX symbol: Å ANGSTROM SIGN"
+  },
+  "a/c": {
+    "prefix": "a/c",
+    "body": [
+      "℀  ACCOUNT OF"
+    ],
+    "description": "TeX symbol: ℀  ACCOUNT OF"
+  },
+  "a/s": {
+    "prefix": "a/s",
+    "body": [
+      "℁  ADDRESSED TO THE SUBJECT"
+    ],
+    "description": "TeX symbol: ℁  ADDRESSED TO THE SUBJECT"
+  },
+  "c/o": {
+    "prefix": "c/o",
+    "body": [
+      "℅  CARE OF"
+    ],
+    "description": "TeX symbol: ℅  CARE OF"
+  },
+  "c/u": {
+    "prefix": "c/u",
+    "body": [
+      "℆  CADA UNA"
+    ],
+    "description": "TeX symbol: ℆  CADA UNA"
+  },
+  "EUL": {
+    "prefix": "EUL",
+    "body": [
+      "ℇ  EULER CONSTANT"
+    ],
+    "description": "TeX symbol: ℇ  EULER CONSTANT"
+  },
+  "No": {
+    "prefix": "No",
+    "body": [
+      "№  NUMERO SIGN"
+    ],
+    "description": "TeX symbol: №  NUMERO SIGN"
+  },
+  "CO": {
+    "prefix": "CO",
+    "body": [
+      "©  COPYRIGHT SIGN"
+    ],
+    "description": "TeX symbol: ©  COPYRIGHT SIGN"
+  },
+  "PO": {
+    "prefix": "PO",
+    "body": [
+      "℗  SOUND RECORDING COPYRIGHT"
+    ],
+    "description": "TeX symbol: ℗  SOUND RECORDING COPYRIGHT"
+  },
+  "RO": {
+    "prefix": "RO",
+    "body": [
+      "®  Registered sign"
+    ],
+    "description": "TeX symbol: ®  Registered sign"
+  },
+  "TEL": {
+    "prefix": "TEL",
+    "body": [
+      "℡  TELEPHONE SIGN"
+    ],
+    "description": "TeX symbol: ℡  TELEPHONE SIGN"
+  },
+  "TELS": {
+    "prefix": "TELS",
+    "body": [
+      "✆  TELEPHONE LOCATION SIGN"
+    ],
+    "description": "TeX symbol: ✆  TELEPHONE LOCATION SIGN"
+  },
+  "TM": {
+    "prefix": "TM",
+    "body": [
+      "™  TRADE MARK SIGN"
+    ],
+    "description": "TeX symbol: ™  TRADE MARK SIGN"
+  },
+  "SM": {
+    "prefix": "SM",
+    "body": [
+      "℠  SERVICE MARK"
+    ],
+    "description": "TeX symbol: ℠  SERVICE MARK"
+  },
+  "FAX": {
+    "prefix": "FAX",
+    "body": [
+      "℻  FACSIMILE SIGN"
+    ],
+    "description": "TeX symbol: ℻  FACSIMILE SIGN"
+  },
+  "info": {
+    "prefix": "info",
+    "body": [
+      "ℹ  INFORMATION SOURCE"
+    ],
+    "description": "TeX symbol: ℹ  INFORMATION SOURCE"
+  },
+  "AE": {
+    "prefix": "AE",
+    "body": [
+      "Æ  Latin Capital letter Æ"
+    ],
+    "description": "TeX symbol: Æ  Latin Capital letter Æ"
+  },
+  "ae": {
+    "prefix": "ae",
+    "body": [
+      "æ  Latin Small Letter Æ"
+    ],
+    "description": "TeX symbol: æ  Latin Small Letter Æ"
+  },
+  "ff": {
+    "prefix": "ff",
+    "body": [
+      "ﬀ  LATIN SMALL LIGATURE FF"
+    ],
+    "description": "TeX symbol: ﬀ  LATIN SMALL LIGATURE FF"
+  },
+  "fi": {
+    "prefix": "fi",
+    "body": [
+      "ﬁ  LATIN SMALL LIGATURE FI"
+    ],
+    "description": "TeX symbol: ﬁ  LATIN SMALL LIGATURE FI"
+  },
+  "fl": {
+    "prefix": "fl",
+    "body": [
+      "ﬂ  LATIN SMALL LIGATURE FL"
+    ],
+    "description": "TeX symbol: ﬂ  LATIN SMALL LIGATURE FL"
+  },
+  "ft": {
+    "prefix": "ft",
+    "body": [
+      "ﬅ  LATIN SMALL LIGATURE LONG S T"
+    ],
+    "description": "TeX symbol: ﬅ  LATIN SMALL LIGATURE LONG S T"
+  },
+  "st": {
+    "prefix": "st",
+    "body": [
+      "ﬆ  LATIN SMALL LIGATURE SF"
+    ],
+    "description": "TeX symbol: ﬆ  LATIN SMALL LIGATURE SF"
+  },
+  "GA": {
+    "prefix": "GA",
+    "body": [
+      "Α"
+    ],
+    "description": "TeX symbol: Α"
+  },
+  "GB": {
+    "prefix": "GB",
+    "body": [
+      "Β"
+    ],
+    "description": "TeX symbol: Β"
+  },
+  "GC": {
+    "prefix": "GC",
+    "body": [
+      "Ψ"
+    ],
+    "description": "TeX symbol: Ψ"
+  },
+  "GD": {
+    "prefix": "GD",
+    "body": [
+      "Δ"
+    ],
+    "description": "TeX symbol: Δ"
+  },
+  "GE": {
+    "prefix": "GE",
+    "body": [
+      "Ε"
+    ],
+    "description": "TeX symbol: Ε"
+  },
+  "GF": {
+    "prefix": "GF",
+    "body": [
+      "Φ"
+    ],
+    "description": "TeX symbol: Φ"
+  },
+  "GG": {
+    "prefix": "GG",
+    "body": [
+      "Γ"
+    ],
+    "description": "TeX symbol: Γ"
+  },
+  "GH": {
+    "prefix": "GH",
+    "body": [
+      "Η"
+    ],
+    "description": "TeX symbol: Η"
+  },
+  "GI": {
+    "prefix": "GI",
+    "body": [
+      "Ι"
+    ],
+    "description": "TeX symbol: Ι"
+  },
+  "GJ": {
+    "prefix": "GJ",
+    "body": [
+      "Ξ"
+    ],
+    "description": "TeX symbol: Ξ"
+  },
+  "GK": {
+    "prefix": "GK",
+    "body": [
+      "Κ"
+    ],
+    "description": "TeX symbol: Κ"
+  },
+  "GL": {
+    "prefix": "GL",
+    "body": [
+      "Λ"
+    ],
+    "description": "TeX symbol: Λ"
+  },
+  "GM": {
+    "prefix": "GM",
+    "body": [
+      "Μ"
+    ],
+    "description": "TeX symbol: Μ"
+  },
+  "GN": {
+    "prefix": "GN",
+    "body": [
+      "Ν"
+    ],
+    "description": "TeX symbol: Ν"
+  },
+  "GO": {
+    "prefix": "GO",
+    "body": [
+      "Ο"
+    ],
+    "description": "TeX symbol: Ο"
+  },
+  "GP": {
+    "prefix": "GP",
+    "body": [
+      "Π"
+    ],
+    "description": "TeX symbol: Π"
+  },
+  "GR": {
+    "prefix": "GR",
+    "body": [
+      "Ρ"
+    ],
+    "description": "TeX symbol: Ρ"
+  },
+  "GS": {
+    "prefix": "GS",
+    "body": [
+      "Σ"
+    ],
+    "description": "TeX symbol: Σ"
+  },
+  "GT": {
+    "prefix": "GT",
+    "body": [
+      "Τ"
+    ],
+    "description": "TeX symbol: Τ"
+  },
+  "GU": {
+    "prefix": "GU",
+    "body": [
+      "Θ"
+    ],
+    "description": "TeX symbol: Θ"
+  },
+  "GV": {
+    "prefix": "GV",
+    "body": [
+      "Ω"
+    ],
+    "description": "TeX symbol: Ω"
+  },
+  "GX": {
+    "prefix": "GX",
+    "body": [
+      "Χ"
+    ],
+    "description": "TeX symbol: Χ"
+  },
+  "GY": {
+    "prefix": "GY",
+    "body": [
+      "Υ"
+    ],
+    "description": "TeX symbol: Υ"
+  },
+  "GZ": {
+    "prefix": "GZ",
+    "body": [
+      "Ζ"
+    ],
+    "description": "TeX symbol: Ζ"
+  },
+  "Ga": {
+    "prefix": "Ga",
+    "body": [
+      "α"
+    ],
+    "description": "TeX symbol: α"
+  },
+  "Gb": {
+    "prefix": "Gb",
+    "body": [
+      "β"
+    ],
+    "description": "TeX symbol: β"
+  },
+  "Gg": {
+    "prefix": "Gg",
+    "body": [
+      "γ"
+    ],
+    "description": "TeX symbol: γ"
+  },
+  "Gd": {
+    "prefix": "Gd",
+    "body": [
+      "δ"
+    ],
+    "description": "TeX symbol: δ"
+  },
+  "Ge": {
+    "prefix": "Ge",
+    "body": [
+      "ϵ"
+    ],
+    "description": "TeX symbol: ϵ"
+  },
+  "Gve": {
+    "prefix": "Gve",
+    "body": [
+      "ε"
+    ],
+    "description": "TeX symbol: ε"
+  },
+  "Gz": {
+    "prefix": "Gz",
+    "body": [
+      "ζ"
+    ],
+    "description": "TeX symbol: ζ"
+  },
+  "Gh": {
+    "prefix": "Gh",
+    "body": [
+      "η"
+    ],
+    "description": "TeX symbol: η"
+  },
+  "Gu": {
+    "prefix": "Gu",
+    "body": [
+      "θ"
+    ],
+    "description": "TeX symbol: θ"
+  },
+  "Gvu": {
+    "prefix": "Gvu",
+    "body": [
+      "ϑ"
+    ],
+    "description": "TeX symbol: ϑ"
+  },
+  "Gi": {
+    "prefix": "Gi",
+    "body": [
+      "ι"
+    ],
+    "description": "TeX symbol: ι"
+  },
+  "Gk": {
+    "prefix": "Gk",
+    "body": [
+      "κ"
+    ],
+    "description": "TeX symbol: κ"
+  },
+  "Gl": {
+    "prefix": "Gl",
+    "body": [
+      "λ"
+    ],
+    "description": "TeX symbol: λ"
+  },
+  "Gm": {
+    "prefix": "Gm",
+    "body": [
+      "μ"
+    ],
+    "description": "TeX symbol: μ"
+  },
+  "Gn": {
+    "prefix": "Gn",
+    "body": [
+      "ν"
+    ],
+    "description": "TeX symbol: ν"
+  },
+  "Gj": {
+    "prefix": "Gj",
+    "body": [
+      "ξ"
+    ],
+    "description": "TeX symbol: ξ"
+  },
+  "Go": {
+    "prefix": "Go",
+    "body": [
+      "ο"
+    ],
+    "description": "TeX symbol: ο"
+  },
+  "Gp": {
+    "prefix": "Gp",
+    "body": [
+      "π"
+    ],
+    "description": "TeX symbol: π"
+  },
+  "Gvp": {
+    "prefix": "Gvp",
+    "body": [
+      "ϖ"
+    ],
+    "description": "TeX symbol: ϖ"
+  },
+  "Gr": {
+    "prefix": "Gr",
+    "body": [
+      "ρ"
+    ],
+    "description": "TeX symbol: ρ"
+  },
+  "Gvr": {
+    "prefix": "Gvr",
+    "body": [
+      "ϱ"
+    ],
+    "description": "TeX symbol: ϱ"
+  },
+  "Gs": {
+    "prefix": "Gs",
+    "body": [
+      "σ"
+    ],
+    "description": "TeX symbol: σ"
+  },
+  "Gvs": {
+    "prefix": "Gvs",
+    "body": [
+      "ς"
+    ],
+    "description": "TeX symbol: ς"
+  },
+  "Gt": {
+    "prefix": "Gt",
+    "body": [
+      "τ"
+    ],
+    "description": "TeX symbol: τ"
+  },
+  "Gy": {
+    "prefix": "Gy",
+    "body": [
+      "υ"
+    ],
+    "description": "TeX symbol: υ"
+  },
+  "Gf": {
+    "prefix": "Gf",
+    "body": [
+      "φ"
+    ],
+    "description": "TeX symbol: φ"
+  },
+  "Gvf": {
+    "prefix": "Gvf",
+    "body": [
+      "ϕ"
+    ],
+    "description": "TeX symbol: ϕ"
+  },
+  "Gx": {
+    "prefix": "Gx",
+    "body": [
+      "χ"
+    ],
+    "description": "TeX symbol: χ"
+  },
+  "Gc": {
+    "prefix": "Gc",
+    "body": [
+      "ψ"
+    ],
+    "description": "TeX symbol: ψ"
+  },
+  "Gw": {
+    "prefix": "Gw",
+    "body": [
+      "ω"
+    ],
+    "description": "TeX symbol: ω"
+  },
+  "Leftarrow": {
+    "prefix": "Leftarrow",
+    "body": [
+      "⇐"
+    ],
+    "description": "TeX symbol: ⇐"
+  },
+  "leftarrow": {
+    "prefix": "leftarrow",
+    "body": [
+      "←"
+    ],
+    "description": "TeX symbol: ←"
+  },
+  "longleftarrow": {
+    "prefix": "longleftarrow",
+    "body": [
+      "⟵"
+    ],
+    "description": "TeX symbol: ⟵"
+  },
+  "Longleftarrow": {
+    "prefix": "Longleftarrow",
+    "body": [
+      "⟸"
+    ],
+    "description": "TeX symbol: ⟸"
+  },
+  "rightarrow": {
+    "prefix": "rightarrow",
+    "body": [
+      "alias to\n→"
+    ],
+    "description": "TeX symbol: alias to\n→"
+  },
+  "longrightarrow": {
+    "prefix": "longrightarrow",
+    "body": [
+      "⟶"
+    ],
+    "description": "TeX symbol: ⟶"
+  },
+  "Rightarrow": {
+    "prefix": "Rightarrow",
+    "body": [
+      "⇒"
+    ],
+    "description": "TeX symbol: ⇒"
+  },
+  "Longrightarrow": {
+    "prefix": "Longrightarrow",
+    "body": [
+      "⟹"
+    ],
+    "description": "TeX symbol: ⟹"
+  },
+  "leftrightarrow": {
+    "prefix": "leftrightarrow",
+    "body": [
+      "⇆"
+    ],
+    "description": "TeX symbol: ⇆"
+  },
+  "longleftrightarrow": {
+    "prefix": "longleftrightarrow",
+    "body": [
+      "⟷"
+    ],
+    "description": "TeX symbol: ⟷"
+  },
+  "Leftrightarrow": {
+    "prefix": "Leftrightarrow",
+    "body": [
+      "⇔"
+    ],
+    "description": "TeX symbol: ⇔"
+  },
+  "Longleftrightarrow": {
+    "prefix": "Longleftrightarrow",
+    "body": [
+      "⟺"
+    ],
+    "description": "TeX symbol: ⟺"
+  },
+  "uparrow": {
+    "prefix": "uparrow",
+    "body": [
+      "↑"
+    ],
+    "description": "TeX symbol: ↑"
+  },
+  "Uparrow": {
+    "prefix": "Uparrow",
+    "body": [
+      "⇑"
+    ],
+    "description": "TeX symbol: ⇑"
+  },
+  "downarrow": {
+    "prefix": "downarrow",
+    "body": [
+      "↓"
+    ],
+    "description": "TeX symbol: ↓"
+  },
+  "Downarrow": {
+    "prefix": "Downarrow",
+    "body": [
+      "⇓"
+    ],
+    "description": "TeX symbol: ⇓"
+  },
+  "updownarrow": {
+    "prefix": "updownarrow",
+    "body": [
+      "↕"
+    ],
+    "description": "TeX symbol: ↕"
+  },
+  "Updownarrow": {
+    "prefix": "Updownarrow",
+    "body": [
+      "⇕"
+    ],
+    "description": "TeX symbol: ⇕"
+  },
+  "nearrow": {
+    "prefix": "nearrow",
+    "body": [
+      "↗"
+    ],
+    "description": "TeX symbol: ↗"
+  },
+  "searrow": {
+    "prefix": "searrow",
+    "body": [
+      "↘"
+    ],
+    "description": "TeX symbol: ↘"
+  },
+  "swarrow": {
+    "prefix": "swarrow",
+    "body": [
+      "↙"
+    ],
+    "description": "TeX symbol: ↙"
+  },
+  "nwarrow": {
+    "prefix": "nwarrow",
+    "body": [
+      "↖"
+    ],
+    "description": "TeX symbol: ↖"
+  },
+  "mapsto": {
+    "prefix": "mapsto",
+    "body": [
+      "↦"
+    ],
+    "description": "TeX symbol: ↦"
+  },
+  "leadsto": {
+    "prefix": "leadsto",
+    "body": [
+      "↝"
+    ],
+    "description": "TeX symbol: ↝"
+  },
+  "longmapsto": {
+    "prefix": "longmapsto",
+    "body": [
+      "⇖"
+    ],
+    "description": "TeX symbol: ⇖"
+  },
+  "hookleftarrow": {
+    "prefix": "hookleftarrow",
+    "body": [
+      "alias hla\n↩"
+    ],
+    "description": "TeX symbol: alias hla\n↩"
+  },
+  "hookrightarrow": {
+    "prefix": "hookrightarrow",
+    "body": [
+      "alias hra\n↪"
+    ],
+    "description": "TeX symbol: alias hra\n↪"
+  },
+  "leftharpoonup": {
+    "prefix": "leftharpoonup",
+    "body": [
+      "↼"
+    ],
+    "description": "TeX symbol: ↼"
+  },
+  "leftharpoondown": {
+    "prefix": "leftharpoondown",
+    "body": [
+      "↽"
+    ],
+    "description": "TeX symbol: ↽"
+  },
+  "rightharpoonup": {
+    "prefix": "rightharpoonup",
+    "body": [
+      "⇀"
+    ],
+    "description": "TeX symbol: ⇀"
+  },
+  "rightharpoondown": {
+    "prefix": "rightharpoondown",
+    "body": [
+      "⇁"
+    ],
+    "description": "TeX symbol: ⇁"
+  },
+  "rightleftharpoons": {
+    "prefix": "rightleftharpoons",
+    "body": [
+      "⇌"
+    ],
+    "description": "TeX symbol: ⇌"
+  },
+  "dashleftarrow": {
+    "prefix": "dashleftarrow",
+    "body": [
+      "⇠"
+    ],
+    "description": "TeX symbol: ⇠"
+  },
+  "leftleftarrows": {
+    "prefix": "leftleftarrows",
+    "body": [
+      "⇇"
+    ],
+    "description": "TeX symbol: ⇇"
+  },
+  "leftrightarrows": {
+    "prefix": "leftrightarrows",
+    "body": [
+      "⇆"
+    ],
+    "description": "TeX symbol: ⇆"
+  },
+  "Lleftarrow": {
+    "prefix": "Lleftarrow",
+    "body": [
+      "⇚"
+    ],
+    "description": "TeX symbol: ⇚"
+  },
+  "twoheadleftarrow": {
+    "prefix": "twoheadleftarrow",
+    "body": [
+      "↞"
+    ],
+    "description": "TeX symbol: ↞"
+  },
+  "leftarrowtail": {
+    "prefix": "leftarrowtail",
+    "body": [
+      "↢"
+    ],
+    "description": "TeX symbol: ↢"
+  },
+  "leftrightharpoons": {
+    "prefix": "leftrightharpoons",
+    "body": [
+      "⇋"
+    ],
+    "description": "TeX symbol: ⇋"
+  },
+  "Lsh": {
+    "prefix": "Lsh",
+    "body": [
+      "↰"
+    ],
+    "description": "TeX symbol: ↰"
+  },
+  "looparrowleft": {
+    "prefix": "looparrowleft",
+    "body": [
+      "↫"
+    ],
+    "description": "TeX symbol: ↫"
+  },
+  "curvearrowleft": {
+    "prefix": "curvearrowleft",
+    "body": [
+      "↶"
+    ],
+    "description": "TeX symbol: ↶"
+  },
+  "circlearrowleft": {
+    "prefix": "circlearrowleft",
+    "body": [
+      "↺"
+    ],
+    "description": "TeX symbol: ↺"
+  },
+  "dashrightarrow": {
+    "prefix": "dashrightarrow",
+    "body": [
+      "⇢"
+    ],
+    "description": "TeX symbol: ⇢"
+  },
+  "rightrightarrows": {
+    "prefix": "rightrightarrows",
+    "body": [
+      "⇉"
+    ],
+    "description": "TeX symbol: ⇉"
+  },
+  "rightleftarrows": {
+    "prefix": "rightleftarrows",
+    "body": [
+      "⇄"
+    ],
+    "description": "TeX symbol: ⇄"
+  },
+  "Rrightarrow": {
+    "prefix": "Rrightarrow",
+    "body": [
+      "⇛"
+    ],
+    "description": "TeX symbol: ⇛"
+  },
+  "twoheadrightarrow": {
+    "prefix": "twoheadrightarrow",
+    "body": [
+      "↠"
+    ],
+    "description": "TeX symbol: ↠"
+  },
+  "rightarrowtail": {
+    "prefix": "rightarrowtail",
+    "body": [
+      "↣"
+    ],
+    "description": "TeX symbol: ↣"
+  },
+  "Rsh": {
+    "prefix": "Rsh",
+    "body": [
+      "↱"
+    ],
+    "description": "TeX symbol: ↱"
+  },
+  "looparrowright": {
+    "prefix": "looparrowright",
+    "body": [
+      "↬"
+    ],
+    "description": "TeX symbol: ↬"
+  },
+  "curvearrowright": {
+    "prefix": "curvearrowright",
+    "body": [
+      "↷"
+    ],
+    "description": "TeX symbol: ↷"
+  },
+  "circlearrowright": {
+    "prefix": "circlearrowright",
+    "body": [
+      "↻"
+    ],
+    "description": "TeX symbol: ↻"
+  },
+  "multimap": {
+    "prefix": "multimap",
+    "body": [
+      "⊸"
+    ],
+    "description": "TeX symbol: ⊸"
+  },
+  "upuparrows": {
+    "prefix": "upuparrows",
+    "body": [
+      "⇈"
+    ],
+    "description": "TeX symbol: ⇈"
+  },
+  "downdownarrows": {
+    "prefix": "downdownarrows",
+    "body": [
+      "⇊"
+    ],
+    "description": "TeX symbol: ⇊"
+  },
+  "upharpoonleft": {
+    "prefix": "upharpoonleft",
+    "body": [
+      "↿"
+    ],
+    "description": "TeX symbol: ↿"
+  },
+  "upharpoonright": {
+    "prefix": "upharpoonright",
+    "body": [
+      "↾"
+    ],
+    "description": "TeX symbol: ↾"
+  },
+  "downharpoonleft": {
+    "prefix": "downharpoonleft",
+    "body": [
+      "⇃"
+    ],
+    "description": "TeX symbol: ⇃"
+  },
+  "downharpoonright": {
+    "prefix": "downharpoonright",
+    "body": [
+      "⇂"
+    ],
+    "description": "TeX symbol: ⇂"
+  },
+  "rightsquigarrow": {
+    "prefix": "rightsquigarrow",
+    "body": [
+      "⇝"
+    ],
+    "description": "TeX symbol: ⇝"
+  },
+  "leftrightsquigarrow": {
+    "prefix": "leftrightsquigarrow",
+    "body": [
+      "↭"
+    ],
+    "description": "TeX symbol: ↭"
+  },
+  "nleftarrow": {
+    "prefix": "nleftarrow",
+    "body": [
+      "↚"
+    ],
+    "description": "TeX symbol: ↚"
+  },
+  "nLeftarrow": {
+    "prefix": "nLeftarrow",
+    "body": [
+      "⇍"
+    ],
+    "description": "TeX symbol: ⇍"
+  },
+  "nleftrightarrow": {
+    "prefix": "nleftrightarrow",
+    "body": [
+      "⇎"
+    ],
+    "description": "TeX symbol: ⇎"
+  },
+  "nrightarrow": {
+    "prefix": "nrightarrow",
+    "body": [
+      "↛"
+    ],
+    "description": "TeX symbol: ↛"
+  },
+  "nRightarrow": {
+    "prefix": "nRightarrow",
+    "body": [
+      "⇏"
+    ],
+    "description": "TeX symbol: ⇏"
+  },
+  "alpha": {
+    "prefix": "alpha",
+    "body": [
+      "α"
+    ],
+    "description": "TeX symbol: α"
+  },
+  "beta": {
+    "prefix": "beta",
+    "body": [
+      "β"
+    ],
+    "description": "TeX symbol: β"
+  },
+  "gamma": {
+    "prefix": "gamma",
+    "body": [
+      "γ"
+    ],
+    "description": "TeX symbol: γ"
+  },
+  "delta": {
+    "prefix": "delta",
+    "body": [
+      "δ"
+    ],
+    "description": "TeX symbol: δ"
+  },
+  "varepsilon": {
+    "prefix": "varepsilon",
+    "body": [
+      "∊"
+    ],
+    "description": "TeX symbol: ∊"
+  },
+  "epsilon": {
+    "prefix": "epsilon",
+    "body": [
+      "ε"
+    ],
+    "description": "TeX symbol: ε"
+  },
+  "zeta": {
+    "prefix": "zeta",
+    "body": [
+      "ζ"
+    ],
+    "description": "TeX symbol: ζ"
+  },
+  "eta": {
+    "prefix": "eta",
+    "body": [
+      "η"
+    ],
+    "description": "TeX symbol: η"
+  },
+  "theta": {
+    "prefix": "theta",
+    "body": [
+      "θ"
+    ],
+    "description": "TeX symbol: θ"
+  },
+  "vartheta": {
+    "prefix": "vartheta",
+    "body": [
+      "ϑ"
+    ],
+    "description": "TeX symbol: ϑ"
+  },
+  "iota": {
+    "prefix": "iota",
+    "body": [
+      "ι"
+    ],
+    "description": "TeX symbol: ι"
+  },
+  "kappa": {
+    "prefix": "kappa",
+    "body": [
+      "κ"
+    ],
+    "description": "TeX symbol: κ"
+  },
+  "lambda": {
+    "prefix": "lambda",
+    "body": [
+      "λ"
+    ],
+    "description": "TeX symbol: λ"
+  },
+  "mu": {
+    "prefix": "mu",
+    "body": [
+      "μ"
+    ],
+    "description": "TeX symbol: μ"
+  },
+  "nu": {
+    "prefix": "nu",
+    "body": [
+      "ν"
+    ],
+    "description": "TeX symbol: ν"
+  },
+  "xi": {
+    "prefix": "xi",
+    "body": [
+      "ξ"
+    ],
+    "description": "TeX symbol: ξ"
+  },
+  "pi": {
+    "prefix": "pi",
+    "body": [
+      "π"
+    ],
+    "description": "TeX symbol: π"
+  },
+  "varpi": {
+    "prefix": "varpi",
+    "body": [
+      "ϖ"
+    ],
+    "description": "TeX symbol: ϖ"
+  },
+  "rho": {
+    "prefix": "rho",
+    "body": [
+      "ρ"
+    ],
+    "description": "TeX symbol: ρ"
+  },
+  "varrho": {
+    "prefix": "varrho",
+    "body": [
+      "ϱ"
+    ],
+    "description": "TeX symbol: ϱ"
+  },
+  "sigma": {
+    "prefix": "sigma",
+    "body": [
+      "σ"
+    ],
+    "description": "TeX symbol: σ"
+  },
+  "varsigma": {
+    "prefix": "varsigma",
+    "body": [
+      "ς"
+    ],
+    "description": "TeX symbol: ς"
+  },
+  "tau": {
+    "prefix": "tau",
+    "body": [
+      "τ"
+    ],
+    "description": "TeX symbol: τ"
+  },
+  "upsilon": {
+    "prefix": "upsilon",
+    "body": [
+      "υ"
+    ],
+    "description": "TeX symbol: υ"
+  },
+  "phi": {
+    "prefix": "phi",
+    "body": [
+      "ϕ"
+    ],
+    "description": "TeX symbol: ϕ"
+  },
+  "varphi": {
+    "prefix": "varphi",
+    "body": [
+      "alias vphi\nφ"
+    ],
+    "description": "TeX symbol: alias vphi\nφ"
+  },
+  "chi": {
+    "prefix": "chi",
+    "body": [
+      "χ"
+    ],
+    "description": "TeX symbol: χ"
+  },
+  "psi": {
+    "prefix": "psi",
+    "body": [
+      "ψ"
+    ],
+    "description": "TeX symbol: ψ"
+  },
+  "omega": {
+    "prefix": "omega",
+    "body": [
+      "ω"
+    ],
+    "description": "TeX symbol: ω"
+  },
+  "Alpha": {
+    "prefix": "Alpha",
+    "body": [
+      "A"
+    ],
+    "description": "TeX symbol: A"
+  },
+  "Beta": {
+    "prefix": "Beta",
+    "body": [
+      "B"
+    ],
+    "description": "TeX symbol: B"
+  },
+  "Gamma": {
+    "prefix": "Gamma",
+    "body": [
+      "Γ"
+    ],
+    "description": "TeX symbol: Γ"
+  },
+  "Delta": {
+    "prefix": "Delta",
+    "body": [
+      "Δ"
+    ],
+    "description": "TeX symbol: Δ"
+  },
+  "Epsilon": {
+    "prefix": "Epsilon",
+    "body": [
+      "E"
+    ],
+    "description": "TeX symbol: E"
+  },
+  "mathrmZ": {
+    "prefix": "mathrmZ",
+    "body": [
+      "Z"
+    ],
+    "description": "TeX symbol: Z"
+  },
+  "Eta": {
+    "prefix": "Eta",
+    "body": [
+      "H"
+    ],
+    "description": "TeX symbol: H"
+  },
+  "Theta": {
+    "prefix": "Theta",
+    "body": [
+      "Θ"
+    ],
+    "description": "TeX symbol: Θ"
+  },
+  "mathrmI": {
+    "prefix": "mathrmI",
+    "body": [
+      "I"
+    ],
+    "description": "TeX symbol: I"
+  },
+  "Kappa": {
+    "prefix": "Kappa",
+    "body": [
+      "K"
+    ],
+    "description": "TeX symbol: K"
+  },
+  "Lambda": {
+    "prefix": "Lambda",
+    "body": [
+      "Λ"
+    ],
+    "description": "TeX symbol: Λ"
+  },
+  "Mu": {
+    "prefix": "Mu",
+    "body": [
+      "M"
+    ],
+    "description": "TeX symbol: M"
+  },
+  "Nu": {
+    "prefix": "Nu",
+    "body": [
+      "N"
+    ],
+    "description": "TeX symbol: N"
+  },
+  "Xi": {
+    "prefix": "Xi",
+    "body": [
+      "Ξ"
+    ],
+    "description": "TeX symbol: Ξ"
+  },
+  "Pi": {
+    "prefix": "Pi",
+    "body": [
+      "Π"
+    ],
+    "description": "TeX symbol: Π"
+  },
+  "Rho": {
+    "prefix": "Rho",
+    "body": [
+      "P"
+    ],
+    "description": "TeX symbol: P"
+  },
+  "Sigma": {
+    "prefix": "Sigma",
+    "body": [
+      "Σ"
+    ],
+    "description": "TeX symbol: Σ"
+  },
+  "Tau": {
+    "prefix": "Tau",
+    "body": [
+      "T"
+    ],
+    "description": "TeX symbol: T"
+  },
+  "Upsilon": {
+    "prefix": "Upsilon",
+    "body": [
+      "Y"
+    ],
+    "description": "TeX symbol: Y"
+  },
+  "Phi": {
+    "prefix": "Phi",
+    "body": [
+      "Φ"
+    ],
+    "description": "TeX symbol: Φ"
+  },
+  "Chi": {
+    "prefix": "Chi",
+    "body": [
+      "X"
+    ],
+    "description": "TeX symbol: X"
+  },
+  "Psi": {
+    "prefix": "Psi",
+    "body": [
+      "Ψ"
+    ],
+    "description": "TeX symbol: Ψ"
+  },
+  "Omega": {
+    "prefix": "Omega",
+    "body": [
+      "Ω"
+    ],
+    "description": "TeX symbol: Ω"
+  },
+  "ll": {
+    "prefix": "ll",
+    "body": [
+      "≪"
+    ],
+    "description": "TeX symbol: ≪"
+  },
+  "lll": {
+    "prefix": "lll",
+    "body": [
+      "⋘"
+    ],
+    "description": "TeX symbol: ⋘"
+  },
+  "leqslant": {
+    "prefix": "leqslant",
+    "body": [
+      "≤"
+    ],
+    "description": "TeX symbol: ≤"
+  },
+  "leq": {
+    "prefix": "leq",
+    "body": [
+      "≤"
+    ],
+    "description": "TeX symbol: ≤"
+  },
+  "leqq": {
+    "prefix": "leqq",
+    "body": [
+      "≦"
+    ],
+    "description": "TeX symbol: ≦"
+  },
+  "eqslantless": {
+    "prefix": "eqslantless",
+    "body": [
+      "⋜"
+    ],
+    "description": "TeX symbol: ⋜"
+  },
+  "lessdot": {
+    "prefix": "lessdot",
+    "body": [
+      "⋖"
+    ],
+    "description": "TeX symbol: ⋖"
+  },
+  "preceq": {
+    "prefix": "preceq",
+    "body": [
+      "≼"
+    ],
+    "description": "TeX symbol: ≼"
+  },
+  "preccurlyeq": {
+    "prefix": "preccurlyeq",
+    "body": [
+      "≼"
+    ],
+    "description": "TeX symbol: ≼"
+  },
+  "curlyeqprec": {
+    "prefix": "curlyeqprec",
+    "body": [
+      "⋞"
+    ],
+    "description": "TeX symbol: ⋞"
+  },
+  "lesssim": {
+    "prefix": "lesssim",
+    "body": [
+      "≲"
+    ],
+    "description": "TeX symbol: ≲"
+  },
+  "precsim": {
+    "prefix": "precsim",
+    "body": [
+      "≾"
+    ],
+    "description": "TeX symbol: ≾"
+  },
+  "Subset": {
+    "prefix": "Subset",
+    "body": [
+      "⋐"
+    ],
+    "description": "TeX symbol: ⋐"
+  },
+  "subseteq": {
+    "prefix": "subseteq",
+    "body": [
+      "⊆"
+    ],
+    "description": "TeX symbol: ⊆"
+  },
+  "sqsubset": {
+    "prefix": "sqsubset",
+    "body": [
+      "⊏"
+    ],
+    "description": "TeX symbol: ⊏"
+  },
+  "sqsubseteq": {
+    "prefix": "sqsubseteq",
+    "body": [
+      "⊑"
+    ],
+    "description": "TeX symbol: ⊑"
+  },
+  "smile": {
+    "prefix": "smile",
+    "body": [
+      "⌣"
+    ],
+    "description": "TeX symbol: ⌣"
+  },
+  "smallsmile": {
+    "prefix": "smallsmile",
+    "body": [
+      "⌣"
+    ],
+    "description": "TeX symbol: ⌣"
+  },
+  "shortparallel": {
+    "prefix": "shortparallel",
+    "body": [
+      "∥"
+    ],
+    "description": "TeX symbol: ∥"
+  },
+  "dashv": {
+    "prefix": "dashv",
+    "body": [
+      "⊣"
+    ],
+    "description": "TeX symbol: ⊣"
+  },
+  "vdash": {
+    "prefix": "vdash",
+    "body": [
+      "⊢"
+    ],
+    "description": "TeX symbol: ⊢"
+  },
+  "vDash": {
+    "prefix": "vDash",
+    "body": [
+      "⊨"
+    ],
+    "description": "TeX symbol: ⊨"
+  },
+  "models": {
+    "prefix": "models",
+    "body": [
+      "⊨"
+    ],
+    "description": "TeX symbol: ⊨"
+  },
+  "backepsilon": {
+    "prefix": "backepsilon",
+    "body": [
+      "∍"
+    ],
+    "description": "TeX symbol: ∍"
+  },
+  "nless": {
+    "prefix": "nless",
+    "body": [
+      "≮"
+    ],
+    "description": "TeX symbol: ≮"
+  },
+  "nleqslant": {
+    "prefix": "nleqslant",
+    "body": [
+      "≰"
+    ],
+    "description": "TeX symbol: ≰"
+  },
+  "lneqq": {
+    "prefix": "lneqq",
+    "body": [
+      "≨"
+    ],
+    "description": "TeX symbol: ≨"
+  },
+  "nprec": {
+    "prefix": "nprec",
+    "body": [
+      "⊀"
+    ],
+    "description": "TeX symbol: ⊀"
+  },
+  "npreceq": {
+    "prefix": "npreceq",
+    "body": [
+      "⋠"
+    ],
+    "description": "TeX symbol: ⋠"
+  },
+  "lnsim": {
+    "prefix": "lnsim",
+    "body": [
+      "⋦"
+    ],
+    "description": "TeX symbol: ⋦"
+  },
+  "precnsim": {
+    "prefix": "precnsim",
+    "body": [
+      "⋨"
+    ],
+    "description": "TeX symbol: ⋨"
+  },
+  "nsubseteq": {
+    "prefix": "nsubseteq",
+    "body": [
+      "⊈"
+    ],
+    "description": "TeX symbol: ⊈"
+  },
+  "subsetneq": {
+    "prefix": "subsetneq",
+    "body": [
+      "⊊"
+    ],
+    "description": "TeX symbol: ⊊"
+  },
+  "subsetneqq": {
+    "prefix": "subsetneqq",
+    "body": [
+      "⊈"
+    ],
+    "description": "TeX symbol: ⊈"
+  },
+  "nparallel": {
+    "prefix": "nparallel",
+    "body": [
+      "∦"
+    ],
+    "description": "TeX symbol: ∦"
+  },
+  "nvdash": {
+    "prefix": "nvdash",
+    "body": [
+      "⊬"
+    ],
+    "description": "TeX symbol: ⊬"
+  },
+  "nvDash": {
+    "prefix": "nvDash",
+    "body": [
+      "⊭"
+    ],
+    "description": "TeX symbol: ⊭"
+  },
+  "gg": {
+    "prefix": "gg",
+    "body": [
+      "≫"
+    ],
+    "description": "TeX symbol: ≫"
+  },
+  "ggg": {
+    "prefix": "ggg",
+    "body": [
+      "⋙"
+    ],
+    "description": "TeX symbol: ⋙"
+  },
+  "gggtr": {
+    "prefix": "gggtr",
+    "body": [
+      "⋙"
+    ],
+    "description": "TeX symbol: ⋙"
+  },
+  "geq": {
+    "prefix": "geq",
+    "body": [
+      "≥"
+    ],
+    "description": "TeX symbol: ≥"
+  },
+  "geqq": {
+    "prefix": "geqq",
+    "body": [
+      "≧"
+    ],
+    "description": "TeX symbol: ≧"
+  },
+  "gtrdot": {
+    "prefix": "gtrdot",
+    "body": [
+      "⋗"
+    ],
+    "description": "TeX symbol: ⋗"
+  },
+  "succeq": {
+    "prefix": "succeq",
+    "body": [
+      "≽"
+    ],
+    "description": "TeX symbol: ≽"
+  },
+  "succcurlyeq": {
+    "prefix": "succcurlyeq",
+    "body": [
+      "≽"
+    ],
+    "description": "TeX symbol: ≽"
+  },
+  "curlyeqsucc": {
+    "prefix": "curlyeqsucc",
+    "body": [
+      "⋟"
+    ],
+    "description": "TeX symbol: ⋟"
+  },
+  "gtrsim": {
+    "prefix": "gtrsim",
+    "body": [
+      "≳"
+    ],
+    "description": "TeX symbol: ≳"
+  },
+  "succsim": {
+    "prefix": "succsim",
+    "body": [
+      "≿"
+    ],
+    "description": "TeX symbol: ≿"
+  },
+  "ni": {
+    "prefix": "ni",
+    "body": [
+      "∋"
+    ],
+    "description": "TeX symbol: ∋"
+  },
+  "Supset": {
+    "prefix": "Supset",
+    "body": [
+      "⋑"
+    ],
+    "description": "TeX symbol: ⋑"
+  },
+  "supseteq": {
+    "prefix": "supseteq",
+    "body": [
+      "⊇"
+    ],
+    "description": "TeX symbol: ⊇"
+  },
+  "sqsupset": {
+    "prefix": "sqsupset",
+    "body": [
+      "⊐"
+    ],
+    "description": "TeX symbol: ⊐"
+  },
+  "sqsupseteq": {
+    "prefix": "sqsupseteq",
+    "body": [
+      "⊒"
+    ],
+    "description": "TeX symbol: ⊒"
+  },
+  "frown": {
+    "prefix": "frown",
+    "body": [
+      "⌢"
+    ],
+    "description": "TeX symbol: ⌢"
+  },
+  "smallfrown": {
+    "prefix": "smallfrown",
+    "body": [
+      "⌢"
+    ],
+    "description": "TeX symbol: ⌢"
+  },
+  "mid": {
+    "prefix": "mid",
+    "body": [
+      "∣"
+    ],
+    "description": "TeX symbol: ∣"
+  },
+  "between": {
+    "prefix": "between",
+    "body": [
+      "≬"
+    ],
+    "description": "TeX symbol: ≬"
+  },
+  "Vdash": {
+    "prefix": "Vdash",
+    "body": [
+      "⊩"
+    ],
+    "description": "TeX symbol: ⊩"
+  },
+  "bowtie": {
+    "prefix": "bowtie",
+    "body": [
+      "⋈"
+    ],
+    "description": "TeX symbol: ⋈"
+  },
+  "Join": {
+    "prefix": "Join",
+    "body": [
+      "⋈"
+    ],
+    "description": "TeX symbol: ⋈"
+  },
+  "pitchfork": {
+    "prefix": "pitchfork",
+    "body": [
+      "⋔"
+    ],
+    "description": "TeX symbol: ⋔"
+  },
+  "ngtr": {
+    "prefix": "ngtr",
+    "body": [
+      "≯"
+    ],
+    "description": "TeX symbol: ≯"
+  },
+  "ngeqslant": {
+    "prefix": "ngeqslant",
+    "body": [
+      "≱"
+    ],
+    "description": "TeX symbol: ≱"
+  },
+  "gneqq": {
+    "prefix": "gneqq",
+    "body": [
+      "≩"
+    ],
+    "description": "TeX symbol: ≩"
+  },
+  "nsucc": {
+    "prefix": "nsucc",
+    "body": [
+      "⊁"
+    ],
+    "description": "TeX symbol: ⊁"
+  },
+  "nsucceq": {
+    "prefix": "nsucceq",
+    "body": [
+      "⋡"
+    ],
+    "description": "TeX symbol: ⋡"
+  },
+  "gnsim": {
+    "prefix": "gnsim",
+    "body": [
+      "⋧"
+    ],
+    "description": "TeX symbol: ⋧"
+  },
+  "succnsim": {
+    "prefix": "succnsim",
+    "body": [
+      "⋩"
+    ],
+    "description": "TeX symbol: ⋩"
+  },
+  "nsupseteq": {
+    "prefix": "nsupseteq",
+    "body": [
+      "⊉"
+    ],
+    "description": "TeX symbol: ⊉"
+  },
+  "supsetneq": {
+    "prefix": "supsetneq",
+    "body": [
+      "⊋"
+    ],
+    "description": "TeX symbol: ⊋"
+  },
+  "nmid": {
+    "prefix": "nmid",
+    "body": [
+      "∤"
+    ],
+    "description": "TeX symbol: ∤"
+  },
+  "nVdash": {
+    "prefix": "nVdash",
+    "body": [
+      "⊮"
+    ],
+    "description": "TeX symbol: ⊮"
+  },
+  "doteq": {
+    "prefix": "doteq",
+    "body": [
+      "≐"
+    ],
+    "description": "TeX symbol: ≐"
+  },
+  "circeq": {
+    "prefix": "circeq",
+    "body": [
+      "≗"
+    ],
+    "description": "TeX symbol: ≗"
+  },
+  "eqcirc": {
+    "prefix": "eqcirc",
+    "body": [
+      "≖"
+    ],
+    "description": "TeX symbol: ≖"
+  },
+  "risingdotseq": {
+    "prefix": "risingdotseq",
+    "body": [
+      "≓"
+    ],
+    "description": "TeX symbol: ≓"
+  },
+  "doteqdot": {
+    "prefix": "doteqdot",
+    "body": [
+      "≑"
+    ],
+    "description": "TeX symbol: ≑"
+  },
+  "Doteq": {
+    "prefix": "Doteq",
+    "body": [
+      "≑"
+    ],
+    "description": "TeX symbol: ≑"
+  },
+  "fallingdotseq": {
+    "prefix": "fallingdotseq",
+    "body": [
+      "≒"
+    ],
+    "description": "TeX symbol: ≒"
+  },
+  "triangleq": {
+    "prefix": "triangleq",
+    "body": [
+      "≜"
+    ],
+    "description": "TeX symbol: ≜"
+  },
+  "bumpeq": {
+    "prefix": "bumpeq",
+    "body": [
+      "≏"
+    ],
+    "description": "TeX symbol: ≏"
+  },
+  "Bumpeq": {
+    "prefix": "Bumpeq",
+    "body": [
+      "≎"
+    ],
+    "description": "TeX symbol: ≎"
+  },
+  "thicksim": {
+    "prefix": "thicksim",
+    "body": [
+      "∼"
+    ],
+    "description": "TeX symbol: ∼"
+  },
+  "backsim": {
+    "prefix": "backsim",
+    "body": [
+      "∽"
+    ],
+    "description": "TeX symbol: ∽"
+  },
+  "simeq": {
+    "prefix": "simeq",
+    "body": [
+      "≃"
+    ],
+    "description": "TeX symbol: ≃"
+  },
+  "backsimeq": {
+    "prefix": "backsimeq",
+    "body": [
+      "⋍"
+    ],
+    "description": "TeX symbol: ⋍"
+  },
+  "thickapprox": {
+    "prefix": "thickapprox",
+    "body": [
+      "≈"
+    ],
+    "description": "TeX symbol: ≈"
+  },
+  "approxeq": {
+    "prefix": "approxeq",
+    "body": [
+      "≊"
+    ],
+    "description": "TeX symbol: ≊"
+  },
+  "blacktriangleleft": {
+    "prefix": "blacktriangleleft",
+    "body": [
+      "◀"
+    ],
+    "description": "TeX symbol: ◀"
+  },
+  "vartriangleleft": {
+    "prefix": "vartriangleleft",
+    "body": [
+      "⊲"
+    ],
+    "description": "TeX symbol: ⊲"
+  },
+  "trianglelefteq": {
+    "prefix": "trianglelefteq",
+    "body": [
+      "⊴"
+    ],
+    "description": "TeX symbol: ⊴"
+  },
+  "blacktriangleright": {
+    "prefix": "blacktriangleright",
+    "body": [
+      "▶"
+    ],
+    "description": "TeX symbol: ▶"
+  },
+  "vartriangleright": {
+    "prefix": "vartriangleright",
+    "body": [
+      "⊳"
+    ],
+    "description": "TeX symbol: ⊳"
+  },
+  "trianglerighteq": {
+    "prefix": "trianglerighteq",
+    "body": [
+      "⊵"
+    ],
+    "description": "TeX symbol: ⊵"
+  },
+  "asymp": {
+    "prefix": "asymp",
+    "body": [
+      "≍"
+    ],
+    "description": "TeX symbol: ≍"
+  },
+  "Vvdash": {
+    "prefix": "Vvdash",
+    "body": [
+      "⊪"
+    ],
+    "description": "TeX symbol: ⊪"
+  },
+  "varpropto": {
+    "prefix": "varpropto",
+    "body": [
+      "∝"
+    ],
+    "description": "TeX symbol: ∝"
+  },
+  "neq": {
+    "prefix": "neq",
+    "body": [
+      "≠"
+    ],
+    "description": "TeX symbol: ≠"
+  },
+  "nsim": {
+    "prefix": "nsim",
+    "body": [
+      "≁"
+    ],
+    "description": "TeX symbol: ≁"
+  },
+  "ncong": {
+    "prefix": "ncong",
+    "body": [
+      "≆"
+    ],
+    "description": "TeX symbol: ≆"
+  },
+  "ntriangleleft": {
+    "prefix": "ntriangleleft",
+    "body": [
+      "⋪"
+    ],
+    "description": "TeX symbol: ⋪"
+  },
+  "ntrianglelefteq": {
+    "prefix": "ntrianglelefteq",
+    "body": [
+      "⋬"
+    ],
+    "description": "TeX symbol: ⋬"
+  },
+  "ntriangleright": {
+    "prefix": "ntriangleright",
+    "body": [
+      "⋫"
+    ],
+    "description": "TeX symbol: ⋫"
+  },
+  "ntrianglerighteq": {
+    "prefix": "ntrianglerighteq",
+    "body": [
+      "⋭"
+    ],
+    "description": "TeX symbol: ⋭"
+  },
+  "lessgtr": {
+    "prefix": "lessgtr",
+    "body": [
+      "≶"
+    ],
+    "description": "TeX symbol: ≶"
+  },
+  "gtrless": {
+    "prefix": "gtrless",
+    "body": [
+      "≷"
+    ],
+    "description": "TeX symbol: ≷"
+  },
+  "lesseqgtr": {
+    "prefix": "lesseqgtr",
+    "body": [
+      "⋚"
+    ],
+    "description": "TeX symbol: ⋚"
+  },
+  "gtreqless": {
+    "prefix": "gtreqless",
+    "body": [
+      "⋛"
+    ],
+    "description": "TeX symbol: ⋛"
+  },
+  "bigcap": {
+    "prefix": "bigcap",
+    "body": [
+      "⋂"
+    ],
+    "description": "TeX symbol: ⋂"
+  },
+  "bigcup": {
+    "prefix": "bigcup",
+    "body": [
+      "⋃"
+    ],
+    "description": "TeX symbol: ⋃"
+  },
+  "bigodot": {
+    "prefix": "bigodot",
+    "body": [
+      "⨀"
+    ],
+    "description": "TeX symbol: ⨀"
+  },
+  "bigoplus": {
+    "prefix": "bigoplus",
+    "body": [
+      "⨁"
+    ],
+    "description": "TeX symbol: ⨁"
+  },
+  "bigotimes": {
+    "prefix": "bigotimes",
+    "body": [
+      "⨂"
+    ],
+    "description": "TeX symbol: ⨂"
+  },
+  "bigsqcup": {
+    "prefix": "bigsqcup",
+    "body": [
+      "⊔"
+    ],
+    "description": "TeX symbol: ⊔"
+  },
+  "biguplus": {
+    "prefix": "biguplus",
+    "body": [
+      "⨄"
+    ],
+    "description": "TeX symbol: ⨄"
+  },
+  "bigvee": {
+    "prefix": "bigvee",
+    "body": [
+      "⋁"
+    ],
+    "description": "TeX symbol: ⋁"
+  },
+  "bigwedge": {
+    "prefix": "bigwedge",
+    "body": [
+      "⋀"
+    ],
+    "description": "TeX symbol: ⋀"
+  },
+  "coprod": {
+    "prefix": "coprod",
+    "body": [
+      "∐"
+    ],
+    "description": "TeX symbol: ∐"
+  },
+  "iint": {
+    "prefix": "iint",
+    "body": [
+      "∬"
+    ],
+    "description": "TeX symbol: ∬"
+  },
+  "iiint": {
+    "prefix": "iiint",
+    "body": [
+      "∭"
+    ],
+    "description": "TeX symbol: ∭"
+  },
+  "iiiint": {
+    "prefix": "iiiint",
+    "body": [
+      "⨌"
+    ],
+    "description": "TeX symbol: ⨌"
+  },
+  "oint": {
+    "prefix": "oint",
+    "body": [
+      "∮"
+    ],
+    "description": "TeX symbol: ∮"
+  },
+  "prod": {
+    "prefix": "prod",
+    "body": [
+      "∏"
+    ],
+    "description": "TeX symbol: ∏"
+  },
+  "pm": {
+    "prefix": "pm",
+    "body": [
+      "±"
+    ],
+    "description": "TeX symbol: ±"
+  },
+  "mp": {
+    "prefix": "mp",
+    "body": [
+      "∓"
+    ],
+    "description": "TeX symbol: ∓"
+  },
+  "dotplus": {
+    "prefix": "dotplus",
+    "body": [
+      "∔"
+    ],
+    "description": "TeX symbol: ∔"
+  },
+  "cdddot": {
+    "prefix": "cdddot",
+    "body": [
+      "⋯"
+    ],
+    "description": "TeX symbol: ⋯"
+  },
+  "cdots": {
+    "prefix": "cdots",
+    "body": [
+      "⋯"
+    ],
+    "description": "TeX symbol: ⋯"
+  },
+  "centerdot": {
+    "prefix": "centerdot",
+    "body": [
+      "⋅"
+    ],
+    "description": "TeX symbol: ⋅"
+  },
+  "times": {
+    "prefix": "times",
+    "body": [
+      "×"
+    ],
+    "description": "TeX symbol: ×"
+  },
+  "ltimes": {
+    "prefix": "ltimes",
+    "body": [
+      "⋉"
+    ],
+    "description": "TeX symbol: ⋉"
+  },
+  "rtimes": {
+    "prefix": "rtimes",
+    "body": [
+      "⋊"
+    ],
+    "description": "TeX symbol: ⋊"
+  },
+  "leftthreetimes": {
+    "prefix": "leftthreetimes",
+    "body": [
+      "⋋"
+    ],
+    "description": "TeX symbol: ⋋"
+  },
+  "rightthreetimes": {
+    "prefix": "rightthreetimes",
+    "body": [
+      "⋌"
+    ],
+    "description": "TeX symbol: ⋌"
+  },
+  "div": {
+    "prefix": "div",
+    "body": [
+      "options div\n\\mathrm{div} \\thinspace"
+    ],
+    "description": "TeX symbol: options div\n\\mathrm{div} \\thinspace"
+  },
+  "divideontimes": {
+    "prefix": "divideontimes",
+    "body": [
+      "⋇"
+    ],
+    "description": "TeX symbol: ⋇"
+  },
+  "ast": {
+    "prefix": "ast",
+    "body": [
+      "∗"
+    ],
+    "description": "TeX symbol: ∗"
+  },
+  "star": {
+    "prefix": "star",
+    "body": [
+      "⋆"
+    ],
+    "description": "TeX symbol: ⋆"
+  },
+  "setminus": {
+    "prefix": "setminus",
+    "body": [
+      "∖"
+    ],
+    "description": "TeX symbol: ∖"
+  },
+  "smallsetminus": {
+    "prefix": "smallsetminus",
+    "body": [
+      "∖"
+    ],
+    "description": "TeX symbol: ∖"
+  },
+  "diamond": {
+    "prefix": "diamond",
+    "body": [
+      "⋄"
+    ],
+    "description": "TeX symbol: ⋄"
+  },
+  "wr": {
+    "prefix": "wr",
+    "body": [
+      "≀"
+    ],
+    "description": "TeX symbol: ≀"
+  },
+  "intercal": {
+    "prefix": "intercal",
+    "body": [
+      "⊺"
+    ],
+    "description": "TeX symbol: ⊺"
+  },
+  "bigcirc": {
+    "prefix": "bigcirc",
+    "body": [
+      "○"
+    ],
+    "description": "TeX symbol: ○"
+  },
+  "bullet": {
+    "prefix": "bullet",
+    "body": [
+      "∙"
+    ],
+    "description": "TeX symbol: ∙"
+  },
+  "Cap": {
+    "prefix": "Cap",
+    "body": [
+      "⋒"
+    ],
+    "description": "TeX symbol: ⋒"
+  },
+  "Cup": {
+    "prefix": "Cup",
+    "body": [
+      "⋓"
+    ],
+    "description": "TeX symbol: ⋓"
+  },
+  "sqcap": {
+    "prefix": "sqcap",
+    "body": [
+      "⊓"
+    ],
+    "description": "TeX symbol: ⊓"
+  },
+  "sqcup": {
+    "prefix": "sqcup",
+    "body": [
+      "⊔"
+    ],
+    "description": "TeX symbol: ⊔"
+  },
+  "uplus": {
+    "prefix": "uplus",
+    "body": [
+      "⊎"
+    ],
+    "description": "TeX symbol: ⊎"
+  },
+  "triangleleft": {
+    "prefix": "triangleleft",
+    "body": [
+      "◁"
+    ],
+    "description": "TeX symbol: ◁"
+  },
+  "triangleright": {
+    "prefix": "triangleright",
+    "body": [
+      "▷"
+    ],
+    "description": "TeX symbol: ▷"
+  },
+  "bigtriangleup": {
+    "prefix": "bigtriangleup",
+    "body": [
+      "△"
+    ],
+    "description": "TeX symbol: △"
+  },
+  "bigtriangledown": {
+    "prefix": "bigtriangledown",
+    "body": [
+      "▽"
+    ],
+    "description": "TeX symbol: ▽"
+  },
+  "veebar": {
+    "prefix": "veebar",
+    "body": [
+      "⊻"
+    ],
+    "description": "TeX symbol: ⊻"
+  },
+  "curlyvee": {
+    "prefix": "curlyvee",
+    "body": [
+      "⋎"
+    ],
+    "description": "TeX symbol: ⋎"
+  },
+  "barwedge": {
+    "prefix": "barwedge",
+    "body": [
+      "⊼"
+    ],
+    "description": "TeX symbol: ⊼"
+  },
+  "doublebarwedge": {
+    "prefix": "doublebarwedge",
+    "body": [
+      "⌆"
+    ],
+    "description": "TeX symbol: ⌆"
+  },
+  "curlywedge": {
+    "prefix": "curlywedge",
+    "body": [
+      "⋏"
+    ],
+    "description": "TeX symbol: ⋏"
+  },
+  "ominus": {
+    "prefix": "ominus",
+    "body": [
+      "⊖"
+    ],
+    "description": "TeX symbol: ⊖"
+  },
+  "oslash": {
+    "prefix": "oslash",
+    "body": [
+      "⊘"
+    ],
+    "description": "TeX symbol: ⊘"
+  },
+  "boxplus": {
+    "prefix": "boxplus",
+    "body": [
+      "⊞"
+    ],
+    "description": "TeX symbol: ⊞"
+  },
+  "boxminus": {
+    "prefix": "boxminus",
+    "body": [
+      "⊟"
+    ],
+    "description": "TeX symbol: ⊟"
+  },
+  "boxtimes": {
+    "prefix": "boxtimes",
+    "body": [
+      "⊠"
+    ],
+    "description": "TeX symbol: ⊠"
+  },
+  "boxdot": {
+    "prefix": "boxdot",
+    "body": [
+      "⊡"
+    ],
+    "description": "TeX symbol: ⊡"
+  },
+  "odot": {
+    "prefix": "odot",
+    "body": [
+      "⊙"
+    ],
+    "description": "TeX symbol: ⊙"
+  },
+  "circledast": {
+    "prefix": "circledast",
+    "body": [
+      "⊛"
+    ],
+    "description": "TeX symbol: ⊛"
+  },
+  "circleddash": {
+    "prefix": "circleddash",
+    "body": [
+      "⊝"
+    ],
+    "description": "TeX symbol: ⊝"
+  },
+  "circledcirc": {
+    "prefix": "circledcirc",
+    "body": [
+      "⊚"
+    ],
+    "description": "TeX symbol: ⊚"
+  },
+  "dagger": {
+    "prefix": "dagger",
+    "body": [
+      "†"
+    ],
+    "description": "TeX symbol: †"
+  },
+  "ddagger": {
+    "prefix": "ddagger",
+    "body": [
+      "‡"
+    ],
+    "description": "TeX symbol: ‡"
+  },
+  "lhd": {
+    "prefix": "lhd",
+    "body": [
+      "⊲"
+    ],
+    "description": "TeX symbol: ⊲"
+  },
+  "unlhd": {
+    "prefix": "unlhd",
+    "body": [
+      "⊴"
+    ],
+    "description": "TeX symbol: ⊴"
+  },
+  "rhd": {
+    "prefix": "rhd",
+    "body": [
+      "⊳"
+    ],
+    "description": "TeX symbol: ⊳"
+  },
+  "unrhd": {
+    "prefix": "unrhd",
+    "body": [
+      "⊵"
+    ],
+    "description": "TeX symbol: ⊵"
+  },
+  "aleph": {
+    "prefix": "aleph",
+    "body": [
+      "א"
+    ],
+    "description": "TeX symbol: א"
+  },
+  "hbar": {
+    "prefix": "hbar",
+    "body": [
+      "ℏ"
+    ],
+    "description": "TeX symbol: ℏ"
+  },
+  "ell": {
+    "prefix": "ell",
+    "body": [
+      "ℓ"
+    ],
+    "description": "TeX symbol: ℓ"
+  },
+  "wp": {
+    "prefix": "wp",
+    "body": [
+      "℘"
+    ],
+    "description": "TeX symbol: ℘"
+  },
+  "Re": {
+    "prefix": "Re",
+    "body": [
+      "ℜ"
+    ],
+    "description": "TeX symbol: ℜ"
+  },
+  "Im": {
+    "prefix": "Im",
+    "body": [
+      "ℑ"
+    ],
+    "description": "TeX symbol: ℑ"
+  },
+  "infty": {
+    "prefix": "infty",
+    "body": [
+      "∞"
+    ],
+    "description": "TeX symbol: ∞"
+  },
+  "prime": {
+    "prefix": "prime",
+    "body": [
+      "′"
+    ],
+    "description": "TeX symbol: ′"
+  },
+  "surd": {
+    "prefix": "surd",
+    "body": [
+      "√"
+    ],
+    "description": "TeX symbol: √"
+  },
+  "top": {
+    "prefix": "top",
+    "body": [
+      "⊤"
+    ],
+    "description": "TeX symbol: ⊤"
+  },
+  "bot": {
+    "prefix": "bot",
+    "body": [
+      "⊥"
+    ],
+    "description": "TeX symbol: ⊥"
+  },
+  "angle": {
+    "prefix": "angle",
+    "body": [
+      "∠"
+    ],
+    "description": "TeX symbol: ∠"
+  },
+  "triangle": {
+    "prefix": "triangle",
+    "body": [
+      "△"
+    ],
+    "description": "TeX symbol: △"
+  },
+  "flat": {
+    "prefix": "flat",
+    "body": [
+      "♭"
+    ],
+    "description": "TeX symbol: ♭"
+  },
+  "natural": {
+    "prefix": "natural",
+    "body": [
+      "♮"
+    ],
+    "description": "TeX symbol: ♮"
+  },
+  "sharp": {
+    "prefix": "sharp",
+    "body": [
+      "♯"
+    ],
+    "description": "TeX symbol: ♯"
+  },
+  "clubsuit": {
+    "prefix": "clubsuit",
+    "body": [
+      "♣"
+    ],
+    "description": "TeX symbol: ♣"
+  },
+  "diamondsuit": {
+    "prefix": "diamondsuit",
+    "body": [
+      "♢"
+    ],
+    "description": "TeX symbol: ♢"
+  },
+  "heartsuit": {
+    "prefix": "heartsuit",
+    "body": [
+      "♡"
+    ],
+    "description": "TeX symbol: ♡"
+  },
+  "spadesuit": {
+    "prefix": "spadesuit",
+    "body": [
+      "♠"
+    ],
+    "description": "TeX symbol: ♠"
+  },
+  "S": {
+    "prefix": "S",
+    "body": [
+      "§"
+    ],
+    "description": "TeX symbol: §"
+  },
+  "P": {
+    "prefix": "P",
+    "body": [
+      "¶"
+    ],
+    "description": "TeX symbol: ¶"
+  },
+  "varnothing": {
+    "prefix": "varnothing",
+    "body": [
+      "⌀"
+    ],
+    "description": "TeX symbol: ⌀"
+  },
+  "beth": {
+    "prefix": "beth",
+    "body": [
+      "ב"
+    ],
+    "description": "TeX symbol: ב"
+  },
+  "gimel": {
+    "prefix": "gimel",
+    "body": [
+      "ג"
+    ],
+    "description": "TeX symbol: ג"
+  },
+  "daleth": {
+    "prefix": "daleth",
+    "body": [
+      "ד"
+    ],
+    "description": "TeX symbol: ד"
+  },
+  "hslash": {
+    "prefix": "hslash",
+    "body": [
+      "ℏ"
+    ],
+    "description": "TeX symbol: ℏ"
+  },
+  "diagup": {
+    "prefix": "diagup",
+    "body": [
+      "⁄"
+    ],
+    "description": "TeX symbol: ⁄"
+  },
+  "Vert": {
+    "prefix": "Vert",
+    "body": [
+      "∥"
+    ],
+    "description": "TeX symbol: ∥"
+  },
+  "Bbbk": {
+    "prefix": "Bbbk",
+    "body": [
+      "ᵕ"
+    ],
+    "description": "TeX symbol: ᵕ"
+  },
+  "AA": {
+    "prefix": "AA",
+    "body": [
+      "Å"
+    ],
+    "description": "TeX symbol: Å"
+  },
+  "#": {
+    "prefix": "#",
+    "body": [
+      "#"
+    ],
+    "description": "TeX symbol: #"
+  },
+  "%": {
+    "prefix": "%",
+    "body": [
+      "%"
+    ],
+    "description": "TeX symbol: %"
+  },
+  "$": {
+    "prefix": "$",
+    "body": [
+      "$"
+    ],
+    "description": "TeX symbol: $"
+  },
+  "&": {
+    "prefix": "&",
+    "body": [
+      "&"
+    ],
+    "description": "TeX symbol: &"
+  },
+  "backprime": {
+    "prefix": "backprime",
+    "body": [
+      "‵"
+    ],
+    "description": "TeX symbol: ‵"
+  },
+  "eth": {
+    "prefix": "eth",
+    "body": [
+      "ð"
+    ],
+    "description": "TeX symbol: ð"
+  },
+  "bigstar": {
+    "prefix": "bigstar",
+    "body": [
+      "★"
+    ],
+    "description": "TeX symbol: ★"
+  },
+  "circledS": {
+    "prefix": "circledS",
+    "body": [
+      "Ⓢ"
+    ],
+    "description": "TeX symbol: Ⓢ"
+  },
+  "Finv": {
+    "prefix": "Finv",
+    "body": [
+      "Ⅎ"
+    ],
+    "description": "TeX symbol: Ⅎ"
+  },
+  "dag": {
+    "prefix": "dag",
+    "body": [
+      "†"
+    ],
+    "description": "TeX symbol: †"
+  },
+  "ddag": {
+    "prefix": "ddag",
+    "body": [
+      "‡"
+    ],
+    "description": "TeX symbol: ‡"
+  },
+  "measuredangle": {
+    "prefix": "measuredangle",
+    "body": [
+      "∡"
+    ],
+    "description": "TeX symbol: ∡"
+  },
+  "sphericalangle": {
+    "prefix": "sphericalangle",
+    "body": [
+      "∢"
+    ],
+    "description": "TeX symbol: ∢"
+  },
+  "lozenge": {
+    "prefix": "lozenge",
+    "body": [
+      "◊"
+    ],
+    "description": "TeX symbol: ◊"
+  },
+  "blacklozenge": {
+    "prefix": "blacklozenge",
+    "body": [
+      "◆"
+    ],
+    "description": "TeX symbol: ◆"
+  },
+  "Diamond": {
+    "prefix": "Diamond",
+    "body": [
+      "◇"
+    ],
+    "description": "TeX symbol: ◇"
+  },
+  "vartriangle": {
+    "prefix": "vartriangle",
+    "body": [
+      "△"
+    ],
+    "description": "TeX symbol: △"
+  },
+  "blacktriangle": {
+    "prefix": "blacktriangle",
+    "body": [
+      "▲"
+    ],
+    "description": "TeX symbol: ▲"
+  },
+  "triangledown": {
+    "prefix": "triangledown",
+    "body": [
+      "▽"
+    ],
+    "description": "TeX symbol: ▽"
+  },
+  "blacktriangledown": {
+    "prefix": "blacktriangledown",
+    "body": [
+      "▼"
+    ],
+    "description": "TeX symbol: ▼"
+  },
+  "Box": {
+    "prefix": "Box",
+    "body": [
+      "□"
+    ],
+    "description": "TeX symbol: □"
+  },
+  "square": {
+    "prefix": "square",
+    "body": [
+      "□"
+    ],
+    "description": "TeX symbol: □"
+  },
+  "blacksquare": {
+    "prefix": "blacksquare",
+    "body": [
+      "■"
+    ],
+    "description": "TeX symbol: ■"
+  },
+  "complement": {
+    "prefix": "complement",
+    "body": [
+      "∁"
+    ],
+    "description": "TeX symbol: ∁"
+  },
+  "mho": {
+    "prefix": "mho",
+    "body": [
+      "℧"
+    ],
+    "description": "TeX symbol: ℧"
+  },
+  "Game": {
+    "prefix": "Game",
+    "body": [
+      "⅁"
+    ],
+    "description": "TeX symbol: ⅁"
+  },
+  "smallint": {
+    "prefix": "smallint",
+    "body": [
+      "∫"
+    ],
+    "description": "TeX symbol: ∫"
+  },
+  "lnot": {
+    "prefix": "lnot",
+    "body": [
+      "¬"
+    ],
+    "description": "TeX symbol: ¬"
+  },
+  "lor": {
+    "prefix": "lor",
+    "body": [
+      "∨"
+    ],
+    "description": "TeX symbol: ∨"
+  },
+  "land": {
+    "prefix": "land",
+    "body": [
+      "∧"
+    ],
+    "description": "TeX symbol: ∧"
+  },
+  "left": {
+    "prefix": "left",
+    "body": [
+      "("
+    ],
+    "description": "TeX symbol: ("
+  },
+  "right": {
+    "prefix": "right",
+    "body": [
+      ")"
+    ],
+    "description": "TeX symbol: )"
+  },
+  "lfloor": {
+    "prefix": "lfloor",
+    "body": [
+      "⌊"
+    ],
+    "description": "TeX symbol: ⌊"
+  },
+  "lceil": {
+    "prefix": "lceil",
+    "body": [
+      "⌈"
+    ],
+    "description": "TeX symbol: ⌈"
+  },
+  "rfloor": {
+    "prefix": "rfloor",
+    "body": [
+      "⌋"
+    ],
+    "description": "TeX symbol: ⌋"
+  },
+  "rceil": {
+    "prefix": "rceil",
+    "body": [
+      "⌉"
+    ],
+    "description": "TeX symbol: ⌉"
+  },
+  "langle": {
+    "prefix": "langle",
+    "body": [
+      "alias <\n⟨"
+    ],
+    "description": "TeX symbol: alias <\n⟨"
+  },
+  "rangle": {
+    "prefix": "rangle",
+    "body": [
+      "alias >\n⟩"
+    ],
+    "description": "TeX symbol: alias >\n⟩"
+  },
+  "ulcorner": {
+    "prefix": "ulcorner",
+    "body": [
+      "⌜"
+    ],
+    "description": "TeX symbol: ⌜"
+  },
+  "urcorner": {
+    "prefix": "urcorner",
+    "body": [
+      "⌝"
+    ],
+    "description": "TeX symbol: ⌝"
+  },
+  "llcorner": {
+    "prefix": "llcorner",
+    "body": [
+      "⌞"
+    ],
+    "description": "TeX symbol: ⌞"
+  },
+  "rlcorner": {
+    "prefix": "rlcorner",
+    "body": [
+      "⌟"
+    ],
+    "description": "TeX symbol: ⌟"
+  },
+  "lmoustache": {
+    "prefix": "lmoustache",
+    "body": [
+      "∫"
+    ],
+    "description": "TeX symbol: ∫"
+  },
+  "mathbbA": {
+    "prefix": "mathbbA",
+    "body": [
+      "𝔸"
+    ],
+    "description": "TeX symbol: 𝔸"
+  },
+  "mathbbB": {
+    "prefix": "mathbbB",
+    "body": [
+      "𝔹"
+    ],
+    "description": "TeX symbol: 𝔹"
+  },
+  "mathbbC": {
+    "prefix": "mathbbC",
+    "body": [
+      "ℂ"
+    ],
+    "description": "TeX symbol: ℂ"
+  },
+  "mathbbD": {
+    "prefix": "mathbbD",
+    "body": [
+      "𝔻"
+    ],
+    "description": "TeX symbol: 𝔻"
+  },
+  "mathbbE": {
+    "prefix": "mathbbE",
+    "body": [
+      "𝔼"
+    ],
+    "description": "TeX symbol: 𝔼"
+  },
+  "mathbbF": {
+    "prefix": "mathbbF",
+    "body": [
+      "𝔽"
+    ],
+    "description": "TeX symbol: 𝔽"
+  },
+  "mathbbG": {
+    "prefix": "mathbbG",
+    "body": [
+      "𝔾"
+    ],
+    "description": "TeX symbol: 𝔾"
+  },
+  "mathbbH": {
+    "prefix": "mathbbH",
+    "body": [
+      "ℍ"
+    ],
+    "description": "TeX symbol: ℍ"
+  },
+  "mathbbI": {
+    "prefix": "mathbbI",
+    "body": [
+      "𝕀"
+    ],
+    "description": "TeX symbol: 𝕀"
+  },
+  "mathbbJ": {
+    "prefix": "mathbbJ",
+    "body": [
+      "𝕁"
+    ],
+    "description": "TeX symbol: 𝕁"
+  },
+  "mathbbK": {
+    "prefix": "mathbbK",
+    "body": [
+      "𝕂"
+    ],
+    "description": "TeX symbol: 𝕂"
+  },
+  "mathbbL": {
+    "prefix": "mathbbL",
+    "body": [
+      "𝕃"
+    ],
+    "description": "TeX symbol: 𝕃"
+  },
+  "mathbbM": {
+    "prefix": "mathbbM",
+    "body": [
+      "𝕄"
+    ],
+    "description": "TeX symbol: 𝕄"
+  },
+  "mathbbN": {
+    "prefix": "mathbbN",
+    "body": [
+      "ℕ"
+    ],
+    "description": "TeX symbol: ℕ"
+  },
+  "mathbbO": {
+    "prefix": "mathbbO",
+    "body": [
+      "𝕆"
+    ],
+    "description": "TeX symbol: 𝕆"
+  },
+  "mathbbP": {
+    "prefix": "mathbbP",
+    "body": [
+      "ℙ"
+    ],
+    "description": "TeX symbol: ℙ"
+  },
+  "mathbbQ": {
+    "prefix": "mathbbQ",
+    "body": [
+      "ℚ"
+    ],
+    "description": "TeX symbol: ℚ"
+  },
+  "mathbbR": {
+    "prefix": "mathbbR",
+    "body": [
+      "ℝ"
+    ],
+    "description": "TeX symbol: ℝ"
+  },
+  "mathbbS": {
+    "prefix": "mathbbS",
+    "body": [
+      "𝕊"
+    ],
+    "description": "TeX symbol: 𝕊"
+  },
+  "mathbbT": {
+    "prefix": "mathbbT",
+    "body": [
+      "𝕋"
+    ],
+    "description": "TeX symbol: 𝕋"
+  },
+  "mathbbU": {
+    "prefix": "mathbbU",
+    "body": [
+      "𝕌"
+    ],
+    "description": "TeX symbol: 𝕌"
+  },
+  "mathbbV": {
+    "prefix": "mathbbV",
+    "body": [
+      "𝕍"
+    ],
+    "description": "TeX symbol: 𝕍"
+  },
+  "mathbbW": {
+    "prefix": "mathbbW",
+    "body": [
+      "𝕎"
+    ],
+    "description": "TeX symbol: 𝕎"
+  },
+  "mathbbX": {
+    "prefix": "mathbbX",
+    "body": [
+      "𝕏"
+    ],
+    "description": "TeX symbol: 𝕏"
+  },
+  "mathbbY": {
+    "prefix": "mathbbY",
+    "body": [
+      "𝕐"
+    ],
+    "description": "TeX symbol: 𝕐"
+  },
+  "mathbbZ": {
+    "prefix": "mathbbZ",
+    "body": [
+      "ℤ"
+    ],
+    "description": "TeX symbol: ℤ"
+  },
+  "BBA": {
+    "prefix": "BBA",
+    "body": [
+      "𝔸"
+    ],
+    "description": "TeX symbol: 𝔸"
+  },
+  "BBB": {
+    "prefix": "BBB",
+    "body": [
+      "𝔹"
+    ],
+    "description": "TeX symbol: 𝔹"
+  },
+  "BBC": {
+    "prefix": "BBC",
+    "body": [
+      "ℂ"
+    ],
+    "description": "TeX symbol: ℂ"
+  },
+  "BBD": {
+    "prefix": "BBD",
+    "body": [
+      "𝔻"
+    ],
+    "description": "TeX symbol: 𝔻"
+  },
+  "BBE": {
+    "prefix": "BBE",
+    "body": [
+      "𝔼"
+    ],
+    "description": "TeX symbol: 𝔼"
+  },
+  "BBF": {
+    "prefix": "BBF",
+    "body": [
+      "𝔽"
+    ],
+    "description": "TeX symbol: 𝔽"
+  },
+  "BBG": {
+    "prefix": "BBG",
+    "body": [
+      "𝔾"
+    ],
+    "description": "TeX symbol: 𝔾"
+  },
+  "BBH": {
+    "prefix": "BBH",
+    "body": [
+      "ℍ"
+    ],
+    "description": "TeX symbol: ℍ"
+  },
+  "BBI": {
+    "prefix": "BBI",
+    "body": [
+      "𝕀"
+    ],
+    "description": "TeX symbol: 𝕀"
+  },
+  "BBJ": {
+    "prefix": "BBJ",
+    "body": [
+      "𝕁"
+    ],
+    "description": "TeX symbol: 𝕁"
+  },
+  "BBK": {
+    "prefix": "BBK",
+    "body": [
+      "𝕂"
+    ],
+    "description": "TeX symbol: 𝕂"
+  },
+  "BBL": {
+    "prefix": "BBL",
+    "body": [
+      "𝕃"
+    ],
+    "description": "TeX symbol: 𝕃"
+  },
+  "BBM": {
+    "prefix": "BBM",
+    "body": [
+      "𝕄"
+    ],
+    "description": "TeX symbol: 𝕄"
+  },
+  "BBN": {
+    "prefix": "BBN",
+    "body": [
+      "ℕ"
+    ],
+    "description": "TeX symbol: ℕ"
+  },
+  "BBO": {
+    "prefix": "BBO",
+    "body": [
+      "𝕆"
+    ],
+    "description": "TeX symbol: 𝕆"
+  },
+  "BBP": {
+    "prefix": "BBP",
+    "body": [
+      "ℙ"
+    ],
+    "description": "TeX symbol: ℙ"
+  },
+  "BBQ": {
+    "prefix": "BBQ",
+    "body": [
+      "ℚ"
+    ],
+    "description": "TeX symbol: ℚ"
+  },
+  "BBR": {
+    "prefix": "BBR",
+    "body": [
+      "ℝ"
+    ],
+    "description": "TeX symbol: ℝ"
+  },
+  "BBS": {
+    "prefix": "BBS",
+    "body": [
+      "𝕊"
+    ],
+    "description": "TeX symbol: 𝕊"
+  },
+  "BBT": {
+    "prefix": "BBT",
+    "body": [
+      "𝕋"
+    ],
+    "description": "TeX symbol: 𝕋"
+  },
+  "BBU": {
+    "prefix": "BBU",
+    "body": [
+      "𝕌"
+    ],
+    "description": "TeX symbol: 𝕌"
+  },
+  "BBV": {
+    "prefix": "BBV",
+    "body": [
+      "𝕍"
+    ],
+    "description": "TeX symbol: 𝕍"
+  },
+  "BBW": {
+    "prefix": "BBW",
+    "body": [
+      "𝕎"
+    ],
+    "description": "TeX symbol: 𝕎"
+  },
+  "BBX": {
+    "prefix": "BBX",
+    "body": [
+      "𝕏"
+    ],
+    "description": "TeX symbol: 𝕏"
+  },
+  "BBY": {
+    "prefix": "BBY",
+    "body": [
+      "𝕐"
+    ],
+    "description": "TeX symbol: 𝕐"
+  },
+  "BBZ": {
+    "prefix": "BBZ",
+    "body": [
+      "ℤ"
+    ],
+    "description": "TeX symbol: ℤ"
+  },
+  "mathbb0": {
+    "prefix": "mathbb0",
+    "body": [
+      "𝟘"
+    ],
+    "description": "TeX symbol: 𝟘"
+  },
+  "mathbb1": {
+    "prefix": "mathbb1",
+    "body": [
+      "𝟙"
+    ],
+    "description": "TeX symbol: 𝟙"
+  },
+  "mathbb2": {
+    "prefix": "mathbb2",
+    "body": [
+      "𝟚"
+    ],
+    "description": "TeX symbol: 𝟚"
+  },
+  "mathbb3": {
+    "prefix": "mathbb3",
+    "body": [
+      "𝟛"
+    ],
+    "description": "TeX symbol: 𝟛"
+  },
+  "mathbb4": {
+    "prefix": "mathbb4",
+    "body": [
+      "𝟜"
+    ],
+    "description": "TeX symbol: 𝟜"
+  },
+  "mathbb5": {
+    "prefix": "mathbb5",
+    "body": [
+      "𝟝"
+    ],
+    "description": "TeX symbol: 𝟝"
+  },
+  "mathbb6": {
+    "prefix": "mathbb6",
+    "body": [
+      "𝟞"
+    ],
+    "description": "TeX symbol: 𝟞"
+  },
+  "mathbb7": {
+    "prefix": "mathbb7",
+    "body": [
+      "𝟟"
+    ],
+    "description": "TeX symbol: 𝟟"
+  },
+  "mathbb8": {
+    "prefix": "mathbb8",
+    "body": [
+      "𝟠"
+    ],
+    "description": "TeX symbol: 𝟠"
+  },
+  "mathbb9": {
+    "prefix": "mathbb9",
+    "body": [
+      "𝟡"
+    ],
+    "description": "TeX symbol: 𝟡"
+  },
+  "BB0": {
+    "prefix": "BB0",
+    "body": [
+      "𝟘"
+    ],
+    "description": "TeX symbol: 𝟘"
+  },
+  "BB1": {
+    "prefix": "BB1",
+    "body": [
+      "𝟙"
+    ],
+    "description": "TeX symbol: 𝟙"
+  },
+  "BB2": {
+    "prefix": "BB2",
+    "body": [
+      "𝟚"
+    ],
+    "description": "TeX symbol: 𝟚"
+  },
+  "BB3": {
+    "prefix": "BB3",
+    "body": [
+      "𝟛"
+    ],
+    "description": "TeX symbol: 𝟛"
+  },
+  "BB4": {
+    "prefix": "BB4",
+    "body": [
+      "𝟜"
+    ],
+    "description": "TeX symbol: 𝟜"
+  },
+  "BB5": {
+    "prefix": "BB5",
+    "body": [
+      "𝟝"
+    ],
+    "description": "TeX symbol: 𝟝"
+  },
+  "BB6": {
+    "prefix": "BB6",
+    "body": [
+      "𝟞"
+    ],
+    "description": "TeX symbol: 𝟞"
+  },
+  "BB7": {
+    "prefix": "BB7",
+    "body": [
+      "𝟟"
+    ],
+    "description": "TeX symbol: 𝟟"
+  },
+  "BB8": {
+    "prefix": "BB8",
+    "body": [
+      "𝟠"
+    ],
+    "description": "TeX symbol: 𝟠"
+  },
+  "BB9": {
+    "prefix": "BB9",
+    "body": [
+      "𝟡"
+    ],
+    "description": "TeX symbol: 𝟡"
+  },
+  "mathfrakA": {
+    "prefix": "mathfrakA",
+    "body": [
+      "𝔄"
+    ],
+    "description": "TeX symbol: 𝔄"
+  },
+  "mathfrakB": {
+    "prefix": "mathfrakB",
+    "body": [
+      "𝔅"
+    ],
+    "description": "TeX symbol: 𝔅"
+  },
+  "mathfrakC": {
+    "prefix": "mathfrakC",
+    "body": [
+      "ℭ"
+    ],
+    "description": "TeX symbol: ℭ"
+  },
+  "mathfrakD": {
+    "prefix": "mathfrakD",
+    "body": [
+      "𝔇"
+    ],
+    "description": "TeX symbol: 𝔇"
+  },
+  "mathfrakE": {
+    "prefix": "mathfrakE",
+    "body": [
+      "𝔈"
+    ],
+    "description": "TeX symbol: 𝔈"
+  },
+  "mathfrakF": {
+    "prefix": "mathfrakF",
+    "body": [
+      "𝔉"
+    ],
+    "description": "TeX symbol: 𝔉"
+  },
+  "mathfrakG": {
+    "prefix": "mathfrakG",
+    "body": [
+      "𝔊"
+    ],
+    "description": "TeX symbol: 𝔊"
+  },
+  "mathfrakH": {
+    "prefix": "mathfrakH",
+    "body": [
+      "ℌ"
+    ],
+    "description": "TeX symbol: ℌ"
+  },
+  "mathfrakI": {
+    "prefix": "mathfrakI",
+    "body": [
+      "ℑ"
+    ],
+    "description": "TeX symbol: ℑ"
+  },
+  "mathfrakJ": {
+    "prefix": "mathfrakJ",
+    "body": [
+      "𝔍"
+    ],
+    "description": "TeX symbol: 𝔍"
+  },
+  "mathfrakK": {
+    "prefix": "mathfrakK",
+    "body": [
+      "𝔎"
+    ],
+    "description": "TeX symbol: 𝔎"
+  },
+  "mathfrakL": {
+    "prefix": "mathfrakL",
+    "body": [
+      "𝔏"
+    ],
+    "description": "TeX symbol: 𝔏"
+  },
+  "mathfrakM": {
+    "prefix": "mathfrakM",
+    "body": [
+      "𝔐"
+    ],
+    "description": "TeX symbol: 𝔐"
+  },
+  "mathfrakN": {
+    "prefix": "mathfrakN",
+    "body": [
+      "𝔑"
+    ],
+    "description": "TeX symbol: 𝔑"
+  },
+  "mathfrakO": {
+    "prefix": "mathfrakO",
+    "body": [
+      "𝔒"
+    ],
+    "description": "TeX symbol: 𝔒"
+  },
+  "mathfrakP": {
+    "prefix": "mathfrakP",
+    "body": [
+      "𝔓"
+    ],
+    "description": "TeX symbol: 𝔓"
+  },
+  "mathfrakQ": {
+    "prefix": "mathfrakQ",
+    "body": [
+      "𝔔"
+    ],
+    "description": "TeX symbol: 𝔔"
+  },
+  "mathfrakR": {
+    "prefix": "mathfrakR",
+    "body": [
+      "ℜ"
+    ],
+    "description": "TeX symbol: ℜ"
+  },
+  "mathfrakS": {
+    "prefix": "mathfrakS",
+    "body": [
+      "𝔖"
+    ],
+    "description": "TeX symbol: 𝔖"
+  },
+  "mathfrakT": {
+    "prefix": "mathfrakT",
+    "body": [
+      "𝔗"
+    ],
+    "description": "TeX symbol: 𝔗"
+  },
+  "mathfrakU": {
+    "prefix": "mathfrakU",
+    "body": [
+      "𝔘"
+    ],
+    "description": "TeX symbol: 𝔘"
+  },
+  "mathfrakV": {
+    "prefix": "mathfrakV",
+    "body": [
+      "𝔙"
+    ],
+    "description": "TeX symbol: 𝔙"
+  },
+  "mathfrakW": {
+    "prefix": "mathfrakW",
+    "body": [
+      "𝔚"
+    ],
+    "description": "TeX symbol: 𝔚"
+  },
+  "mathfrakX": {
+    "prefix": "mathfrakX",
+    "body": [
+      "𝔛"
+    ],
+    "description": "TeX symbol: 𝔛"
+  },
+  "mathfrakY": {
+    "prefix": "mathfrakY",
+    "body": [
+      "𝔜"
+    ],
+    "description": "TeX symbol: 𝔜"
+  },
+  "mathfrakZ": {
+    "prefix": "mathfrakZ",
+    "body": [
+      "ℨ"
+    ],
+    "description": "TeX symbol: ℨ"
+  },
+  "FKA": {
+    "prefix": "FKA",
+    "body": [
+      "𝔄"
+    ],
+    "description": "TeX symbol: 𝔄"
+  },
+  "FKB": {
+    "prefix": "FKB",
+    "body": [
+      "𝔅"
+    ],
+    "description": "TeX symbol: 𝔅"
+  },
+  "FKC": {
+    "prefix": "FKC",
+    "body": [
+      "ℭ"
+    ],
+    "description": "TeX symbol: ℭ"
+  },
+  "FKD": {
+    "prefix": "FKD",
+    "body": [
+      "𝔇"
+    ],
+    "description": "TeX symbol: 𝔇"
+  },
+  "FKE": {
+    "prefix": "FKE",
+    "body": [
+      "𝔈"
+    ],
+    "description": "TeX symbol: 𝔈"
+  },
+  "FKF": {
+    "prefix": "FKF",
+    "body": [
+      "𝔉"
+    ],
+    "description": "TeX symbol: 𝔉"
+  },
+  "FKG": {
+    "prefix": "FKG",
+    "body": [
+      "𝔊"
+    ],
+    "description": "TeX symbol: 𝔊"
+  },
+  "FKH": {
+    "prefix": "FKH",
+    "body": [
+      "ℌ"
+    ],
+    "description": "TeX symbol: ℌ"
+  },
+  "FKI": {
+    "prefix": "FKI",
+    "body": [
+      "ℑ"
+    ],
+    "description": "TeX symbol: ℑ"
+  },
+  "FKJ": {
+    "prefix": "FKJ",
+    "body": [
+      "𝔍"
+    ],
+    "description": "TeX symbol: 𝔍"
+  },
+  "FKK": {
+    "prefix": "FKK",
+    "body": [
+      "𝔎"
+    ],
+    "description": "TeX symbol: 𝔎"
+  },
+  "FKL": {
+    "prefix": "FKL",
+    "body": [
+      "𝔏"
+    ],
+    "description": "TeX symbol: 𝔏"
+  },
+  "FKM": {
+    "prefix": "FKM",
+    "body": [
+      "𝔐"
+    ],
+    "description": "TeX symbol: 𝔐"
+  },
+  "FKN": {
+    "prefix": "FKN",
+    "body": [
+      "𝔑"
+    ],
+    "description": "TeX symbol: 𝔑"
+  },
+  "FKO": {
+    "prefix": "FKO",
+    "body": [
+      "𝔒"
+    ],
+    "description": "TeX symbol: 𝔒"
+  },
+  "FKP": {
+    "prefix": "FKP",
+    "body": [
+      "𝔓"
+    ],
+    "description": "TeX symbol: 𝔓"
+  },
+  "FKQ": {
+    "prefix": "FKQ",
+    "body": [
+      "𝔔"
+    ],
+    "description": "TeX symbol: 𝔔"
+  },
+  "FKR": {
+    "prefix": "FKR",
+    "body": [
+      "ℜ"
+    ],
+    "description": "TeX symbol: ℜ"
+  },
+  "FKS": {
+    "prefix": "FKS",
+    "body": [
+      "𝔖"
+    ],
+    "description": "TeX symbol: 𝔖"
+  },
+  "FKT": {
+    "prefix": "FKT",
+    "body": [
+      "𝔗"
+    ],
+    "description": "TeX symbol: 𝔗"
+  },
+  "FKU": {
+    "prefix": "FKU",
+    "body": [
+      "𝔘"
+    ],
+    "description": "TeX symbol: 𝔘"
+  },
+  "FKV": {
+    "prefix": "FKV",
+    "body": [
+      "𝔙"
+    ],
+    "description": "TeX symbol: 𝔙"
+  },
+  "FKW": {
+    "prefix": "FKW",
+    "body": [
+      "𝔚"
+    ],
+    "description": "TeX symbol: 𝔚"
+  },
+  "FKX": {
+    "prefix": "FKX",
+    "body": [
+      "𝔛"
+    ],
+    "description": "TeX symbol: 𝔛"
+  },
+  "FKY": {
+    "prefix": "FKY",
+    "body": [
+      "𝔜"
+    ],
+    "description": "TeX symbol: 𝔜"
+  },
+  "FKZ": {
+    "prefix": "FKZ",
+    "body": [
+      "ℨ"
+    ],
+    "description": "TeX symbol: ℨ"
+  },
+  "mathcalA": {
+    "prefix": "mathcalA",
+    "body": [
+      "𝒜"
+    ],
+    "description": "TeX symbol: 𝒜"
+  },
+  "mathcalC": {
+    "prefix": "mathcalC",
+    "body": [
+      "𝒞"
+    ],
+    "description": "TeX symbol: 𝒞"
+  },
+  "mathcalD": {
+    "prefix": "mathcalD",
+    "body": [
+      "𝒟"
+    ],
+    "description": "TeX symbol: 𝒟"
+  },
+  "mathcalE": {
+    "prefix": "mathcalE",
+    "body": [
+      "ℰ"
+    ],
+    "description": "TeX symbol: ℰ"
+  },
+  "mathcalF": {
+    "prefix": "mathcalF",
+    "body": [
+      "ℱ"
+    ],
+    "description": "TeX symbol: ℱ"
+  },
+  "mathcalG": {
+    "prefix": "mathcalG",
+    "body": [
+      "𝒢"
+    ],
+    "description": "TeX symbol: 𝒢"
+  },
+  "mathcalH": {
+    "prefix": "mathcalH",
+    "body": [
+      "ℋ"
+    ],
+    "description": "TeX symbol: ℋ"
+  },
+  "mathcalI": {
+    "prefix": "mathcalI",
+    "body": [
+      "ℐ"
+    ],
+    "description": "TeX symbol: ℐ"
+  },
+  "mathcalJ": {
+    "prefix": "mathcalJ",
+    "body": [
+      "𝒥"
+    ],
+    "description": "TeX symbol: 𝒥"
+  },
+  "mathcalK": {
+    "prefix": "mathcalK",
+    "body": [
+      "𝒦"
+    ],
+    "description": "TeX symbol: 𝒦"
+  },
+  "mathcalL": {
+    "prefix": "mathcalL",
+    "body": [
+      "ℒ"
+    ],
+    "description": "TeX symbol: ℒ"
+  },
+  "mathcalM": {
+    "prefix": "mathcalM",
+    "body": [
+      "ℳ"
+    ],
+    "description": "TeX symbol: ℳ"
+  },
+  "mathcalN": {
+    "prefix": "mathcalN",
+    "body": [
+      "𝒩"
+    ],
+    "description": "TeX symbol: 𝒩"
+  },
+  "mathcalO": {
+    "prefix": "mathcalO",
+    "body": [
+      "𝒪"
+    ],
+    "description": "TeX symbol: 𝒪"
+  },
+  "mathcalP": {
+    "prefix": "mathcalP",
+    "body": [
+      "𝒫"
+    ],
+    "description": "TeX symbol: 𝒫"
+  },
+  "mathcalQ": {
+    "prefix": "mathcalQ",
+    "body": [
+      "𝒬"
+    ],
+    "description": "TeX symbol: 𝒬"
+  },
+  "mathcalR": {
+    "prefix": "mathcalR",
+    "body": [
+      "ℛ"
+    ],
+    "description": "TeX symbol: ℛ"
+  },
+  "mathcalS": {
+    "prefix": "mathcalS",
+    "body": [
+      "𝒫"
+    ],
+    "description": "TeX symbol: 𝒫"
+  },
+  "mathcalT": {
+    "prefix": "mathcalT",
+    "body": [
+      "𝒫"
+    ],
+    "description": "TeX symbol: 𝒫"
+  },
+  "mathcalU": {
+    "prefix": "mathcalU",
+    "body": [
+      "𝒰"
+    ],
+    "description": "TeX symbol: 𝒰"
+  },
+  "mathcalV": {
+    "prefix": "mathcalV",
+    "body": [
+      "𝒱"
+    ],
+    "description": "TeX symbol: 𝒱"
+  },
+  "mathcalW": {
+    "prefix": "mathcalW",
+    "body": [
+      "𝒲"
+    ],
+    "description": "TeX symbol: 𝒲"
+  },
+  "mathcalX": {
+    "prefix": "mathcalX",
+    "body": [
+      "𝒳"
+    ],
+    "description": "TeX symbol: 𝒳"
+  },
+  "mathcalY": {
+    "prefix": "mathcalY",
+    "body": [
+      "𝒴"
+    ],
+    "description": "TeX symbol: 𝒴"
+  },
+  "mathcalZ": {
+    "prefix": "mathcalZ",
+    "body": [
+      "𝒵"
+    ],
+    "description": "TeX symbol: 𝒵"
+  },
+  "MSA": {
+    "prefix": "MSA",
+    "body": [
+      "𝒜"
+    ],
+    "description": "TeX symbol: 𝒜"
+  },
+  "MSB": {
+    "prefix": "MSB",
+    "body": [
+      "ℬ"
+    ],
+    "description": "TeX symbol: ℬ"
+  },
+  "MSC": {
+    "prefix": "MSC",
+    "body": [
+      "𝒞"
+    ],
+    "description": "TeX symbol: 𝒞"
+  },
+  "MSD": {
+    "prefix": "MSD",
+    "body": [
+      "𝒟"
+    ],
+    "description": "TeX symbol: 𝒟"
+  },
+  "MSE": {
+    "prefix": "MSE",
+    "body": [
+      "ℰ"
+    ],
+    "description": "TeX symbol: ℰ"
+  },
+  "MSF": {
+    "prefix": "MSF",
+    "body": [
+      "ℱ"
+    ],
+    "description": "TeX symbol: ℱ"
+  },
+  "MSG": {
+    "prefix": "MSG",
+    "body": [
+      "𝒢"
+    ],
+    "description": "TeX symbol: 𝒢"
+  },
+  "MSH": {
+    "prefix": "MSH",
+    "body": [
+      "ℋ"
+    ],
+    "description": "TeX symbol: ℋ"
+  },
+  "MSI": {
+    "prefix": "MSI",
+    "body": [
+      "ℐ"
+    ],
+    "description": "TeX symbol: ℐ"
+  },
+  "MSJ": {
+    "prefix": "MSJ",
+    "body": [
+      "𝒥"
+    ],
+    "description": "TeX symbol: 𝒥"
+  },
+  "MSK": {
+    "prefix": "MSK",
+    "body": [
+      "𝒦"
+    ],
+    "description": "TeX symbol: 𝒦"
+  },
+  "MSL": {
+    "prefix": "MSL",
+    "body": [
+      "ℒ"
+    ],
+    "description": "TeX symbol: ℒ"
+  },
+  "MSM": {
+    "prefix": "MSM",
+    "body": [
+      "ℳ"
+    ],
+    "description": "TeX symbol: ℳ"
+  },
+  "MSN": {
+    "prefix": "MSN",
+    "body": [
+      "𝒩"
+    ],
+    "description": "TeX symbol: 𝒩"
+  },
+  "MSO": {
+    "prefix": "MSO",
+    "body": [
+      "𝒪"
+    ],
+    "description": "TeX symbol: 𝒪"
+  },
+  "MSP": {
+    "prefix": "MSP",
+    "body": [
+      "𝒫"
+    ],
+    "description": "TeX symbol: 𝒫"
+  },
+  "MSQ": {
+    "prefix": "MSQ",
+    "body": [
+      "𝒬"
+    ],
+    "description": "TeX symbol: 𝒬"
+  },
+  "MSR": {
+    "prefix": "MSR",
+    "body": [
+      "ℛ"
+    ],
+    "description": "TeX symbol: ℛ"
+  },
+  "MSS": {
+    "prefix": "MSS",
+    "body": [
+      "𝒮"
+    ],
+    "description": "TeX symbol: 𝒮"
+  },
+  "MST": {
+    "prefix": "MST",
+    "body": [
+      "𝒫"
+    ],
+    "description": "TeX symbol: 𝒫"
+  },
+  "MSU": {
+    "prefix": "MSU",
+    "body": [
+      "𝒰"
+    ],
+    "description": "TeX symbol: 𝒰"
+  },
+  "MSV": {
+    "prefix": "MSV",
+    "body": [
+      "𝒱"
+    ],
+    "description": "TeX symbol: 𝒱"
+  },
+  "MSW": {
+    "prefix": "MSW",
+    "body": [
+      "𝒲"
+    ],
+    "description": "TeX symbol: 𝒲"
+  },
+  "MSX": {
+    "prefix": "MSX",
+    "body": [
+      "𝒳"
+    ],
+    "description": "TeX symbol: 𝒳"
+  },
+  "MSY": {
+    "prefix": "MSY",
+    "body": [
+      "𝒴"
+    ],
+    "description": "TeX symbol: 𝒴"
+  },
+  "MSZ": {
+    "prefix": "MSZ",
+    "body": [
+      "𝒵"
+    ],
+    "description": "TeX symbol: 𝒵"
+  },
+  "plain": {
+    "prefix": "plain",
+    "body": [
+      "%& eplain\n%[[[ Setting\n\\input amssym\n\\input rsfs.def\n%[[[2 font\n\\font \\gt=goth10\n%]]]\n%[[[2 environment\n\\def\\lf{\\hfill\\break}\n\\def\\Definition{\\noindent{\\bf Definition }\\quad}\n\\def\\Theorem{\\noindent{\\bf Theorem}\\quad}\n\\def\\Proposition{\\noindent{\\bf Proposition}\\quad}\n\\def\\Lemma{\\noindent{\\bf Lemma}\\quad}\n\\def\\Remark{\\noindent{\\bf Remark}\\quad}\n\\def\\Example[#1,#2]{\\noindent{\\bf Example #1. (p.#2) }\\quad}\n\\def\\Proof{\\noindent{\\bf Proof}\\quad}\n\\def\\section#1{\\noindent{\\bf\\gt #1.}\\lf\\noindent}\n%]]]\n%]]]"
+    ],
+    "description": "TeX symbol: %& eplain\n%[[[ Setting\n\\input amssym\n\\input rsfs.def\n%[[[2 font\n\\font \\gt=goth10\n%]]]\n%[[[2 environment\n\\def\\lf{\\hfill\\break}\n\\def\\Definition{\\noindent{\\bf Definition }\\quad}\n\\def\\Theorem{\\noindent{\\bf Theorem}\\quad}\n\\def\\Proposition{\\noindent{\\bf Proposition}\\quad}\n\\def\\Lemma{\\noindent{\\bf Lemma}\\quad}\n\\def\\Remark{\\noindent{\\bf Remark}\\quad}\n\\def\\Example[#1,#2]{\\noindent{\\bf Example #1. (p.#2) }\\quad}\n\\def\\Proof{\\noindent{\\bf Proof}\\quad}\n\\def\\section#1{\\noindent{\\bf\\gt #1.}\\lf\\noindent}\n%]]]\n%]]]"
+  },
+  "latex": {
+    "prefix": "latex",
+    "body": [
+      "\\begin{document}{jsarticle}\n%[[[1 TeX setting\n%[[[2 package setting\n\\usepackage{amsmath,amssymb,amsthm}\n\\usepackage{cite}\n%\\usepackage{showkeys}\n%]]]\n%[[[2 env setting\n\\numberwithin{equation}{section}\n\\newtheorem{Theorem}{Theorem}[section]\n\\newtheorem{Definition}[Theorem]{Definition}\n\\newtheorem{Corollary}[Theorem]{Corollary}\n\\newtheorem{Lemma}[Theorem]{Lemma}\n\\newtheorem{Proposition}[Theorem]{Proposition}\n\\newtheorem{Remark}{Remark}[section]\n%]]]\n%[[[2 section setting\n\\makeatletter\n\\def\\section{\\@startsection {section}{1}{\\z@}%\n{2.5ex plus - 1ex minus -.2ex}%\n{.5ex \\@plus.3ex}%\n{\\large\\bfseries}%\n}\n\\def\\subsection{\\@startsection {subsection}{1}{\\z@}%\n{2.5ex plus - 1ex minus -.2ex}%\n{.5ex \\@plus.3ex}%\n{\\normalsize\\bfseries}%\n}\n\\makeatother\n%]]]\n%]]]\n%[[[1 doc\n\\begin{document}\n${1}\n\\end{document}\n%]]]"
+    ],
+    "description": "TeX symbol: \\begin{document}{jsarticle}\n%[[[1 TeX setting\n%[[[2 package setting\n\\usepackage{amsmath,amssymb,amsthm}\n\\usepackage{cite}\n%\\usepackage{showkeys}\n%]]]\n%[[[2 env setting\n\\numberwithin{equation}{section}\n\\newtheorem{Theorem}{Theorem}[section]\n\\newtheorem{Definition}[Theorem]{Definition}\n\\newtheorem{Corollary}[Theorem]{Corollary}\n\\newtheorem{Lemma}[Theorem]{Lemma}\n\\newtheorem{Proposition}[Theorem]{Proposition}\n\\newtheorem{Remark}{Remark}[section]\n%]]]\n%[[[2 section setting\n\\makeatletter\n\\def\\section{\\@startsection {section}{1}{\\z@}%\n{2.5ex plus - 1ex minus -.2ex}%\n{.5ex \\@plus.3ex}%\n{\\large\\bfseries}%\n}\n\\def\\subsection{\\@startsection {subsection}{1}{\\z@}%\n{2.5ex plus - 1ex minus -.2ex}%\n{.5ex \\@plus.3ex}%\n{\\normalsize\\bfseries}%\n}\n\\makeatother\n%]]]\n%]]]\n%[[[1 doc\n\\begin{document}\n${1}\n\\end{document}\n%]]]"
+  },
+  "pdflatex": {
+    "prefix": "pdflatex",
+    "body": [
+      "\\documentclass[CJK]{bxjsarticle}\n\\usepackage[whole]{bxcjkjatype}\n%[[[ TeX setting\n%[[[ package setting\n\\usepackage{amsmath,amssymb,amsthm}\n\\usepackage{cite}\n%\\usepackage{showkeys}\n%]]]\n%[[[ font setting\n\\setminchofont{mogam_1.ttf}\n\\setboldminchofont{mogamb_1.ttf}\n\\setgothicfont{mogag_1.ttf}\n\\setboldgothicfont{mogagb_1.ttf}\n%]]]\n%[[[ env setting\n\\numberwithin{equation}{section}\n\\newtheorem{Theorem}{Theorem}[section]\n\\newtheorem{Definition}[Theorem]{Definition}\n\\newtheorem{Corollary}[Theorem]{Corollary}\n\\newtheorem{Lemma}[Theorem]{Lemma}\n\\newtheorem{Proposition}[Theorem]{Proposition}\n\\newtheorem{Remark}{Remark}[section]\n%]]]\n%[[[ section setting\n\\makeatletter\n\\def\\section{\\@startsection {section}{1}{\\z@}%\n{2.5ex plus - 1ex minus -.2ex}%\n{.5ex \\@plus.3ex}%\n{\\large\\bfseries}%\n}\n\\def\\subsection{\\@startsection {subsection}{1}{\\z@}%\n{2.5ex plus - 1ex minus -.2ex}%\n{.5ex \\@plus.3ex}%\n{\\normalsize\\bfseries}%\n}\n\\makeatother\n%]]]\n%]]]\n%[[[ doc\n\\begin{document}\n${1}\n\\end{document}\n%]]]"
+    ],
+    "description": "TeX symbol: \\documentclass[CJK]{bxjsarticle}\n\\usepackage[whole]{bxcjkjatype}\n%[[[ TeX setting\n%[[[ package setting\n\\usepackage{amsmath,amssymb,amsthm}\n\\usepackage{cite}\n%\\usepackage{showkeys}\n%]]]\n%[[[ font setting\n\\setminchofont{mogam_1.ttf}\n\\setboldminchofont{mogamb_1.ttf}\n\\setgothicfont{mogag_1.ttf}\n\\setboldgothicfont{mogagb_1.ttf}\n%]]]\n%[[[ env setting\n\\numberwithin{equation}{section}\n\\newtheorem{Theorem}{Theorem}[section]\n\\newtheorem{Definition}[Theorem]{Definition}\n\\newtheorem{Corollary}[Theorem]{Corollary}\n\\newtheorem{Lemma}[Theorem]{Lemma}\n\\newtheorem{Proposition}[Theorem]{Proposition}\n\\newtheorem{Remark}{Remark}[section]\n%]]]\n%[[[ section setting\n\\makeatletter\n\\def\\section{\\@startsection {section}{1}{\\z@}%\n{2.5ex plus - 1ex minus -.2ex}%\n{.5ex \\@plus.3ex}%\n{\\large\\bfseries}%\n}\n\\def\\subsection{\\@startsection {subsection}{1}{\\z@}%\n{2.5ex plus - 1ex minus -.2ex}%\n{.5ex \\@plus.3ex}%\n{\\normalsize\\bfseries}%\n}\n\\makeatother\n%]]]\n%]]]\n%[[[ doc\n\\begin{document}\n${1}\n\\end{document}\n%]]]"
+  },
+  "xelatex": {
+    "prefix": "xelatex",
+    "body": [
+      "%Author K.FUJIWARA\n\\documentclass{bxjsarticle}\n%[[[ TeX setting\n%[[[ package\n\\usepackage{zxjatype}\n\\usepackage{amsmath,amsthm}\n\\usepackage{unicode-math}\n\\usepackage{fontspec}\n%]]]\n%[[[ font seting\n\\setjamainfont{BIZ UDMincho}\n\\setsansfont{BIZ UDPGothic}\n\\setCJKmonofont{Latin Modern Math}\n\\setmonofont{Latin Modern Math}\n\\setmathfont{Latin Modern Math}\n%script setting\n%Bold setting\n\\setmathfont[range={\"211D,\"2119,\"211A}]{TeX Gyre Termes Math}\n\\let\\ttdefault\\CJKrmdefault\n%]]]\n%[[[ env setting\n\\newtheorem{Theorem}{Theorem}[section]\n\\newtheorem{Definition}[Theorem]{Definition}\n\\newtheorem{Corollary}[Theorem]{Corollary}\n\\newtheorem{Lemma}[Theorem]{Lemma}\n\\newtheorem{Proposition}[Theorem]{Proposition}\n\\newtheorem{Remark}{Remark}[section]\n%\\addtolength{\\textwidth}{5.cm}\n%\\addtolength{\\textheight}{4cm}\n%]]]\n%[[[ page setting\n%\\addtolength{\\textwidth}{4cm}\n%\\addtolength{\\oddsidemargin}{-2.5cm}\n%]]]\n%]]]\n%[[[ doc\n\\begin{document}\n${1}\n\\end{document}\n%]]]"
+    ],
+    "description": "TeX symbol: %Author K.FUJIWARA\n\\documentclass{bxjsarticle}\n%[[[ TeX setting\n%[[[ package\n\\usepackage{zxjatype}\n\\usepackage{amsmath,amsthm}\n\\usepackage{unicode-math}\n\\usepackage{fontspec}\n%]]]\n%[[[ font seting\n\\setjamainfont{BIZ UDMincho}\n\\setsansfont{BIZ UDPGothic}\n\\setCJKmonofont{Latin Modern Math}\n\\setmonofont{Latin Modern Math}\n\\setmathfont{Latin Modern Math}\n%script setting\n%Bold setting\n\\setmathfont[range={\"211D,\"2119,\"211A}]{TeX Gyre Termes Math}\n\\let\\ttdefault\\CJKrmdefault\n%]]]\n%[[[ env setting\n\\newtheorem{Theorem}{Theorem}[section]\n\\newtheorem{Definition}[Theorem]{Definition}\n\\newtheorem{Corollary}[Theorem]{Corollary}\n\\newtheorem{Lemma}[Theorem]{Lemma}\n\\newtheorem{Proposition}[Theorem]{Proposition}\n\\newtheorem{Remark}{Remark}[section]\n%\\addtolength{\\textwidth}{5.cm}\n%\\addtolength{\\textheight}{4cm}\n%]]]\n%[[[ page setting\n%\\addtolength{\\textwidth}{4cm}\n%\\addtolength{\\oddsidemargin}{-2.5cm}\n%]]]\n%]]]\n%[[[ doc\n\\begin{document}\n${1}\n\\end{document}\n%]]]"
+  },
+  "page": {
+    "prefix": "page",
+    "body": [
+      "%\\addtolength{\\oddsidemargin}{3cm}\n%\\addtolength{\\voffset}{-2cm}\n%\\addtolength{\\textwidth}{5.cm}\n%\\addtolength{\\textheight}{4cm}"
+    ],
+    "description": "TeX symbol: %\\addtolength{\\oddsidemargin}{3cm}\n%\\addtolength{\\voffset}{-2cm}\n%\\addtolength{\\textwidth}{5.cm}\n%\\addtolength{\\textheight}{4cm}"
+  },
+  "doc": {
+    "prefix": "doc",
+    "body": [
+      "\\begin{document}\n\\end{document}"
+    ],
+    "description": "TeX symbol: \\begin{document}\n\\end{document}"
+  },
+  "proof": {
+    "prefix": "proof",
+    "body": [
+      "\\begin{proof}\n${1:proof}\n\\end{proof}"
+    ],
+    "description": "TeX symbol: \\begin{proof}\n${1:proof}\n\\end{proof}"
+  },
+  "Definition": {
+    "prefix": "Definition",
+    "body": [
+      "alias       Def\n%{{{ Definition: ${1:index for fold}\n\\begin{Definition}\n${2:TARGET}\n\\end{Definition}\n%]]]"
+    ],
+    "description": "TeX symbol: alias       Def\n%{{{ Definition: ${1:index for fold}\n\\begin{Definition}\n${2:TARGET}\n\\end{Definition}\n%]]]"
+  },
+  "Lemma": {
+    "prefix": "Lemma",
+    "body": [
+      "alias       Lem\n%[[[ Lemma : ${1:index for fold}\n\\begin{Lemma}\n${2:TARGET}\n\\end{Lemma}\n%]]]"
+    ],
+    "description": "TeX symbol: alias       Lem\n%[[[ Lemma : ${1:index for fold}\n\\begin{Lemma}\n${2:TARGET}\n\\end{Lemma}\n%]]]"
+  },
+  "Proposition": {
+    "prefix": "Proposition",
+    "body": [
+      "alias       Prop\n%[[[ Proposition : ${1:index for fold}\n\\begin{Proposition}\n${2:TARGET}\n\\end{Proposition}\n%]]]"
+    ],
+    "description": "TeX symbol: alias       Prop\n%[[[ Proposition : ${1:index for fold}\n\\begin{Proposition}\n${2:TARGET}\n\\end{Proposition}\n%]]]"
+  },
+  "Corollary": {
+    "prefix": "Corollary",
+    "body": [
+      "alias       Cor\n%[[[ Corollary : ${1:index for fold}\n\\begin{Corollary}\n${2:TARGET}\n\\end{Corollary}\n%]]]"
+    ],
+    "description": "TeX symbol: alias       Cor\n%[[[ Corollary : ${1:index for fold}\n\\begin{Corollary}\n${2:TARGET}\n\\end{Corollary}\n%]]]"
+  },
+  "Remark": {
+    "prefix": "Remark",
+    "body": [
+      "alias       Rem\n%[[[ Remark : ${1:index for fold}\n\\begin{Remark}\n${2:TARGET}\n\\end{Remark}\n%]]]"
+    ],
+    "description": "TeX symbol: alias       Rem\n%[[[ Remark : ${1:index for fold}\n\\begin{Remark}\n${2:TARGET}\n\\end{Remark}\n%]]]"
+  },
+  "align": {
+    "prefix": "align",
+    "body": [
+      "alias al\n\\begin{align}\n${1:TARGET}\n\\end{align}"
+    ],
+    "description": "TeX symbol: alias al\n\\begin{align}\n${1:TARGET}\n\\end{align}"
+  },
+  "align*": {
+    "prefix": "align*",
+    "body": [
+      "alias   al*\n\\begin{align*}\n${1:TARGET}\n\\end{align*}"
+    ],
+    "description": "TeX symbol: alias   al*\n\\begin{align*}\n${1:TARGET}\n\\end{align*}"
+  },
+  "cases": {
+    "prefix": "cases",
+    "body": [
+      "alias cases\n\\begin{cases}\n${1:TARGET}\n\\end{cases}"
+    ],
+    "description": "TeX symbol: alias cases\n\\begin{cases}\n${1:TARGET}\n\\end{cases}"
+  },
+  "cl": {
+    "prefix": "cl",
+    "body": [
+      "\\centerline{${1:string}}"
+    ],
+    "description": "TeX symbol: \\centerline{${1:string}}"
+  },
+  "frac": {
+    "prefix": "frac",
+    "body": [
+      "\\frac{${1:numerator}}{${2:denominator}} ${3}"
+    ],
+    "description": "TeX symbol: \\frac{${1:numerator}}{${2:denominator}} ${3}"
+  },
+  "section": {
+    "prefix": "section",
+    "body": [
+      "alias sec\noption words\n%{{{ section : ${1:section name}\n\\section{$1}\n${2}\n%]]]"
+    ],
+    "description": "TeX symbol: alias sec\noption words\n%{{{ section : ${1:section name}\n\\section{$1}\n${2}\n%]]]"
+  },
+  "paragraph": {
+    "prefix": "paragraph",
+    "body": [
+      "alias para\noption words\n%{{{ paragraph : ${1:paragraph name}\n\\paragraph{$1}\n${2}\n%]]]"
+    ],
+    "description": "TeX symbol: alias para\noption words\n%{{{ paragraph : ${1:paragraph name}\n\\paragraph{$1}\n${2}\n%]]]"
+  },
+  "noindent": {
+    "prefix": "noindent",
+    "body": [
+      "alias noin\n\\noindent"
+    ],
+    "description": "TeX symbol: alias noin\n\\noindent"
+  },
+  "thinspace": {
+    "prefix": "thinspace",
+    "body": [
+      "alias tsp\n\\thinspace"
+    ],
+    "description": "TeX symbol: alias tsp\n\\thinspace"
+  },
+  "bigskip": {
+    "prefix": "bigskip",
+    "body": [
+      "alias bsp\n\\bigskip"
+    ],
+    "description": "TeX symbol: alias bsp\n\\bigskip"
+  },
+  "midskip": {
+    "prefix": "midskip",
+    "body": [
+      "alias msp\n\\medskip"
+    ],
+    "description": "TeX symbol: alias msp\n\\medskip"
+  },
+  "backslash": {
+    "prefix": "backslash",
+    "body": [
+      "alias bsl\n\\backslash"
+    ],
+    "description": "TeX symbol: alias bsl\n\\backslash"
+  },
+  "large": {
+    "prefix": "large",
+    "body": [
+      "alias la\n\\large"
+    ],
+    "description": "TeX symbol: alias la\n\\large"
+  },
+  "Large": {
+    "prefix": "Large",
+    "body": [
+      "alias La\n\\Large"
+    ],
+    "description": "TeX symbol: alias La\n\\Large"
+  },
+  "LARGE": {
+    "prefix": "LARGE",
+    "body": [
+      "alias LA\n\\LARGE"
+    ],
+    "description": "TeX symbol: alias LA\n\\LARGE"
+  },
+  "huge": {
+    "prefix": "huge",
+    "body": [
+      "alias hu\n\\huge"
+    ],
+    "description": "TeX symbol: alias hu\n\\huge"
+  },
+  "supp": {
+    "prefix": "supp",
+    "body": [
+      "\\mathrm{supp}\\thinspace"
+    ],
+    "description": "TeX symbol: \\mathrm{supp}\\thinspace"
+  },
+  "widetilde": {
+    "prefix": "widetilde",
+    "body": [
+      "alias wt\n\\widetilde"
+    ],
+    "description": "TeX symbol: alias wt\n\\widetilde"
+  },
+  "Norm": {
+    "prefix": "Norm",
+    "body": [
+      "‖${1}‖${2}"
+    ],
+    "description": "TeX symbol: ‖${1}‖${2}"
+  },
+  "displaystyle": {
+    "prefix": "displaystyle",
+    "body": [
+      "alias dsp\n\\displaystyle"
+    ],
+    "description": "TeX symbol: alias dsp\n\\displaystyle"
+  },
+  "pd": {
+    "prefix": "pd",
+    "body": [
+      "\\partial"
+    ],
+    "description": "TeX symbol: \\partial"
+  },
+  "q": {
+    "prefix": "q",
+    "body": [
+      "\\quad"
+    ],
+    "description": "TeX symbol: \\quad"
+  },
+  "qq": {
+    "prefix": "qq",
+    "body": [
+      "\\qquad"
+    ],
+    "description": "TeX symbol: \\qquad"
+  },
+  "if": {
+    "prefix": "if",
+    "body": [
+      "\\mathrm{if}"
+    ],
+    "description": "TeX symbol: \\mathrm{if}"
+  },
+  "mathrm": {
+    "prefix": "mathrm",
+    "body": [
+      "\\mathrm{${1}}"
+    ],
+    "description": "TeX symbol: \\mathrm{${1}}"
+  },
+  "mbox": {
+    "prefix": "mbox",
+    "body": [
+      "\\mbox{${1}}"
+    ],
+    "description": "TeX symbol: \\mbox{${1}}"
+  },
+  "pmatrix": {
+    "prefix": "pmatrix",
+    "body": [
+      "options pmatrix\n\\begin{pmatrix}${1}\\end{pmatrix}"
+    ],
+    "description": "TeX symbol: options pmatrix\n\\begin{pmatrix}${1}\\end{pmatrix}"
+  },
+  "rot": {
+    "prefix": "rot",
+    "body": [
+      "options rot\n\\mathrm{rot} \\thinspace"
+    ],
+    "description": "TeX symbol: options rot\n\\mathrm{rot} \\thinspace"
+  },
+  ";umla": {
+    "prefix": ";umla",
+    "body": [
+      "ä"
+    ],
+    "description": "TeX symbol: ä"
+  },
+  ";umlA": {
+    "prefix": ";umlA",
+    "body": [
+      "Ä"
+    ],
+    "description": "TeX symbol: Ä"
+  },
+  ";hata": {
+    "prefix": ";hata",
+    "body": [
+      "â"
+    ],
+    "description": "TeX symbol: â"
+  },
+  ";hatA": {
+    "prefix": ";hatA",
+    "body": [
+      "Â"
+    ],
+    "description": "TeX symbol: Â"
+  },
+  ";acutee": {
+    "prefix": ";acutee",
+    "body": [
+      "é"
+    ],
+    "description": "TeX symbol: é"
+  },
+  ";hate": {
+    "prefix": ";hate",
+    "body": [
+      "ê"
+    ],
+    "description": "TeX symbol: ê"
+  },
+  ";umle": {
+    "prefix": ";umle",
+    "body": [
+      "ë"
+    ],
+    "description": "TeX symbol: ë"
+  },
+  ";umlo": {
+    "prefix": ";umlo",
+    "body": [
+      "ö"
+    ],
+    "description": "TeX symbol: ö"
+  },
+  ";umlO": {
+    "prefix": ";umlO",
+    "body": [
+      "Ö"
+    ],
+    "description": "TeX symbol: Ö"
+  },
+  ";hato": {
+    "prefix": ";hato",
+    "body": [
+      "ô"
+    ],
+    "description": "TeX symbol: ô"
+  },
+  ";hatO": {
+    "prefix": ";hatO",
+    "body": [
+      "Ô"
+    ],
+    "description": "TeX symbol: Ô"
+  },
+  ";umlu": {
+    "prefix": ";umlu",
+    "body": [
+      "ü"
+    ],
+    "description": "TeX symbol: ü"
+  },
+  ";umlU": {
+    "prefix": ";umlU",
+    "body": [
+      "Ü"
+    ],
+    "description": "TeX symbol: Ü"
+  },
+  ";yen": {
+    "prefix": ";yen",
+    "body": [
+      "¥"
+    ],
+    "description": "Yen symbol"
+  },
+  ";square": {
+    "prefix": ";square",
+    "body": [
+      "☐"
+    ],
+    "description": "Square box"
+  },
+  ";sz": {
+    "prefix": ";sz",
+    "body": [
+      "ß"
+    ],
+    "description": "German sharp S"
+  },
+  "Fujiwara": {
+    "prefix": "Fujiwara",
+    "body": [
+      "\\author[K. Fujiwara]{Kazumasa Fujiwara}\n\\address[K. Fujiwara]{Department of Applied Physics, Waseda University,\n3-4-1, Okubo, Shinjuku-ku, Tokyo 169-8555, Japan.}\n\\email{k-fujiwara@asagi.waseda.jp}"
+    ],
+    "description": "TeX symbol: \\author[K. Fujiwara]{Kazumasa Fujiwara}\n\\address[K. Fujiwara]{Department of Applied Physics, Waseda University,\n3-4-1, Okubo, Shinjuku-ku, Tokyo 169-8555, Japan.}\n\\email{k-fujiwara@asagi.waseda.jp}"
+  }
 }
