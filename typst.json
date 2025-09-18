@@ -744,6 +744,11 @@
 		"body": ["∈"],
 		"description": "Element of"
 	},
+	"Contains": {
+		"prefix": ";ni",
+		"body": ["∋"],
+		"description": "Contains"
+	},
 	"Not Element": {
 		"prefix": ";nin",
 		"body": ["∉"],
@@ -954,13 +959,23 @@
 		"body": ["∄"],
 		"description": "There does not exist"
 	},
-		"Left Angle Bracket": {
-		"prefix": ",<",
+	"Left Angle Bracket": {
+		"prefix": ";langle",
+		"body": ["⟨"],
+		"description": "Left angle bracket"
+	},
+	"Left Angle Bracket Alias": {
+		"prefix": ":<",
 		"body": ["⟨"],
 		"description": "Left angle bracket"
 	},
 	"Right Angle Bracket": {
-		"prefix": ".>",
+		"prefix": ";rangle",
+		"body": ["⟩"],
+		"description": "Right angle bracket"
+	},
+	"Right Angle Bracket Alias": {
+		"prefix": ":>",
 		"body": ["⟩"],
 		"description": "Right angle bracket"
 	}
