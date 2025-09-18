@@ -974,21 +974,6 @@
 		"body": ["←"],
 		"description": "Left arrow"
 	},
-	"Left Angle Bracket": {
-		"prefix": ":<",
-		"body": ["⟨"],
-		"description": "Left angle bracket"
-	},
-	"Right Angle Bracket": {
-		"prefix": ";rangle",
-		"body": ["⟩"],
-		"description": "Right angle bracket"
-	},
-	"Right Angle Bracket Alias": {
-		"prefix": ":>",
-		"body": ["⟩"],
-		"description": "Right angle bracket"
-	},
 	"Contains As Member": {
 		"prefix": ";ni",
 		"body": ["∍"],
@@ -1013,5 +998,26 @@
 		"prefix": ";mapsto",
 		"body": ["↦"],
 		"description": "Maps to"
-	}
+	},
+	"Left Angle Bracket": {
+		"prefix": ";langle",
+		"body": ["⟨"],
+		"description": "Left angle bracket"
+	},
+	"Left Angle Bracket Alias": {
+		"prefix": ":<",
+		"body": ["⟨"],
+		"description": "Left angle bracket"
+	},
+	"Right Angle Bracket": {
+		"prefix": ";rangle",
+		"body": ["⟩"],
+		"description": "Right angle bracket"
+	},
+	"Right Angle Bracket Alias": {
+		"prefix": ":>",
+		"body": ["⟩"],
+		"description": "Right angle bracket"
+	},
+
 }
