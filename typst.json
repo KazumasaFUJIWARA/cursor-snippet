@@ -1,4 +1,9 @@
 {
+	"script ell": {
+		"prefix": ";ell",
+		"body": ["ℓ"],
+		"description": "Script ell"
+	},
 	"Greek Alpha": {
 		"prefix": ";alpha",
 		"body": ["α"],
