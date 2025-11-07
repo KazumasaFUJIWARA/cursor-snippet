@@ -704,6 +704,11 @@
 		"body": ["∑"],
 		"description": "Summation"
 	},
+	"Product": {
+		"prefix": ";prod",
+		"body": ["∏"],
+		"description": "Product"
+	},
 	"Integral": {
 		"prefix": ";int",
 		"body": ["∫"],
@@ -1025,4 +1030,29 @@
 		"description": "Right angle bracket"
 	},
 
+	"circled 1": {
+		"prefix": ";o1",
+		"body": ["①"],
+		"description": "Circled 1"
+	},
+	"circled 2": {
+		"prefix": ";o2",
+		"body": ["②"],
+		"description": "Circled 2"
+	},
+	"circled 3": {
+		"prefix": ";o3",
+		"body": ["③"],
+		"description": "Circled 3"
+	},
+	"Contains": {
+		"prefix": ";contain",
+		"body": ["∍"],
+		"description": "Contains as member"
+	},
+	"Contains Alias": {
+		"prefix": ";in",
+		"body": ["∍"],
+		"description": "Contains as member (alias)"
+	}
 }

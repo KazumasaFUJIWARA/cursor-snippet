@@ -101,34 +101,43 @@
 | `;gg` | ≫ | Much greater than | `;ne` | ≠ | Not equal |
 | `;equiv` | ≡ | Equivalent | `;approx` | ≈ | Approximately equal |
 | `;infty` | ∞ | Infinity symbol | `;sum` | ∑ | Summation |
-| `;int` | ∫ | Integral | `;oint` | ∮ | Contour integral |
-| `;iint` | ∬ | Double integral | `;iiint` | ∭ | Triple integral |
-| `;sqrt` | √ | Square root | `;norm` | ‖ | Norm |
-| `;partial` | ∂ | Partial derivative | `;nabla` | ∇ | Nabla operator |
-| `;in` | ∈ | Element of | `;nin` | ∉ | Not element of |
-| `;subset` | ⊂ | Subset | `;supset` | ⊃ | Superset |
-| `;cup` | ∪ | Union | `;bigcup` | ⋃ | Big union |
-| `;cap` | ∩ | Intersection | `;bigcap` | ⋂ | Big intersection |
-| `;emptyset` | ∅ | Empty set | `;therefore` | ∴ | Therefore |
-| `;because` | ∵ | Because | `;implies` | ⟹ | Implies |
-| `;=>` | ⟹ | Implies (alias) | `;impliedby` | ⟸ | Implied by |
-| `;<=` | ⟸ | Implied by (alias) | `;iff` | ⟺ | If and only if |
-| `;<=>` | ⟺ | If and only if (alias) | `;cdot` | ⋅ | Center dot (multiplication) |
-| `;compose` | ∘ | Function composition | `;perp` | ⊥ | Perpendicular |
-| `;parallel` | ∥ | Parallel | `;nparallel` | ∦ | Not parallel |
-| `;oplus` | ⊕ | Direct sum | `;ominus` | ⊖ | Symmetric difference |
-| `;otimes` | ⊗ | Tensor product | `;oslash` | ⊘ | Division |
-| `;odot` | ⊙ | Hadamard product | `;circ` | ∘ | Function composition |
-| `;bullet` | • | Bullet | `;propto` | ∝ | Proportional to |
-| `;cong` | ≅ | Congruent | `;sim` | ∼ | Similar to |
-| `;nsim` | ≁ | Not similar to | `;prec` | ≺ | Precedes |
-| `;succ` | ≻ | Succeeds | `;preceq` | ⪯ | Precedes or equal |
-| `;succeq` | ⪰ | Succeeds or equal | `;vee` | ∨ | Logical or |
-| `;wedge` | ∧ | Logical and | `;neg` | ¬ | Logical negation |
-| `;exists` | ∃ | There exists | `;forall` | ∀ | For all |
-| `;nexists` | ∄ | There does not exist | `;to` | → | Right arrow |
-| `;->` | → | Right arrow (alias) | `;<-` | ← | Left arrow |
-| `:<` | ⟨ | Left angle bracket | `:>` | ⟩ | Right angle bracket |
+| `;prod` | ∏ | Product | `;int` | ∫ | Integral |
+| `;oint` | ∮ | Contour integral | `;iint` | ∬ | Double integral |
+| `;iiint` | ∭ | Triple integral | `;sqrt` | √ | Square root |
+| `;norm` | ‖ | Norm | `;partial` | ∂ | Partial derivative |
+| `;nabla` | ∇ | Nabla operator | `;in` | ∈ | Element of |
+| `;nin` | ∉ | Not element of | `;subset` | ⊂ | Subset |
+| `;supset` | ⊃ | Superset | `;cup` | ∪ | Union |
+| `;bigcup` | ⋃ | Big union | `;cap` | ∩ | Intersection |
+| `;bigcap` | ⋂ | Big intersection | `;emptyset` | ∅ | Empty set |
+| `;therefore` | ∴ | Therefore | `;because` | ∵ | Because |
+| `;implies` | ⟹ | Implies | `;=>` | ⟹ | Implies (alias) |
+| `;impliedby` | ⟸ | Implied by | `;<=` | ⟸ | Implied by (alias) |
+| `;iff` | ⟺ | If and only if | `;<=>` | ⟺ | If and only if (alias) |
+| `;cdot` | ⋅ | Center dot (multiplication) | `;compose` | ∘ | Function composition |
+| `;perp` | ⊥ | Perpendicular | `;parallel` | ∥ | Parallel |
+| `;nparallel` | ∦ | Not parallel | `;oplus` | ⊕ | Direct sum |
+| `;ominus` | ⊖ | Symmetric difference | `;otimes` | ⊗ | Tensor product |
+| `;oslash` | ⊘ | Division | `;odot` | ⊙ | Hadamard product |
+| `;circ` | ∘ | Function composition | `;bullet` | • | Bullet |
+| `;propto` | ∝ | Proportional to | `;cong` | ≅ | Congruent |
+| `;sim` | ∼ | Similar to | `;nsim` | ≁ | Not similar to |
+| `;prec` | ≺ | Precedes | `;succ` | ≻ | Succeeds |
+| `;preceq` | ⪯ | Precedes or equal | `;succeq` | ⪰ | Succeeds or equal |
+| `;vee` | ∨ | Logical or | `;wedge` | ∧ | Logical and |
+| `;neg` | ¬ | Logical negation | `;exists` | ∃ | There exists |
+| `;forall` | ∀ | For all | `;nexists` | ∄ | There does not exist |
+| `;to` | → | Right arrow | `;->` | → | Right arrow (alias) |
+| `;<-` | ← | Left arrow | `:<` | ⟨ | Left angle bracket |
+| `:>` | ⟩ | Right angle bracket | `;contain` | ∍ | Contains as member |
+| `;in` | ∍ | Contains as member (alias) | | | |
+
+## 丸数字（Circled Numbers）
+
+| 入力 | 出力 | 説明 | 入力 | 出力 | 説明 |
+|------|------|------|------|------|------|
+| `;o1` | ① | Circled 1 | `;o2` | ② | Circled 2 |
+| `;o3` | ③ | Circled 3 | | | |
 
 ## 使用方法
 
