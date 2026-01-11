@@ -744,6 +744,16 @@
 		"body": ["∈"],
 		"description": "Element of"
 	},
+	"Contain":{
+		"prefix": ";ni",
+		"body": ["∋"],
+		"description": "Contains as member (にあたる記号)"
+	},
+	"Contain Alias":{
+		"prefix": ";contain",
+		"body": ["∋"],
+		"description": "Contains as member (にあたる記号)"
+	},
 	"Not Element": {
 		"prefix": ";nin",
 		"body": ["∉"],
@@ -823,6 +833,11 @@
 		"prefix": ";<=>",
 		"body": ["⟺"],
 		"description": "If and only if (alias)"
+	},
+	"Maps To": {
+		"prefix": ";mapsto",
+		"body": ["↦"],
+		"description": "Maps to"
 	},
 	"Center Dot": {
 		"prefix": ";cdot",

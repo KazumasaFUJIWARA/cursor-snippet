@@ -1,4 +1,9 @@
 {
+	"Element": {
+		"prefix": ";in",
+		"body": ["∈"],
+		"description": "Element of"
+	},
   ";sup0": {
     "prefix": ";sup0",
     "body": [
